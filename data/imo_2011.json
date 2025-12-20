@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2011,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Number Theory",
+    "statement": "Given any set A = {a1, a2, a3, a4} of four distinct positive integers, we denote the sum a1 + a2 + a3 + a4 by s_A. Let n_A denote the number of pairs (i, j) with 1 ≤ i < j ≤ 4 for which a_i + a_j divides s_A.\n\nFind all sets A of four distinct positive integers which achieve the largest possible value of n_A.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2011 Day 1 (English)"
+  },
+  {
+    "year": 2011,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "Let S be a finite set of at least two points in the plane. Assume that no three points of S are collinear.\n\nA windmill is a process that starts with a line ℓ going through a single point P ∈ S. The line rotates clockwise about the pivot P until the first time that the line meets some other point belonging to S. This point, Q, takes over as the new pivot, and the line now rotates clockwise about Q, until it next meets a point of S. This process continues indefinitely.\n\nShow that we can choose a point P in S and a line ℓ going through P such that the resulting windmill uses each point of S as a pivot infinitely many times.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2011 Day 1 (English)"
+  },
+  {
+    "year": 2011,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Functional Equations",
+    "statement": "Let f : R → R be a real-valued function defined on the set of real numbers that satisfies\n\nf(x + y) ≤ y f(x) + f(f(x))\n\nfor all real numbers x and y.\n\nProve that f(x) = 0 for all x ≤ 0.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2011 Day 1 (English)"
+  },
+  {
+    "year": 2011,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Combinatorics",
+    "statement": "Let n > 0 be an integer. We are given a balance and n weights of weight 2^0, 2^1, …, 2^{n−1}. We are to place each of the n weights on the balance, one after another, in such a way that the right pan is never heavier than the left pan.\n\nAt each step we choose one of the weights that has not yet been placed on the balance, and place it on either the left pan or the right pan, until all of the weights have been placed.\n\nDetermine the number of ways in which this can be done.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2011 Day 2 (English)"
+  },
+  {
+    "year": 2011,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Number Theory",
+    "statement": "Let f be a function from the set of integers to the set of positive integers. Suppose that, for any two integers m and n, the difference f(m) − f(n) is divisible by f(m − n).\n\nProve that, for all integers m and n with f(m) ≤ f(n), the number f(n) is divisible by f(m).",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2011 Day 2 (English)"
+  },
+  {
+    "year": 2011,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Geometry",
+    "statement": "Let ABC be an acute triangle with circumcircle Γ. Let ℓ be a tangent line to Γ, and let ℓ_a, ℓ_b and ℓ_c be the lines obtained by reflecting ℓ in the lines BC, CA and AB, respectively.\n\nShow that the circumcircle of the triangle determined by the lines ℓ_a, ℓ_b and ℓ_c is tangent to the circle Γ.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2011 Day 2 (English)"
+  }
+]
