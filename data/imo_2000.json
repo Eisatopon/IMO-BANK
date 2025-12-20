@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2000,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Geometry",
+    "statement": "Two circles O1 and O2 intersect at M and N. Let ℓ be their common tangent that is closer to M than to N, touching O1 at A and O2 at B. The line through M parallel to ℓ meets O1 again at C and O2 again at D. Let the lines CA and DB meet at E; let the lines AN and CD meet at P; let the lines BN and CD meet at Q. Prove that EP = EQ.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2000 Day 1 (English)"
+  },
+  {
+    "year": 2000,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Inequalities",
+    "statement": "Let a, b, c be positive real numbers with abc = 1. Prove that\n\n(a - 1 + 1/b)\n(b - 1 + 1/c)\n(c - 1 + 1/a) ≤ 1.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2000 Day 1 (English)"
+  },
+  {
+    "year": 2000,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Combinatorics",
+    "statement": "Let n ≥ 2 be a positive integer and let λ be a positive real number. Initially, n fleas stand on a horizontal line, not all at the same point. A move is defined as follows: choose any two fleas at points A and B with A to the left of B, and let the flea at A jump to a point C to the right of B such that BC / AB = λ. For each value of n, determine all values of λ for which, for any point M on the line and any initial positions of the n fleas, there exists a finite sequence of moves that transports all the fleas to positions to the right of M.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2000 Day 1 (English)"
+  },
+  {
+    "year": 2000,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Combinatorics / Logic",
+    "statement": "A magician has 100 cards numbered 1 to 100. He distributes them into three boxes — red, white, and blue — each containing at least one card. An audience member selects two of the boxes, chooses one card from each, and announces the sum of the two numbers. From this sum, the magician identifies the box from which no card was chosen. How many ways are there to distribute the cards into the boxes so that the trick always works?",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2000 Day 2 (English)"
+  },
+  {
+    "year": 2000,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Number Theory",
+    "statement": "Does there exist a positive integer n having exactly 2000 prime divisors such that 2^n + 1 is divisible by n?",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2000 Day 2 (English)"
+  },
+  {
+    "year": 2000,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Geometry",
+    "statement": "Let A1A2A3 be an acute-angled triangle with altitudes A1H1, A2H2, A3H3. The incircle touches the sides A2A3, A3A1, A1A2 at T1, T2, T3, respectively. Let L1, L2, L3 be the reflections of the lines H2H3, H3H1, H1H2 in the lines T2T3, T3T1, T1T2, respectively. Prove that the lines L1, L2, L3 determine a triangle whose vertices lie on the incircle of A1A2A3.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2000 Day 2 (English)"
+  }
+]
