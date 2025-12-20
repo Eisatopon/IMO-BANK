@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2023,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Number Theory",
+    "statement": "Determine all composite integers n > 1 that satisfy the following property: if d1, d2, …, dk are all the positive divisors of n with 1 = d1 < d2 < · · · < dk = n, then di divides di+1 + di+2 for every 1 ≤ i ≤ k − 2.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2023 Day 1 (English)"
+  },
+  {
+    "year": 2023,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "Let ABC be an acute-angled triangle with AB < AC. Let Ω be the circumcircle of ABC. Let S be the midpoint of the arc CB of Ω containing A. The perpendicular from A to BC meets BS at D and meets Ω again at E ≠ A. The line through D parallel to BC meets line BE at L. Denote the circumcircle of triangle BDL by ω. Let ω meet Ω again at P ≠ B.\n\nProve that the line tangent to ω at P meets line BS on the internal angle bisector of ∠BAC.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2023 Day 1 (English)"
+  },
+  {
+    "year": 2023,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Algebra",
+    "statement": "For each integer k ≥ 2, determine all infinite sequences of positive integers a1, a2, … for which there exists a polynomial P of the form\n\nP(x) = x^k + c_{k−1}x^{k−1} + · · · + c1x + c0,\n\nwhere c0, c1, …, c_{k−1} are non-negative integers, such that\n\nP(an) = a_{n+1} a_{n+2} · · · a_{n+k}\n\nfor every integer n ≥ 1.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2023 Day 1 (English)"
+  },
+  {
+    "year": 2023,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Inequalities",
+    "statement": "Let x1, x2, …, x2023 be pairwise different positive real numbers such that\n\na_n = √((x1 + x2 + · · · + xn)(1/x1 + 1/x2 + · · · + 1/xn))\n\nis an integer for every n = 1, 2, …, 2023. Prove that a_2023 ≥ 3034.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2023 Day 2 (English)"
+  },
+  {
+    "year": 2023,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Combinatorics",
+    "statement": "Let n be a positive integer. A Japanese triangle consists of 1 + 2 + · · · + n circles arranged in an equilateral triangular shape such that for each i = 1, 2, …, n, the i-th row contains exactly i circles, exactly one of which is coloured red.\n\nA ninja path in a Japanese triangle is a sequence of n circles obtained by starting in the top row, then repeatedly going from a circle to one of the two circles immediately below it and finishing in the bottom row.\n\nIn terms of n, find the greatest k such that in each Japanese triangle there is a ninja path containing at least k red circles.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2023 Day 2 (English)"
+  },
+  {
+    "year": 2023,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Geometry",
+    "statement": "Let ABC be an equilateral triangle. Let A1, B1, C1 be interior points of ABC such that BA1 = A1C, CB1 = B1A, AC1 = C1B, and\n\n∠BA1C + ∠CB1A + ∠AC1B = 480°.\n\nLet BC1 and CB1 meet at A2, let CA1 and AC1 meet at B2, and let AB1 and BA1 meet at C2.\n\nProve that if triangle A1B1C1 is scalene, then the three circumcircles of triangles AA1A2, BB1B2 and CC1C2 all pass through two common points.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2023 Day 2 (English)"
+  }
+]
