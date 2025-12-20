@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2001,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Geometry",
+    "statement": "Let ABC be an acute-angled triangle with circumcentre O. Let P on BC be the foot of the altitude from A. Suppose that ∠BCA − ∠ABC = 30°. Prove that ∠CAB + ∠COP = 90°.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2001 Day 1 (English)"
+  },
+  {
+    "year": 2001,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Inequalities",
+    "statement": "Prove that\n\n\\frac{a}{\\sqrt{a^2 + 8bc}} + \\frac{b}{\\sqrt{b^2 + 8ca}} + \\frac{c}{\\sqrt{c^2 + 8ab}} \\le 1\n\nfor all positive real numbers a, b and c.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2001 Day 1 (English)"
+  },
+  {
+    "year": 2001,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Combinatorics",
+    "statement": "Twenty-one girls and twenty-one boys took part in a mathematical contest.\n\n• Each contestant solved at most six problems.\n• For each girl and each boy, at least one problem was solved by both of them.\n\nProve that there was a problem that was solved by at least three girls and at least three boys.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2001 Day 1 (English)"
+  },
+  {
+    "year": 2001,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Number Theory",
+    "statement": "Let n be an odd integer greater than 1, and let k1, k2, …, kn be given integers. For each of the n! permutations a = (a1, a2, …, an) of (1, 2, …, n), let\n\nS(a) = k1 a1 + k2 a2 + ··· + kn an.\n\nProve that there are two permutations b and c, b ≠ c, such that n! divides S(b) − S(c).",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2001 Day 2 (English)"
+  },
+  {
+    "year": 2001,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Geometry",
+    "statement": "In a triangle ABC, let AP bisect ∠BAC, with P on BC, and let BQ bisect ∠ABC, with Q on CA. It is known that ∠BAC = 60° and that AB · BP = AQ · QB.\n\nWhat are the possible angles of triangle ABC?",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2001 Day 2 (English)"
+  },
+  {
+    "year": 2001,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Number Theory",
+    "statement": "Let a, b, c, d be integers with a < b < c < d < 0. Suppose that\n\nac + bd = bc + ad.\n\nProve that abcd is not prime.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2001 Day 2 (English)"
+  }
+]
