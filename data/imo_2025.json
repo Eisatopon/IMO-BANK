@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Let N denote the set of positive integers. A function f : N → N is said to be bonza if\n\nf(a) divides b^{a − f(b)} / f(a)\n\nfor all positive integers a and b.\n\nDetermine the smallest real constant c such that f(n) ≤ cn for all bonza functions f and all positive integers n.",
+    "statement": "Let N denote the set of positive integers. A function f : N → N is said to be bonza if\n\n\\( f(a) \\mid \\frac{b^{a - f(b)}}{f(a)} \\)\n\nfor all positive integers a and b.\n\nDetermine the smallest real constant c such that \\( f(n) \\le cn \\) for all bonza functions f and all positive integers n.",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2025 Day 1"
