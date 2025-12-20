@@ -1,10 +1,13 @@
 # IMO Problem Bank
 
+# IMO Problem Bank
+
 Structured archive of International Mathematical Olympiad problems.
 
-- Problems are stored in JSON format
+- Format: JSON
 - Language: English
-- Source: Official IMO statements
-- Maintained by EisatoponAI
+- Source: Official IMO problem statements
+- Maintained by EisatoponAI (eisatopon.gr)
 
 This repository is used as a data backend for https://eisatopon.gr
+
