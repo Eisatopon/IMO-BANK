@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2017,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Number Theory",
+    "statement": "For each integer a0 > 1, define the sequence a0, a1, a2, … by\n\na_{n+1} = \\begin{cases}\n\\sqrt{a_n}, & \\text{if } \\sqrt{a_n} \\text{ is an integer}, \\\\\na_n + 3, & \\text{otherwise},\n\\end{cases}\n\nfor each n ≥ 0.\n\nDetermine all values of a0 for which there exists a number A such that a_n = A for infinitely many values of n.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2017 Day 1 (English)"
+  },
+  {
+    "year": 2017,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Functional Equations",
+    "statement": "Let R be the set of real numbers. Determine all functions f : R → R such that, for all real numbers x and y,\n\nf(f(x)f(y)) + f(x + y) = f(xy).",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2017 Day 1 (English)"
+  },
+  {
+    "year": 2017,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "A hunter and an invisible rabbit play a game in the Euclidean plane. The rabbit’s starting point A0 and the hunter’s starting point B0 coincide. After n − 1 rounds of the game, the rabbit is at point A_{n−1} and the hunter is at point B_{n−1}. In the n-th round of the game, the following occur in order:\n\n(i) The rabbit moves invisibly to a point A_n such that the distance between A_{n−1} and A_n is exactly 1.\n(ii) A tracking device reports a point P_n to the hunter such that the distance between P_n and A_n is at most 1.\n(iii) The hunter moves visibly to a point B_n such that the distance between B_{n−1} and B_n is exactly 1.\n\nIs it always possible, no matter how the rabbit moves and no matter what points are reported by the tracking device, for the hunter to choose her moves so that after 10^9 rounds she can ensure that the distance between her and the rabbit is at most 100?",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2017 Day 1 (English)"
+  },
+  {
+    "year": 2017,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "Let R and S be different points on a circle Ω such that RS is not a diameter. Let ℓ be the tangent line to Ω at R. Point T is such that S is the midpoint of the line segment RT. Point J is chosen on the shorter arc RS of Ω so that the circumcircle Γ of triangle JST intersects ℓ at two distinct points. Let A be the intersection point of Γ and ℓ that is closer to R. Line AJ meets Ω again at K.\n\nProve that the line KT is tangent to Γ.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2017 Day 2 (English)"
+  },
+  {
+    "year": 2017,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Combinatorics",
+    "statement": "An integer N > 2 is given. A collection of N(N + 1) soccer players, no two of whom have the same height, stand in a row. Sir Alex wants to remove N(N − 1) players from this row, leaving a new row of 2N players in which the following N conditions hold:\n\n(1) No one stands between the two tallest players.\n(2) No one stands between the third and fourth tallest players.\n⋯\n(N) No one stands between the two shortest players.\n\nShow that this is always possible.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2017 Day 2 (English)"
+  },
+  {
+    "year": 2017,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Number Theory",
+    "statement": "An ordered pair (x, y) of integers is called a primitive point if gcd(x, y) = 1. Given a finite set S of primitive points, prove that there exist a positive integer n and integers a0, a1, …, a_n such that, for each (x, y) in S,\n\na0 x^n + a1 x^{n−1} y + a2 x^{n−2} y^2 + · · · + a_{n−1} x y^{n−1} + a_n y^n = 1.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2017 Day 2 (English)"
+  }
+]
