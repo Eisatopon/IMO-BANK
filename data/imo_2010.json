@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2010,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Functional Equations",
+    "statement": "Determine all functions f : R → R such that the equality\n\nf(⌊x⌋y) = f(x)⌊f(y)⌋\n\nholds for all real numbers x and y.\n\n(Here ⌊z⌋ denotes the greatest integer less than or equal to z.)",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2010 Day 1 (English)"
+  },
+  {
+    "year": 2010,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "Let I be the incentre of triangle ABC and let Γ be its circumcircle. Let the line AI intersect Γ again at D. Let E be a point on the arc BDC of Γ and F a point on the side BC such that\n\n∠BAF = ∠CAE < 1/2 ∠BAC.\n\nFinally, let G be the midpoint of the segment IF. Prove that the lines DG and EI intersect on Γ.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2010 Day 1 (English)"
+  },
+  {
+    "year": 2010,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Number Theory",
+    "statement": "Let N be the set of positive integers. Determine all functions g : N → N such that\n\n⌊g(m) + n⌋ ⌊m + g(n)⌋\n\nis a perfect square for all m, n ∈ N.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2010 Day 1 (English)"
+  },
+  {
+    "year": 2010,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "Let P be a point inside the triangle ABC. The lines AP, BP and CP intersect the circumcircle Γ of triangle ABC again at the points K, L and M respectively. The tangent to Γ at C intersects the line AB at S. Suppose that SC = SP.\n\nProve that MK = ML.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2010 Day 2 (English)"
+  },
+  {
+    "year": 2010,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Combinatorics",
+    "statement": "In each of six boxes B1, B2, B3, B4, B5, B6 there is initially one coin. There are two types of operation allowed:\n\nType 1: Choose a nonempty box Bj with 1 ≤ j ≤ 5. Remove one coin from Bj and add two coins to Bj+1.\n\nType 2: Choose a nonempty box Bk with 1 ≤ k ≤ 4. Remove one coin from Bk and exchange the contents of (possibly empty) boxes Bk+1 and Bk+2.\n\nDetermine whether there is a finite sequence of such operations that results in boxes B1, B2, B3, B4, B5 being empty and box B6 containing exactly 201020102010 coins.\n\n(Note that a^(b/c) = a^(b/c).)",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2010 Day 2 (English)"
+  },
+  {
+    "year": 2010,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Algebra",
+    "statement": "Let a1, a2, a3, … be a sequence of positive real numbers. Suppose that for some positive integer s, we have\n\na_n = max{a_k + a_{n−k} | 1 ≤ k ≤ n − 1}\n\nfor all n > s. Prove that there exist positive integers ℓ and N, with ℓ ≤ s, such that\n\na_n = a_ℓ + a_{n−ℓ}\n\nfor all n ≥ N.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2010 Day 2 (English)"
+  }
+]
