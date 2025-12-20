@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2021,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Number Theory",
+    "statement": "Let n > 100 be an integer. Ivan writes the numbers n, n + 1, … , 2n each on different cards. He then shuffles these n + 1 cards, and divides them into two piles.\n\nProve that at least one of the piles contains two cards such that the sum of their numbers is a perfect square.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2021 Day 1 (English)"
+  },
+  {
+    "year": 2021,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Inequalities",
+    "statement": "Show that the inequality\n\n∑_{i=1}^{n} ∑_{j=1}^{n} √|x_i − x_j| ≤ ∑_{i=1}^{n} ∑_{j=1}^{n} √|x_i + x_j|\n\nholds for all real numbers x_1, … , x_n.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2021 Day 1 (English)"
+  },
+  {
+    "year": 2021,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "Let D be an interior point of the acute triangle ABC with AB > AC such that ∠DAB = ∠CAD. The point E on the segment AC satisfies ∠ADE = ∠BCD, the point F on the segment AB satisfies ∠FDA = ∠DBC, and the point X on the line AC satisfies CX = BX.\n\nLet O₁ and O₂ be the circumcentres of triangles ADC and EXD, respectively. Prove that the lines BC, EF, and O₁O₂ are concurrent.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2021 Day 1 (English)"
+  },
+  {
+    "year": 2021,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "Let Γ be a circle with centre I, and ABCD a convex quadrilateral such that each of the segments AB, BC, CD and DA is tangent to Γ. Let Ω be the circumcircle of triangle AIC. The extension of BA beyond A meets Ω at X, and the extension of BC beyond C meets Ω at Z. The extensions of AD and CD beyond D meet Ω at Y and T, respectively.\n\nProve that AD + DT + TX + XA = CD + DY + YZ + ZC.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2021 Day 2 (English)"
+  },
+  {
+    "year": 2021,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Combinatorics",
+    "statement": "Two squirrels, Bushy and Jumpy, have collected 2021 walnuts for the winter. Jumpy numbers the walnuts from 1 through 2021, and digs 2021 little holes in a circular pattern in the ground around their favourite tree. The next morning Jumpy notices that Bushy had placed one walnut into each hole, but had paid no attention to the numbering.\n\nUnhappy, Jumpy decides to reorder the walnuts by performing a sequence of 2021 moves. In the k-th move, Jumpy swaps the positions of the two walnuts adjacent to walnut k.\n\nProve that there exists a value of k such that, on the k-th move, Jumpy swaps some walnuts a and b such that a < k < b.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2021 Day 2 (English)"
+  },
+  {
+    "year": 2021,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Combinatorics",
+    "statement": "Let m > 2 be an integer, A be a finite set of (not necessarily positive) integers, and B₁, B₂, B₃, … , B_m be subsets of A. Assume that for each k = 1, 2, … , m the sum of the elements of B_k is m^k.\n\nProve that A contains at least m / 2 elements.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2021 Day 2 (English)"
+  }
+]
