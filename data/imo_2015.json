@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2015,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Geometry",
+    "statement": "We say that a finite set S of points in the plane is balanced if, for any two different points A and B in S, there is a point C in S such that AC = BC. We say that S is centre-free if for any three different points A, B, and C in S, there is no point P in S such that PA = PB = PC.\n\n(a) Show that for all integers n > 3, there exists a balanced set consisting of n points.\n(b) Determine all integers n > 3 for which there exists a balanced centre-free set consisting of n points.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2015 Day 1 (English)"
+  },
+  {
+    "year": 2015,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Number Theory",
+    "statement": "Determine all triples (a, b, c) of positive integers such that each of the numbers\n\nab − c,  bc − a,  ca − b\n\nis a power of 2.\n\n(A power of 2 is an integer of the form 2^n, where n is a non-negative integer.)",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2015 Day 1 (English)"
+  },
+  {
+    "year": 2015,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "Let ABC be an acute triangle with AB > AC. Let Γ be its circumcircle, H its orthocentre, and F the foot of the altitude from A. Let M be the midpoint of BC. Let Q be the point on Γ such that ∠HQA = 90°, and let K be the point on Γ such that ∠HKQ = 90°. Assume that the points A, B, C, K, and Q are all distinct and lie on Γ in this order.\n\nProve that the circumcircles of triangles KQH and FKM are tangent to each other.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2015 Day 1 (English)"
+  },
+  {
+    "year": 2015,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "Triangle ABC has circumcircle Ω and circumcentre O. A circle Γ with centre A intersects segment BC at points D and E, such that B, D, E, and C are all distinct and lie on line BC in this order. Let F and G be the points of intersection of Γ and Ω, such that A, F, B, C, and G lie on Ω in this order. Let K be the second point of intersection of the circumcircle of triangle BDF and segment AB, and let L be the second point of intersection of the circumcircle of triangle CGE and segment CA.\n\nSuppose that the lines FK and GL are different and intersect at point X. Prove that X lies on line AO.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2015 Day 2 (English)"
+  },
+  {
+    "year": 2015,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Functional Equations",
+    "statement": "Let R be the set of real numbers. Determine all functions f : R → R satisfying the equation\n\nf(x + f(x + y)) + f(xy) = x + f(x + y) + y f(x)\n\nfor all real numbers x and y.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2015 Day 2 (English)"
+  },
+  {
+    "year": 2015,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Number Theory",
+    "statement": "The sequence a1, a2, … of integers satisfies the following conditions:\n\n(i) 1 ≤ a_j ≤ 2015 for all j ≥ 1;\n(ii) k + a_k ≠ ℓ + a_ℓ for all integers 1 ≤ k < ℓ.\n\nProve that there exist positive integers b and N such that\n\n| \\sum_{j=m+1}^{n} (a_j − b) | ≤ 1007\n\nfor all integers m and n satisfying n > m > N.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2015 Day 2 (English)"
+  }
+]
