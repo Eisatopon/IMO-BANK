@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2025,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Combinatorics",
+    "statement": "A line in the plane is called sunny if it is not parallel to any of the x-axis, the y-axis, and the line x + y = 0.\n\nLet n \\ge 3 be a given integer. Determine all nonnegative integers k such that there exist n distinct lines in the plane satisfying both of the following:\n• for all positive integers a and b with a + b \\le n + 1, the point (a, b) is on at least one of the lines; and\n• exactly k of the n lines are sunny.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2025 Day 1"
+  },
+  {
+    "year": 2025,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "Let Ω and Γ be circles with centres M and N, respectively, such that the radius of Ω is less than the radius of Γ. Suppose circles Ω and Γ intersect at two distinct points A and B. Line MN intersects Ω at C and Γ at D, such that points C, M, N and D lie on the line in that order. Let P be the circumcentre of triangle ACD. Line AP intersects Ω again at E ≠ A. Line AP intersects Γ again at F ≠ A. Let H be the orthocentre of triangle PMN.\n\nProve that the line through H parallel to AP is tangent to the circumcircle of triangle BEF.\n\n(The orthocentre of a triangle is the point of intersection of its altitudes.)",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2025 Day 1"
+  },
+  {
+    "year": 2025,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Number Theory",
+    "statement": "Let N denote the set of positive integers. A function f : N → N is said to be bonza if\n\nf(a) divides b^{a − f(b)} / f(a)\n\nfor all positive integers a and b.\n\nDetermine the smallest real constant c such that f(n) ≤ cn for all bonza functions f and all positive integers n.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2025 Day 1"
+  },
+  {
+    "year": 2025,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Number Theory",
+    "statement": "A proper divisor of a positive integer N is a positive divisor of N other than N itself.\n\nThe infinite sequence a₁, a₂, … consists of positive integers, each of which has at least three proper divisors. For each n ≥ 1, the integer aₙ₊₁ is the sum of the three largest proper divisors of aₙ.\n\nDetermine all possible values of a₁.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2025 Day 2"
+  },
+  {
+    "year": 2025,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Algebra",
+    "statement": "Alice and Bazza are playing the inekoalaty game, a two-player game whose rules depend on a positive real number λ which is known to both players. On the n-th turn of the game (starting with n = 1) the following happens:\n• If n is odd, Alice chooses a nonnegative real number xₙ such that x₁ + x₂ + · · · + xₙ ≤ λn.\n• If n is even, Bazza chooses a nonnegative real number xₙ such that x₁² + x₂² + · · · + xₙ² ≤ n.\n\nIf a player cannot choose a suitable number xₙ, the game ends and the other player wins. If the game goes on forever, neither player wins. All chosen numbers are known to both players.\n\nDetermine all values of λ for which Alice has a winning strategy and all those for which Bazza has a winning strategy.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2025 Day 2"
+  },
+  {
+    "year": 2025,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Combinatorics",
+    "statement": "Consider a 2025×2025 grid of unit squares. Matilda wishes to place on the grid some rectangular tiles, possibly of different sizes, such that each side of every tile lies on a grid line and every unit square is covered by at most one tile.\n\nDetermine the minimum number of tiles Matilda needs to place so that each row and each column of the grid has exactly one unit square that is not covered by any tile.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 2025 Day 2"
+  }
+]
