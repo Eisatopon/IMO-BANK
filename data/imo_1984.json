@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1984,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Algebra",
+    "statement": "Prove that 0 ≤ yz + zx + xy − 2xyz ≤ 7/27, where x, y and z are non-negative real numbers for which x + y + z = 1.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1984 Day 1"
+  },
+  {
+    "year": 1984,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Number Theory",
+    "statement": "Find one pair of positive integers a and b such that:\n(i) ab(a + b) is not divisible by 7;\n(ii) (a + b)^7 − a^7 − b^7 is divisible by 7^7.\n\nJustify your answer.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1984 Day 1"
+  },
+  {
+    "year": 1984,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Combinatorics",
+    "statement": "In the plane two different points O and A are given. For each point X of the plane, other than O, denote by a(X) the measure of the angle between OA and OX in radians, counterclockwise from OA (0 ≤ a(X) < 2π). Let C(X) be the circle with center O and radius of length OX + a(X)/OX. Each point of the plane is colored by one of a finite number of colors. Prove that there exists a point Y for which a(Y) > 0 such that its color appears on the circumference of the circle C(Y).",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1984 Day 1"
+  },
+  {
+    "year": 1984,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "Let ABCD be a convex quadrilateral such that the line CD is a tangent to the circle on AB as diameter. Prove that the line AB is a tangent to the circle on CD as diameter if and only if the lines BC and AD are parallel.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1984 Day 2"
+  },
+  {
+    "year": 1984,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Geometry",
+    "statement": "Let d be the sum of the lengths of all the diagonals of a plane convex polygon with n vertices (n > 3), and let p be its perimeter. Prove that\n\nn − 3 < 2d/p < ⌊n/2⌋⌊(n+1)/2⌋ − 2,\n\nwhere ⌊x⌋ denotes the greatest integer not exceeding x.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1984 Day 2"
+  },
+  {
+    "year": 1984,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Number Theory",
+    "statement": "Let a, b, c and d be odd integers such that 0 < a < b < c < d and ad = bc. Prove that if a + d = 2^k and b + c = 2^m for some integers k and m, then a = 1.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1984 Day 2"
+  }
+]
