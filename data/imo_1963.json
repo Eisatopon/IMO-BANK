@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1963,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Algebra",
+    "statement": "Find all real roots of the equation √(x² − p) + 2√(x² − 1) = x, where p is a real parameter.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1963 Day 1"
+  },
+  {
+    "year": 1963,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "Point A and segment BC are given. Determine the locus of points in space that are vertices of right angles with one side passing through A and the other side intersecting segment BC.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1963 Day 1"
+  },
+  {
+    "year": 1963,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "In an n-gon all of whose interior angles are equal, the lengths of consecutive sides satisfy a₁ ≥ a₂ ≥ ⋯ ≥ aₙ. Prove that a₁ = a₂ = ⋯ = aₙ.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1963 Day 1"
+  },
+  {
+    "year": 1963,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Algebra",
+    "statement": "Find all solutions (x₁, x₂, x₃, x₄, x₅) of the cyclic system x₅ + x₂ = y x₁, x₁ + x₃ = y x₂, x₂ + x₄ = y x₃, x₃ + x₅ = y x₄, x₄ + x₁ = y x₅, where y is a real parameter.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1963 Day 2"
+  },
+  {
+    "year": 1963,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Trigonometry",
+    "statement": "Prove that cos(π/7) − cos(2π/7) + cos(3π/7) = 1/2.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1963 Day 2"
+  },
+  {
+    "year": 1963,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Logic / Word Problem",
+    "statement": "Five students A, B, C, D, E took part in a contest. Prediction 1: ABCDE (no one in correct position, no consecutive pair correct). Prediction 2: DAECB (exactly two in correct positions, two disjoint consecutive pairs correct). Determine the actual finishing order.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1963 Day 2"
+  }
+]
