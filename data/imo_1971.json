@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1971,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Inequalities",
+    "statement": "Prove that the assertion (a₁−a₂)(a₁−a₃)⋯(a₁−aₙ)+⋯+(aₙ−a₁)(aₙ−a₂)⋯(aₙ−aₙ₋₁) ≥ 0 is true for n = 3 and n = 5, and false for every other natural number n > 2.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1971 Day 1"
+  },
+  {
+    "year": 1971,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Combinatorial Geometry",
+    "statement": "Let P₁ be a convex polyhedron with nine vertices A₁,...,A₉ and let Pᵢ be the translate of P₁ sending A₁ to Aᵢ (i = 2,...,9). Prove that at least two of the polyhedra P₁,...,P₉ have an interior point in common.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1971 Day 1"
+  },
+  {
+    "year": 1971,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Number Theory",
+    "statement": "Prove that the set of integers of the form 2ᵏ − 3 (k = 2,3,...) contains an infinite subset in which every two members are relatively prime.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1971 Day 1"
+  },
+  {
+    "year": 1971,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "All faces of tetrahedron ABCD are acute-angled triangles. Consider closed polygonal paths XYZTX with X on AB, Y on BC, Z on CD, T on DA (all distinct from vertices). (a) If ∠DAB + ∠BCD ≠ ∠CDA + ∠ABC, prove no path of minimal length exists. (b) If equality holds, prove infinitely many shortest paths exist, their common length being 2AC sin(α/2) where α = ∠BAC + ∠CAD + ∠DAB.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1971 Day 2"
+  },
+  {
+    "year": 1971,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Combinatorial Geometry",
+    "statement": "Prove that for every natural number m there exists a finite set S of points in the plane such that for every point A in S there are exactly m points of S at unit distance from A.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1971 Day 2"
+  },
+  {
+    "year": 1971,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Linear Algebra",
+    "statement": "Let A = (aᵢⱼ) be an n×n matrix with non-negative integer entries. Suppose that whenever aᵢⱼ = 0, the sum of the elements in the i-th row and the j-th column is ≥ n. Prove that the sum of all elements of the matrix is ≥ n²/2.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1971 Day 2"
+  }
+]
