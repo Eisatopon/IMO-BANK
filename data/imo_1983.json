@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1983,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Functional Equations",
+    "statement": "Find all functions f defined on the set of positive real numbers which take positive real values and satisfy: (i) f(x f(y)) = y f(x) for all positive x, y; (ii) f(x) → 0 as x → ∞.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1983 Day 1"
+  },
+  {
+    "year": 1983,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "Let A be one of the two distinct points of intersection of two unequal coplanar circles C1 and C2 with centers O1 and O2. One common tangent touches C1 at P1 and C2 at P2; the other touches C1 at Q1 and C2 at Q2. Let M1 be the midpoint of P1Q1 and M2 the midpoint of P2Q2. Prove that ∠O1AO2 = ∠M1AM2.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1983 Day 1"
+  },
+  {
+    "year": 1983,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Number Theory",
+    "statement": "Let a, b, c be positive integers, no two of which have a common divisor greater than 1. Show that 2abc − ab − bc − ca is the largest integer which cannot be expressed in the form xbc + yca + zab with non-negative integers x, y, z.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1983 Day 1"
+  },
+  {
+    "year": 1983,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Combinatorics",
+    "statement": "Let ABC be an equilateral triangle and E the set of all points on segments AB, BC, CA (including A, B, C). Determine whether, for every partition of E into two disjoint subsets, at least one subset contains the vertices of a right-angled triangle. Justify your answer.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1983 Day 2"
+  },
+  {
+    "year": 1983,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Combinatorics",
+    "statement": "Is it possible to choose 1983 distinct positive integers, all ≤ 10^5, such that no three are consecutive terms of an arithmetic progression? Justify your answer.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1983 Day 2"
+  },
+  {
+    "year": 1983,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Inequalities",
+    "statement": "Let a, b, c be the lengths of the sides of a triangle. Prove that a²b(a − b) + b²c(b − c) + c²a(c − a) ≥ 0 and determine when equality occurs.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1983 Day 2"
+  }
+]
