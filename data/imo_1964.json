@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1964,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Number Theory",
+    "statement": "(a) Find all positive integers n for which 2ⁿ − 1 is divisible by 7. (b) Prove that there is no positive integer n for which 2ⁿ + 1 is divisible by 7.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1964 Day 1"
+  },
+  {
+    "year": 1964,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Inequalities",
+    "statement": "Suppose a, b, c are the sides of a triangle. Prove that a²(b + c − a) + b²(c + a − b) + c²(a + b − c) ≤ 3abc.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1964 Day 1"
+  },
+  {
+    "year": 1964,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "A circle is inscribed in triangle ABC with sides a, b, c. Tangents to this circle parallel to the sides of ABC are drawn, each cutting off a smaller triangle from ABC. In each of these three triangles a circle is inscribed. Find the sum of the areas of all four inscribed circles (in terms of a, b, c).",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1964 Day 1"
+  },
+  {
+    "year": 1964,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Combinatorics",
+    "statement": "Seventeen people correspond by mail with one another—each with all the rest. In their letters only three different topics are discussed, and each pair of correspondents deals with only one topic. Prove that there are at least three people who write to one another about the same topic.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1964 Day 2"
+  },
+  {
+    "year": 1964,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Combinatorial Geometry",
+    "statement": "Five points in a plane are situated so that no two of the straight lines joining them are parallel, perpendicular, or coincident. From each point perpendiculars are drawn to all the lines joining the other four points. Determine the maximum number of intersections these perpendiculars can have.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1964 Day 2"
+  },
+  {
+    "year": 1964,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Geometry",
+    "statement": "In tetrahedron ABCD, vertex D is connected with D₀, the centroid of triangle ABC. Lines parallel to DD₀ are drawn through A, B, and C, intersecting the planes BCD, CAD, and ABD in points A₁, B₁, and C₁, respectively. Prove that the volume of ABCD is one third the volume of A₁B₁C₁D₀. Is the result true if D₀ is selected anywhere within triangle ABC?",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1964 Day 2"
+  }
+]
