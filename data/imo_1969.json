@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1969,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Number Theory",
+    "statement": "Prove that there are infinitely many natural numbers a such that n⁴ + a is never prime for any natural number n.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1969 Day 1"
+  },
+  {
+    "year": 1969,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Trigonometry",
+    "statement": "Let a₁,...,aₙ be real constants and f(x)=cos(a₁+x)+½cos(a₂+x)+⋯+(1/2ⁿ⁻¹)cos(aₙ+x). If f(x₁)=f(x₂)=0, prove x₂−x₁=mπ for some integer m.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1969 Day 1"
+  },
+  {
+    "year": 1969,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "For k=1,2,3,4,5 give necessary and sufficient conditions on a>0 so that a tetrahedron exists with k edges of length a and the remaining 6−k edges of length 1.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1969 Day 1"
+  },
+  {
+    "year": 1969,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "Semicircle γ on diameter AB, point C on γ, D foot of perpendicular from C to AB. γ₁ is incircle of △ABC; γ₂, γ₃ touch CD and γ, one on each side of CD. Prove γ₁, γ₂, γ₃ share a second common tangent.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1969 Day 2"
+  },
+  {
+    "year": 1969,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Combinatorial Geometry",
+    "statement": "Given n>4 points in the plane, no three collinear, prove there are at least C(n−3,2) convex quadrilaterals whose vertices are four of the given points.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1969 Day 2"
+  },
+  {
+    "year": 1969,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Inequalities",
+    "statement": "For real x₁,x₂,y₁,y₂,z₁,z₂ with x₁,x₂>0 and xᵢyᵢ−zᵢ²>0, prove 8/[(x₁+x₂)(y₁+y₂)−(z₁+z₂)²] ≤ 1/(x₁y₁−z₁²) + 1/(x₂y₂−z₂²) and give conditions for equality.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1969 Day 2"
+  }
+]
