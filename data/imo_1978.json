@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1978,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Number Theory",
+    "statement": "m and n are natural numbers with 1 ≤ m < n. In their decimal representations, the last three digits of 1978^m are equal, respectively, to the last three digits of 1978^n. Find m and n such that m + n has its least value.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1978 Day 1"
+  },
+  {
+    "year": 1978,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "P is a given point inside a given sphere. Three mutually perpendicular rays from P intersect the sphere at points U, V, and W; Q denotes the vertex diagonally opposite to P in the parallelepiped determined by PU, PV, and PW. Find the locus of Q for all such triads of rays from P.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1978 Day 1"
+  },
+  {
+    "year": 1978,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Number Theory",
+    "statement": "The set of all positive integers is the union of two disjoint subsets {f(1), f(2), ..., f(n), ...} and {g(1), g(2), ..., g(n), ...}, where f(1) < f(2) < ... and g(1) < g(2) < ..., and g(n) = f(f(n)) + 1 for all n ≥ 1. Determine f(240).",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1978 Day 1"
+  },
+  {
+    "year": 1978,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "In triangle ABC, AB = AC. A circle is tangent internally to the circumcircle of triangle ABC and also to sides AB, AC at P, Q respectively. Prove that the midpoint of segment PQ is the center of the incircle of triangle ABC.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1978 Day 2"
+  },
+  {
+    "year": 1978,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Inequalities",
+    "statement": "Let {a_k} (k = 1, 2, 3, ..., n, ...) be a sequence of distinct positive integers. Prove that for all natural numbers n, Σ_{k=1}^n a_k/k² ≥ Σ_{k=1}^n 1/k.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1978 Day 2"
+  },
+  {
+    "year": 1978,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Combinatorics",
+    "statement": "An international society has its members from six different countries. The list of members contains 1978 names, numbered 1, 2, ..., 1978. Prove that there is at least one member whose number is the sum of the numbers of two members from his own country, or twice as large as the number of one member from his own country.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1978 Day 2"
+  }
+]
