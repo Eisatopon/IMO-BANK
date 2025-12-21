@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1975,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Inequalities",
+    "statement": "Let x_i, y_i (i=1,2,...,n) be real numbers such that x₁≥x₂≥⋯≥x_n and y₁≥y₂≥⋯≥y_n. Prove that, if z₁,z₂,...,z_n is any permutation of y₁,y₂,...,y_n, then Σ_{i=1}^n (x_i−y_i)² ≤ Σ_{i=1}^n (x_i−z_i)².",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1975 Day 1"
+  },
+  {
+    "year": 1975,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Number Theory",
+    "statement": "Let a₁,a₂,a₃,... be an infinite increasing sequence of positive integers. Prove that for every p≥1 there are infinitely many a_m which can be written in the form a_m = x a_p + y a_q with x,y positive integers and q>p.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1975 Day 1"
+  },
+  {
+    "year": 1975,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "On the sides of an arbitrary triangle ABC, triangles ABR, BCP, CAQ are constructed externally with ∠CBP=∠CAQ=45°, ∠BCP=∠ACQ=30°, ∠ABR=∠BAR=15°. Prove that ∠QRP=90° and QR=RP.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1975 Day 1"
+  },
+  {
+    "year": 1975,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Number Theory",
+    "statement": "When 4444^4444 is written in decimal notation, the sum of its digits is A. Let B be the sum of the digits of A. Find the sum of the digits of B (A and B are written in decimal notation).",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1975 Day 2"
+  },
+  {
+    "year": 1975,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Geometry",
+    "statement": "Determine, with proof, whether or not one can find 1975 points on the circumference of a circle with unit radius such that the distance between any two of them is a rational number.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1975 Day 2"
+  },
+  {
+    "year": 1975,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Polynomials",
+    "statement": "Find all polynomials P in two variables with: (i) P(tx,ty)=tⁿP(x,y) for some positive integer n and all real t,x,y (homogeneous of degree n); (ii) P(b+c,a)+P(c+a,b)+P(a+b,c)=0 for all real a,b,c; (iii) P(x,0)=1.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1975 Day 2"
+  }
+]
