@@ -1,1 +1,63 @@
+[
+  {
+    "year": 1987,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Combinatorics",
+    "statement": "Let p_n(k) be the number of permutations of the set {1, 2, …, n}, n ≥ 1, which have exactly k fixed points. Prove that\n\n∑_{k=0}^{n} k · p_n(k) = n!.\n\n(A permutation f of a set S is a one-to-one mapping of S onto itself. An element i in S is called a fixed point of the permutation f if f(i) = i.)",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1987 Day 1"
+  },
+  {
+    "year": 1987,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "In an acute-angled triangle ABC the interior bisector of angle A intersects BC at L and intersects the circumcircle of triangle ABC again at N. From point L perpendiculars are drawn to AB and AC, with feet K and M respectively. Prove that the quadrilateral AKNM and the triangle ABC have equal areas.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1987 Day 1"
+  },
+  {
+    "year": 1987,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Number Theory",
+    "statement": "Let x₁, x₂, …, x_n be real numbers satisfying x₁² + x₂² + · · · + x_n² = 1. Prove that for every integer k ≥ 2 there exist integers a₁, a₂, …, a_n, not all zero, such that |a_i| ≤ k − 1 for all i and\n\n|a₁x₁ + a₂x₂ + · · · + a_nx_n| ≤ (k − 1)√n / k^{n−1}.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1987 Day 1"
+  },
+  {
+    "year": 1987,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Algebra",
+    "statement": "Prove that there is no function f from the set of non-negative integers into itself such that f(f(n)) = n + 1987 for every n.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1987 Day 2"
+  },
+  {
+    "year": 1987,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Geometry",
+    "statement": "Let n be an integer greater than or equal to 3. Prove that there exists a set of n points in the plane such that the distance between any two points is irrational and each set of three points determines a non-degenerate triangle with rational area.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1987 Day 2"
+  },
+  {
+    "year": 1987,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Number Theory",
+    "statement": "Let n be an integer greater than or equal to 2. Prove that if k² + k + n is prime for all integers k such that 0 ≤ k ≤ √(n/3), then k² + k + n is prime for all integers k such that 0 ≤ k ≤ n − 2.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1987 Day 2"
+  }
+]
 
