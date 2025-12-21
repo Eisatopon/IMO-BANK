@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1973,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Vectors",
+    "statement": "Point O lies on line g; OP₁, OP₂, ..., OPₙ are unit vectors such that P₁, P₂, ..., Pₙ all lie in a plane containing g and on one side of g. Prove that if n is odd, |OP₁ + OP₂ + ... + OPₙ| ≥ 1.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1973 Day 1"
+  },
+  {
+    "year": 1973,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Combinatorial Geometry",
+    "statement": "Determine whether or not there exists a finite set M of points in space, not lying in the same plane, such that for any two points A and B of M one can select two other points C and D of M so that lines AB and CD are parallel and not coincident.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1973 Day 1"
+  },
+  {
+    "year": 1973,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Polynomials",
+    "statement": "Let a and b be real numbers for which the equation x⁴ + a x³ + b x² + a x + 1 = 0 has at least one real solution. For all such pairs (a,b), find the minimum value of a² + b².",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1973 Day 1"
+  },
+  {
+    "year": 1973,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Optimization",
+    "statement": "A soldier must check an equilateral-triangle region for mines; his detector's radius equals half the triangle's altitude. Starting from one vertex, what path minimises the total distance walked while guaranteeing detection everywhere?",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1973 Day 2"
+  },
+  {
+    "year": 1973,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Functional Equations",
+    "statement": "Let G be the set of non-constant real functions f(x)=ax+b (a≠0) closed under composition and inversion, and such that every f∈G has a fixed point. Prove that all functions in G share a common fixed point k.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1973 Day 2"
+  },
+  {
+    "year": 1973,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Inequalities",
+    "statement": "Given n positive numbers a₁,...,a_n and 0<q<1, find n numbers b₁,...,b_n satisfying: (a) a_k < b_k for all k; (b) q < b_{k+1}/b_k < 1/q for k=1,...,n-1; (c) Σ b_k < (1+q)/(1-q) Σ a_k.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1973 Day 2"
+  }
+]
