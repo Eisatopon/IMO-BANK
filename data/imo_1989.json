@@ -1,1 +1,63 @@
+[
+  {
+    "year": 1989,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Combinatorics",
+    "statement": "Prove that the set {1, 2, …, 1989} can be expressed as the disjoint union of subsets A_i (i = 1, 2, …, 117) such that:\n(i) Each A_i contains 17 elements;\n(ii) The sum of all the elements in each A_i is the same.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 1989 Day 1"
+  },
+  {
+    "year": 1989,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "In an acute-angled triangle ABC the internal bisector of angle A meets the circumcircle of the triangle again at A₁. Points B₁ and C₁ are defined similarly. Let A₀ be the point of intersection of the line AA₁ with the external bisectors of angles B and C. Points B₀ and C₀ are defined similarly. Prove that:\n(i) The area of triangle A₀B₀C₀ is twice the area of the hexagon AC₁BA₁CB₁;\n(ii) The area of triangle A₀B₀C₀ is at least four times the area of triangle ABC.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 1989 Day 1"
+  },
+  {
+    "year": 1989,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "Let n and k be positive integers and let S be a set of n points in the plane such that:\n(i) No three points of S are collinear, and\n(ii) For any point P of S there are at least k points of S equidistant from P.\nProve that k < 1/2 + √(2n).",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 1989 Day 1"
+  },
+  {
+    "year": 1989,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "Let ABCD be a convex quadrilateral such that the sides AB, AD, BC satisfy AB = AD + BC. There exists a point P inside the quadrilateral at a distance h from the line CD such that AP = h + AD and BP = h + BC. Show that:\n1/√h ≥ 1/√AD + 1/√BC.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 1989 Day 2"
+  },
+  {
+    "year": 1989,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Number Theory",
+    "statement": "Prove that for each positive integer n there exist n consecutive positive integers none of which is an integral power of a prime number.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 1989 Day 2"
+  },
+  {
+    "year": 1989,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Combinatorics",
+    "statement": "A permutation (x₁, x₂, …, x_m) of the set {1, 2, …, 2n}, where n is a positive integer, is said to have property P if |x_i − x_{i+1}| = n for at least one i in {1, 2, …, 2n − 1}. Show that, for each n, there are more permutations with property P than without.",
+    "official_solution_available": false,
+    "language": "en",
+    "source": "IMO 1989 Day 2"
+  }
+]
 
