@@ -1,1 +1,72 @@
-
+[
+  {
+    "year": 1960,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Number Theory",
+    "statement": "Determine all three-digit numbers N that are divisible by 11 and satisfy N/11 = (sum of the squares of the digits of N).",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1960 Day 1"
+  },
+  {
+    "year": 1960,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Inequalities",
+    "statement": "For what real values of x does 4x²/(1 − √(1 + 2x))² < 2x + 9 hold?",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1960 Day 1"
+  },
+  {
+    "year": 1960,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "In right triangle ABC with hypotenuse BC = a divided into n equal parts (n odd), let α be the acute angle subtended from A by the segment containing the midpoint of BC and let h be the altitude to BC. Prove tan α = 4nh/((n² − 1)a).",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1960 Day 1"
+  },
+  {
+    "year": 1960,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometric Construction",
+    "statement": "Construct triangle ABC given the altitudes h_a, h_b and the median m_a from vertex A.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1960 Day 2"
+  },
+  {
+    "year": 1960,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Solid Geometry",
+    "statement": "In cube ABCDA′B′C′D′: (a) Find the locus of midpoints of segments XY with X on diagonal AC and Y on diagonal B′D′. (b) Find the locus of points Z on such segments XY with ZY = 2XZ.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1960 Day 2"
+  },
+  {
+    "year": 1960,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Solid Geometry",
+    "statement": "A cone of revolution contains an inscribed sphere tangent to its base. A cylinder circumscribes this sphere with one base in the cone’s base. Let V₁ and V₂ be the volumes of cone and cylinder. (a) Prove V₁ ≠ V₂. (b) Find the smallest k such that V₁ = k V₂ and construct the angle subtended by a diameter of the base at the cone’s vertex.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1960 Day 2"
+  },
+  {
+    "year": 1960,
+    "day": 2,
+    "problem_id": "P7",
+    "topic": "Plane Geometry",
+    "statement": "An isosceles trapezoid with bases a, c and altitude h is given. (a) On its axis of symmetry find all points P such that both legs subtend right angles at P. (b) Calculate the distance of P from either base. (c) Determine under what conditions such points P exist.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1960 Day 2"
+  }
+]
