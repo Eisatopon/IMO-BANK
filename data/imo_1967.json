@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1967,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Geometry",
+    "statement": "Let ABCD be a parallelogram with AB = a, AD = 1 and ∠BAD = α. If triangle ABD is acute, prove that the four unit circles centered at A, B, C, D cover the parallelogram if and only if a ≤ cos α + √3 sin α.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1967 Day 1"
+  },
+  {
+    "year": 1967,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "Prove that if exactly one edge of a tetrahedron is greater than 1, then its volume is ≤ 1/8.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1967 Day 1"
+  },
+  {
+    "year": 1967,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Number Theory",
+    "statement": "Let k, m, n be natural numbers with m + k + 1 prime and > n + 1. Put c_s = s(s + 1). Prove that the product (c_{m+1} − c_k)(c_{m+2} − c_k)⋯(c_{m+n} − c_k) is divisible by c_1 c_2 ⋯ c_n.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1967 Day 1"
+  },
+  {
+    "year": 1967,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "Given two acute-angled triangles A₀B₀C₀ and A₁B₁C₁, determine (and construct) the triangle ABC similar to A₁B₁C₁, circumscribed about A₀B₀C₀ (A₀ on BC, B₀ on CA, C₀ on AB), that has maximum area.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1967 Day 2"
+  },
+  {
+    "year": 1967,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Sequences",
+    "statement": "Let c_n = a₁ⁿ + a₂ⁿ + ⋯ + a₈ⁿ with real numbers a_i not all zero. If infinitely many c_n vanish, find all natural numbers n for which c_n = 0.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1967 Day 2"
+  },
+  {
+    "year": 1967,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Word Problem",
+    "statement": "A sports contest awarded m medals over n > 1 days. Day 1: 1 medal plus 1/7 of the remainder; day 2: 2 medals plus 1/7 of the new remainder; …; day n: the last n medals. Find n and m.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1967 Day 2"
+  }
+]
