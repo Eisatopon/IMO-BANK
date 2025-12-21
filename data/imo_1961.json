@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1961,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Algebra",
+    "statement": "Solve the system x + y + z = a, x² + y² + z² = b², xy = z². Give conditions on a and b so that x, y, z are distinct positive numbers.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1961 Day 1"
+  },
+  {
+    "year": 1961,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Inequalities",
+    "statement": "Let a, b, c be the sides of a triangle and T its area. Prove a² + b² + c² ≥ 4√3 T and determine when equality holds.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1961 Day 1"
+  },
+  {
+    "year": 1961,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Trigonometry",
+    "statement": "Solve cosⁿx − sinⁿx = 1 for natural n.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1961 Day 1"
+  },
+  {
+    "year": 1961,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "In triangle P₁P₂P₃ with interior point P, lines P₁P, P₂P, P₃P meet opposite sides at Q₁, Q₂, Q₃. Prove that among P₁P/PQ₁, P₂P/PQ₂, P₃P/PQ₃ at least one is ≤ 2 and at least one is ≥ 2.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1961 Day 2"
+  },
+  {
+    "year": 1961,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Geometric Construction",
+    "statement": "Construct triangle ABC given AC = b, AB = c and ∠AMB = ω (ω < 90°), where M is the midpoint of BC. Prove a solution exists iff b tan(ω/2) ≤ c < b and determine when equality holds.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1961 Day 2"
+  },
+  {
+    "year": 1961,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Locus",
+    "statement": "Given non-collinear points A, B, C on one side of plane ε, take arbitrary points A′, B′, C′ in ε. Let L, M, N be midpoints of AA′, BB′, CC′ and G the centroid of triangle LMN. Find the locus of G as A′, B′, C′ vary independently in ε.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1961 Day 2"
+  }
+]
