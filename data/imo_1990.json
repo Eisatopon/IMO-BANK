@@ -1,1 +1,63 @@
+[
+  {
+    "year": 1990,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Geometry",
+    "statement": "Chords AB and CD of a circle intersect at a point E inside the circle. Let M be an interior point of the segment EB. The tangent line at E to the circle through D, E, and M intersects the lines BC and AC at F and G, respectively. If AM / AB = t, find EG / EF in terms of t.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1990 Day 1"
+  },
+  {
+    "year": 1990,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Combinatorics",
+    "statement": "Let n ≥ 3 and consider a set E of 2n − 1 distinct points on a circle. Suppose that exactly k of these points are to be colored black. Such a coloring is called good if there is at least one pair of black points such that the interior of one of the arcs between them contains exactly n points from E. Find the smallest value of k so that every such coloring of k points of E is good.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1990 Day 1"
+  },
+  {
+    "year": 1990,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Number Theory",
+    "statement": "Determine all integers n > 1 such that (2^n + 1) / n^2 is an integer.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1990 Day 1"
+  },
+  {
+    "year": 1990,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Algebra",
+    "statement": "Let Q+ be the set of positive rational numbers. Construct a function f : Q+ → Q+ such that f(x f(y)) = f(x) / y for all x, y in Q+.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1990 Day 2"
+  },
+  {
+    "year": 1990,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Number Theory",
+    "statement": "Given an initial integer n0 > 1, two players A and B choose integers n1, n2, n3, ... alternately according to the following rules. Knowing n2k, A chooses any integer n2k+1 such that n2k ≤ n2k+1 ≤ n2k^2. Knowing n2k+1, B chooses any integer n2k+2 such that n2k+1 / n2k+2 is a prime power. Player A wins by choosing the number 1990; player B wins by choosing the number 1. For which n0 does A have a winning strategy, B have a winning strategy, or neither have a winning strategy?",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1990 Day 2"
+  },
+  {
+    "year": 1990,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Geometry",
+    "statement": "Prove that there exists a convex 1990-gon with the following two properties: (a) All angles are equal. (b) The lengths of the 1990 sides are the numbers 1^2, 2^2, 3^2, ..., 1990^2 in some order.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1990 Day 2"
+  }
+]
 
