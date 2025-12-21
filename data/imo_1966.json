@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1966,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Logic / Word Problem",
+    "statement": "In a contest with problems A, B, C, 25 students solved at least one problem. Among those who did not solve A, the number who solved B was twice the number who solved C. The number who solved only A was one more than the number who solved A and at least one other problem. Among those who solved just one problem, half did not solve A. How many students solved only problem B?",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1966 Day 1"
+  },
+  {
+    "year": 1966,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "Let a, b, c be the side lengths of a triangle and α, β, γ the opposite angles. Prove that if a + b = tan(γ/2)(a tan α + b tan β), then the triangle is isosceles.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1966 Day 1"
+  },
+  {
+    "year": 1966,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "Prove that the sum of the distances of the vertices of a regular tetrahedron from the center of its circumscribed sphere is less than the sum of the distances of these vertices from any other point in space.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1966 Day 1"
+  },
+  {
+    "year": 1966,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Trigonometry",
+    "statement": "Prove that for every natural number n and every real x ≠ kπ/2^t (t = 0,1,...,n; k any integer), 1/sin 2x + 1/sin 4x + ... + 1/sin 2^n x = cot x - cot 2^n x.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1966 Day 2"
+  },
+  {
+    "year": 1966,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Linear Algebra",
+    "statement": "Solve the system |a₁−a₂|x₂ + |a₁−a₃|x₃ + |a₁−a₄|x₄ = 1, |a₂−a₁|x₁ + |a₂−a₃|x₃ + |a₂−a₄|x₄ = 1, |a₃−a₁|x₁ + |a₃−a₂|x₂ + |a₃−a₄|x₄ = 1, |a₄−a₁|x₁ + |a₄−a₂|x₂ + |a₄−a₃|x₃ = 1, where a₁, a₂, a₃, a₄ are four distinct real numbers.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1966 Day 2"
+  },
+  {
+    "year": 1966,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Geometry",
+    "statement": "Points K, L, M are chosen inside sides BC, CA, AB of triangle ABC respectively. Prove that the area of at least one of the triangles AML, BKM, CLK is ≤ one quarter of the area of triangle ABC.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1966 Day 2"
+  }
+]
