@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Find one pair of positive integers a and b such that:\n(i) ab(a + b) is not divisible by 7;\n(ii) (a + b)^7 − a^7 − b^7 is divisible by 7^7.\n\nJustify your answer.",
+    "statement": "Find one pair of positive integers a and b such that: (i) ab(a + b) is not divisible by 7; (ii) (a + b)^7 − a^7 − b^7 is divisible by 7^7. Justify your answer.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1984 Day 1"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Geometry",
-    "statement": "Let d be the sum of the lengths of all the diagonals of a plane convex polygon with n vertices (n > 3), and let p be its perimeter. Prove that\n\nn − 3 < 2d/p < ⌊n/2⌋⌊(n+1)/2⌋ − 2,\n\nwhere ⌊x⌋ denotes the greatest integer not exceeding x.",
+    "statement": "Let d be the sum of the lengths of all the diagonals of a plane convex polygon with n vertices (n > 3), and let p be its perimeter. Prove that n − 3 < 2d/p < ⌊n/2⌋⌊(n+1)/2⌋ − 2, where ⌊x⌋ denotes the greatest integer not exceeding x.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1984 Day 2"
