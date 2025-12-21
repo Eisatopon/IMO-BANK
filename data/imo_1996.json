@@ -1,1 +1,63 @@
+[
+  {
+    "year": 1996,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Combinatorics",
+    "statement": "Given a positive integer n, find the number of permutations a₁, a₂, … , aₙ of the numbers 1, 2, … , n such that for every i with 1 ≤ i ≤ n, the number |aᵢ − i| is odd.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1996 Day 1"
+  },
+  {
+    "year": 1996,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "Let ABC be a triangle and let D be a point on side BC such that AD is the angle bisector of angle A. The incircle of triangle ABC touches BC at E. Prove that DE is perpendicular to AI, where I is the incentre of triangle ABC.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1996 Day 1"
+  },
+  {
+    "year": 1996,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Number Theory",
+    "statement": "Determine all integers n ≥ 2 for which there exists a set of n consecutive positive integers such that none of them is divisible by any prime number greater than n.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1996 Day 1"
+  },
+  {
+    "year": 1996,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Geometry",
+    "statement": "Let ABC be a triangle with circumcircle Γ. The tangent to Γ at A meets the line BC at D. Prove that the reflection of D across AB lies on the circumcircle of triangle ABC.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1996 Day 2"
+  },
+  {
+    "year": 1996,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Algebra",
+    "statement": "Let x₁, x₂, … , xₙ be real numbers satisfying x₁ + x₂ + ··· + xₙ = 0 and x₁² + x₂² + ··· + xₙ² = 1. Prove that max(x₁, x₂, … , xₙ) ≥ 1 / √(n − 1).",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1996 Day 2"
+  },
+  {
+    "year": 1996,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Number Theory",
+    "statement": "Let n be a positive integer. Determine the number of ordered pairs (a, b) of integers such that 1 ≤ a ≤ n, 1 ≤ b ≤ n and gcd(a, b) = 1.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1996 Day 2"
+  }
+]
 
