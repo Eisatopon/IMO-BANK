@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1982,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Functional Equations",
+    "statement": "The function f(n) is defined for all positive integers n and takes on non-negative integer values. Also, for all m,n: f(m+n)−f(m)−f(n)=0 or 1; f(2)=0, f(3)>0, and f(9999)=3333. Determine f(1982).",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1982 Day 1"
+  },
+  {
+    "year": 1982,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Geometry",
+    "statement": "A non-isosceles triangle A₁A₂A₃ is given with sides a₁,a₂,a₃ (aᵢ is the side opposite Aᵢ). For all i=1,2,3, Mᵢ is the midpoint of side aᵢ, and Tᵢ is the point where the incircle touches side aᵢ. Denote by Sᵢ the reflection of Tᵢ in the interior bisector of angle Aᵢ. Prove that the lines M₁S₁, M₂S₂ and M₃S₃ are concurrent.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1982 Day 1"
+  },
+  {
+    "year": 1982,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Inequalities",
+    "statement": "Consider the infinite sequences {xₙ} of positive real numbers with x₀=1 and for all i≥0, x_{i+1}≤x_i. (a) Prove that for every such sequence there is an n≥1 such that x₀²/x₁ + x₁²/x₂ + ... + x_{n-1}²/xₙ ≥ 3.999. (b) Find such a sequence for which x₀²/x₁ + x₁²/x₂ + ... + x_{n-1}²/xₙ < 4 for every n.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1982 Day 1"
+  },
+  {
+    "year": 1982,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Number Theory",
+    "statement": "Prove that if n is a positive integer such that the equation x³−3xy²+y³=n has a solution in integers (x,y), then it has at least three such solutions. Show that the equation has no solutions in integers when n=2891.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1982 Day 2"
+  },
+  {
+    "year": 1982,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Geometry",
+    "statement": "The diagonals AC and CE of the regular hexagon ABCDEF are divided by inner points M and N respectively so that AM/AC = CN/CE = r. Determine r if B, M and N are collinear.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1982 Day 2"
+  },
+  {
+    "year": 1982,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Combinatorial Geometry",
+    "statement": "Let S be a square with sides of length 100, and let L be a path within S which does not meet itself and which is composed of line segments A₀A₁,A₁A₂,...,A_{n-1}A_n with A₀≠A_n. Suppose that for every point P of the boundary of S there is a point of L at a distance from P not greater than 1/2. Prove that there are two points X and Y in L such that the distance between X and Y is not greater than 1 and the length of that part of L which lies between X and Y is not smaller than 198.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1982 Day 2"
+  }
+]
