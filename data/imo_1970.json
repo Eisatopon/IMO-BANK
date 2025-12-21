@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1970,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Geometry",
+    "statement": "Let M be a point on side AB of triangle ABC. Let r₁, r₂, r be the inradii of triangles AMC, BMC, ABC, and let q₁, q₂, q be the radii of the corresponding excircles opposite angle ACB. Prove that (r₁/q₁)·(r₂/q₂) = r/q.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1970 Day 1"
+  },
+  {
+    "year": 1970,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Number Theory",
+    "statement": "Let a, b > 1 be integers and n ≥ 1. Numbers A_{n-1}, A_n (base a) and B_{n-1}, B_n (base b) share the same digit sequence x_{n-1}...x_0 with x_{n-1} ≠ 0. Prove that A_{n-1}/A_n < B_{n-1}/B_n iff a > b.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1970 Day 1"
+  },
+  {
+    "year": 1970,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Sequences",
+    "statement": "Given 1 = a₀ ≤ a₁ ≤ a₂ ≤ ... , define b_n = Σ_{k=1}^n (1 - a_{k-1}/a_k)/√a_k. (a) Prove 0 ≤ b_n < 2 for all n. (b) For any 0 ≤ c < 2 show suitable {a_k} exist with b_n > c for all large n.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1970 Day 1"
+  },
+  {
+    "year": 1970,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Number Theory",
+    "statement": "Find all positive integers n for which the set {n, n+1, n+2, n+3, n+4, n+5} can be split into two subsets with equal products.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1970 Day 2"
+  },
+  {
+    "year": 1970,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Geometry",
+    "statement": "In tetrahedron ABCD, angle BDC is right and the foot H of the perpendicular from D to plane ABC is the orthocenter of triangle ABC. Prove (AB+BC+CA)² ≤ 6(AD²+BD²+CD²) and determine when equality holds.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1970 Day 2"
+  },
+  {
+    "year": 1970,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Combinatorial Geometry",
+    "statement": "Given 100 points in the plane, no three collinear, prove that among all triangles formed by these vertices at most 70% are acute-angled.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1970 Day 2"
+  }
+]
