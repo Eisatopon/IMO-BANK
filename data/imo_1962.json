@@ -1,1 +1,72 @@
-
+[
+  {
+    "year": 1962,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Number Theory",
+    "statement": "Find the smallest natural number n whose decimal representation ends in 6, and such that moving this 6 to the front produces a number four times as large as n.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1962 Day 1"
+  },
+  {
+    "year": 1962,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Inequalities",
+    "statement": "Determine all real numbers x satisfying √(3 − x) − √(x + 1) > 1/2.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1962 Day 1"
+  },
+  {
+    "year": 1962,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "Points X and Y start at A and B′ respectively and move at equal constant speeds: X along perimeter ABCDA of square ABCD, Y along perimeter B′C′CB of square B′C′CB of cube ABCDA′B′C′D′. Find and draw the locus of the midpoints of segments XY.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1962 Day 1"
+  },
+  {
+    "year": 1962,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Trigonometry",
+    "statement": "Solve the equation cos²x + cos²2x + cos²3x = 1.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1962 Day 2"
+  },
+  {
+    "year": 1962,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Geometric Construction",
+    "statement": "On circle K three distinct points A, B, C are given. Construct (with straightedge and compass) a fourth point D on K such that quadrilateral ABCD admits an inscribed circle.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1962 Day 2"
+  },
+  {
+    "year": 1962,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Geometry",
+    "statement": "For an isosceles triangle with circumradius r and inradius ρ, prove that the distance d between their centers is d = √[r(r − 2ρ)].",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1962 Day 2"
+  },
+  {
+    "year": 1962,
+    "day": 2,
+    "problem_id": "P7",
+    "topic": "Geometry",
+    "statement": "Tetrahedron SABC admits five spheres each tangent to all six edges (or their extensions). (a) Prove SABC is regular. (b) Conversely, show every regular tetrahedron possesses five such spheres.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1962 Day 2"
+  }
+]
