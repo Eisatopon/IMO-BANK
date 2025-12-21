@@ -1,1 +1,62 @@
-
+[
+  {
+    "year": 1965,
+    "day": 1,
+    "problem_id": "P1",
+    "topic": "Trigonometry",
+    "statement": "Determine all values x in the interval 0 ≤ x ≤ 2π which satisfy 2 cos x ≤ |√(1 + sin 2x) − √(1 − sin 2x)| ≤ √2.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1965 Day 1"
+  },
+  {
+    "year": 1965,
+    "day": 1,
+    "problem_id": "P2",
+    "topic": "Linear Algebra",
+    "statement": "Consider the 3×3 homogeneous linear system whose coefficient matrix has (a) positive diagonal entries, (b) negative off-diagonal entries, (c) positive row-sums. Prove that the only solution is the trivial one x₁ = x₂ = x₃ = 0.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1965 Day 1"
+  },
+  {
+    "year": 1965,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Geometry",
+    "statement": "Tetrahedron ABCD has edge AB = a and edge CD = b; the shortest distance between the skew lines AB and CD is d and the angle between them is ω. A plane ε parallel to both AB and CD divides the tetrahedron into two parts whose distances from AB and CD are in the ratio k. Find the ratio of the volumes of the two resulting solids.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1965 Day 1"
+  },
+  {
+    "year": 1965,
+    "day": 2,
+    "problem_id": "P4",
+    "topic": "Algebra",
+    "statement": "Find all sets of four real numbers (x₁, x₂, x₃, x₄) such that the sum of any one of them and the product of the other three equals 2.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1965 Day 2"
+  },
+  {
+    "year": 1965,
+    "day": 2,
+    "problem_id": "P5",
+    "topic": "Geometry",
+    "statement": "In acute-angled triangle OAB, a point M ≠ O moves (a) along side AB, (b) throughout the interior. Perpendiculars from M to OA and OB meet them at P and Q; H is the orthocenter of triangle OPQ. Find the locus of H in each case.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1965 Day 2"
+  },
+  {
+    "year": 1965,
+    "day": 2,
+    "problem_id": "P6",
+    "topic": "Combinatorial Geometry",
+    "statement": "Given n ≥ 3 points in the plane, each pair joined by a segment, let d be the length of the longest segment (a diameter). Prove that the number of diameters is at most n.",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1965 Day 2"
+  }
+]
