@@ -4,59 +4,59 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Combinatorics",
-    "statement": "Let S be the set {1, 2, 3, …, 1,000,000}. Show that for any subset A of S with 101 elements, we can find 100 distinct elements x1, x2, …, x100 of S such that the sets {a + xi | a ∈ A} are all pairwise disjoint.",
+    "statement": "Let \\( S \\) be the set \\( \\{1, 2, 3, \\dots, 1\\,000\\,000\\} \\). Show that for any subset \\( A \\) of \\( S \\) with 101 elements, we can find 100 distinct elements \\( x_1, x_2, \\dots, x_{100} \\) of \\( S \\) such that the sets \\( \\{a + x_i \\mid a \\in A\\} \\) are all pairwise disjoint.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2003 Day 1 (English)"
+    "source": "IMO 2003 Day 1"
   },
   {
     "year": 2003,
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Find all pairs (m, n) of positive integers such that\n\n(m^2) / (2mn^2 − n^3 + 1)\n\nis a positive integer.",
+    "statement": "Find all pairs \\( (m, n) \\) of positive integers such that\n\\[ \\frac{m^2}{2mn^2 - n^3 + 1} \\]\nis a positive integer.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2003 Day 1 (English)"
+    "source": "IMO 2003 Day 1"
   },
   {
     "year": 2003,
     "day": 1,
     "problem_id": "P3",
     "topic": "Geometry",
-    "statement": "A convex hexagon has the property that for any pair of opposite sides, the distance between their midpoints is √3/2 times the sum of their lengths. Show that all the angles of the hexagon are equal.",
+    "statement": "A convex hexagon has the property that for any pair of opposite sides, the distance between their midpoints is \\( \\frac{\\sqrt{3}}{2} \\) times the sum of their lengths. Show that all the angles of the hexagon are equal.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2003 Day 1 (English)"
+    "source": "IMO 2003 Day 1"
   },
   {
     "year": 2003,
     "day": 2,
     "problem_id": "P4",
     "topic": "Geometry",
-    "statement": "Let ABCD be a cyclic quadrilateral. The feet of the perpendiculars from D to the lines AB, BC, CA are P, Q, R respectively. Show that the angle bisectors of ∠ABC and ∠CDA meet on the line AC if and only if RP = RQ.",
+    "statement": "Let \\( ABCD \\) be a cyclic quadrilateral. The feet of the perpendiculars from \\( D \\) to the lines \\( AB, BC, CA \\) are \\( P, Q, R \\) respectively. Show that the angle bisectors of \\( \\angle ABC \\) and \\( \\angle CDA \\) meet on the line \\( AC \\) if and only if \\( RP = RQ \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2003 Day 2 (English)"
+    "source": "IMO 2003 Day 2"
   },
   {
     "year": 2003,
     "day": 2,
     "problem_id": "P5",
     "topic": "Inequalities",
-    "statement": "Given n > 2 and real numbers x1 ≤ x2 ≤ · · · ≤ xn, show that\n\n(∑_{i,j} |xi − xj|)^2 ≤ (2/3)(n^2 − 1) ∑_{i,j} (xi − xj)^2.\n\nShow that equality holds if and only if the sequence (x1, x2, …, xn) is an arithmetic progression.",
+    "statement": "Given \\( n > 2 \\) and real numbers \\( x_1 \\leq x_2 \\leq \\dots \\leq x_n \\), show that\n\\[ \\biggl(\\sum_{i,j} |x_i - x_j|\\biggr)^{\\!2} \\leq \\frac{2}{3}(n^2 - 1) \\sum_{i,j} (x_i - x_j)^2. \\]\nShow that equality holds if and only if the sequence \\( (x_1, x_2, \\dots, x_n) \\) is an arithmetic progression.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2003 Day 2 (English)"
+    "source": "IMO 2003 Day 2"
   },
   {
     "year": 2003,
     "day": 2,
     "problem_id": "P6",
     "topic": "Number Theory",
-    "statement": "Show that for each prime p, there exists a prime q such that n^p − p is not divisible by q for any positive integer n.",
+    "statement": "Show that for each prime \\( p \\), there exists a prime \\( q \\) such that \\( n^p - p \\) is not divisible by \\( q \\) for any positive integer \\( n \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2003 Day 2 (English)"
+    "source": "IMO 2003 Day 2"
   }
 ]
