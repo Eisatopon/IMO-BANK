@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Geometry",
-    "statement": "Given triangle ABC with circumcircle Γ and incentre I, the incircle touches sides BC, CA, AB at D, E, F respectively. Let K be the intersection of AI with Γ again. Prove that the line DK is tangent to Γ.",
+    "statement": "Given triangle \\( ABC \\) with circumcircle \\( \\Gamma \\) and incentre \\( I \\), the incircle touches sides \\( BC, CA, AB \\) at \\( D, E, F \\) respectively. Let \\( K \\) be the intersection of \\( AI \\) with \\( \\Gamma \\) again. Prove that the line \\( DK \\) is tangent to \\( \\Gamma \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1997 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Let p be a prime number. Prove that there exists a prime number q such that for every integer n, the number n^p − n is divisible by q.",
+    "statement": "Let \\( p \\) be a prime number. Prove that there exists a prime number \\( q \\) such that for every integer \\( n \\), the number \\( n^p - n \\) is divisible by \\( q \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1997 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Algebra",
-    "statement": "Let x₁, x₂, … , xₙ be real numbers such that x₁ + x₂ + ··· + xₙ = 0 and x₁² + x₂² + ··· + xₙ² = 1. Prove that max(x₁, x₂, … , xₙ) ≥ 1 / √(n − 1).",
+    "statement": "Let \\( x_1, x_2, \\dots, x_n \\) be real numbers such that \\( x_1 + x_2 + \\dots + x_n = 0 \\) and \\( x_1^2 + x_2^2 + \\dots + x_n^2 = 1 \\). Prove that\n\\[ \\max(x_1, x_2, \\dots, x_n) \\geq \\frac{1}{\\sqrt{n - 1}}. \\]",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1997 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Geometry",
-    "statement": "In triangle ABC, the bisector of angle A meets side BC at D. The circumcircle of triangle ABD meets AC again at E. Prove that DE is tangent to the circumcircle of triangle ACD.",
+    "statement": "In triangle \\( ABC \\), the bisector of angle \\( A \\) meets side \\( BC \\) at \\( D \\). The circumcircle of triangle \\( ABD \\) meets \\( AC \\) again at \\( E \\). Prove that \\( DE \\) is tangent to the circumcircle of triangle \\( ACD \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1997 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Combinatorics",
-    "statement": "In a group of n people, each pair of people are either friends or enemies. Prove that there exists a person such that the number of his friends is at least the number of his enemies.",
+    "statement": "In a group of \\( n \\) people, each pair of people are either friends or enemies. Prove that there exists a person such that the number of his friends is at least the number of his enemies.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1997 Day 2"
@@ -54,10 +54,9 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Number Theory",
-    "statement": "Let a₁, a₂, … be an infinite sequence of integers satisfying 1 ≤ aⱼ ≤ 1997 for all j ≥ 1 and aₖ + k ≠ aₗ + l for all 1 ≤ k < l. Prove that there exist positive integers b and N such that |∑_{j=m+1}^{n} (aⱼ − b)| ≤ 1000 for all integers m and n with n > m > N.",
+    "statement": "Let \\( a_1, a_2, \\dots \\) be an infinite sequence of integers satisfying \\( 1 \\leq a_j \\leq 1997 \\) for all \\( j \\geq 1 \\) and \\( a_k + k \\neq a_l + l \\) for all \\( 1 \\leq k < l \\). Prove that there exist positive integers \\( b \\) and \\( N \\) such that\n\\[ \\biggl|\\sum_{j = m + 1}^n (a_j - b)\\biggr| \\leq 1000 \\]\nfor all integers \\( m \\) and \\( n \\) with \\( n > m > N \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1997 Day 2"
   }
 ]
-
