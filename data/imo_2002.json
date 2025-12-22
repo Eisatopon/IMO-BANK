@@ -4,59 +4,59 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Combinatorics",
-    "statement": "Let n be a positive integer. Let S be the set of all pairs (h, k) of non-negative integers such that h + k < n. Each element of S is coloured either red or blue, with the property that if (h, k) is red and 0 ≤ h' ≤ h, 0 ≤ k' ≤ k, then (h', k') is also red.\n\nA type 1 subset of S consists of n blue elements with distinct first coordinates, and a type 2 subset of S consists of n blue elements with distinct second coordinates.\n\nProve that the number of type 1 subsets is equal to the number of type 2 subsets.",
+    "statement": "Let \\( n \\) be a positive integer. Let \\( S \\) be the set of all pairs \\( (h, k) \\) of non-negative integers such that \\( h + k < n \\). Each element of \\( S \\) is coloured either red or blue, with the property that if \\( (h, k) \\) is red and \\( 0 \\leq h' \\leq h \\), \\( 0 \\leq k' \\leq k \\), then \\( (h', k') \\) is also red.\n\nA type 1 subset of \\( S \\) consists of \\( n \\) blue elements with distinct first coordinates, and a type 2 subset of \\( S \\) consists of \\( n \\) blue elements with distinct second coordinates.\n\nProve that the number of type 1 subsets is equal to the number of type 2 subsets.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2002 Problem 1 (English)"
+    "source": "IMO 2002 Day 1"
   },
   {
     "year": 2002,
     "day": 1,
     "problem_id": "P2",
     "topic": "Geometry",
-    "statement": "Let BC be a diameter of a circle with centre O. Let A be a point on the circle such that ∠AOC > 60°. Let EF be the chord which is the perpendicular bisector of AO. Let D be the midpoint of the minor arc AB. The line through O parallel to AD meets AC at J.\n\nProve that J is the incenter of triangle CEF.",
+    "statement": "Let \\( BC \\) be a diameter of a circle with centre \\( O \\). Let \\( A \\) be a point on the circle such that \\( \\angle AOC > 60^{\\circ} \\). Let \\( EF \\) be the chord which is the perpendicular bisector of \\( AO \\). Let \\( D \\) be the midpoint of the minor arc \\( AB \\). The line through \\( O \\) parallel to \\( AD \\) meets \\( AC \\) at \\( J \\). Prove that \\( J \\) is the incenter of triangle \\( CEF \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2002 Problem 2 (English)"
+    "source": "IMO 2002 Day 1"
   },
   {
     "year": 2002,
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Find all pairs of integers m > 2 and n > 2 such that there exist infinitely many positive integers k for which\n\nk^n + k^2 − 1 divides k^m + k − 1.",
+    "statement": "Find all pairs of integers \\( m > 2 \\) and \\( n > 2 \\) such that there exist infinitely many positive integers \\( k \\) for which\n\\[ k^n + k^2 - 1 \\mid k^m + k - 1. \\]",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2002 Problem 3 (English)"
+    "source": "IMO 2002 Day 1"
   },
   {
     "year": 2002,
     "day": 2,
     "problem_id": "P4",
     "topic": "Number Theory",
-    "statement": "Let the positive divisors of an integer n > 1 be d1 < d2 < ··· < dk, where d1 = 1 and dk = n. Define\n\nd = d1d2 + d2d3 + ··· + d_{k−1}d_k.\n\nProve that d < n^2 and determine all integers n for which d divides n^2.",
+    "statement": "Let the positive divisors of an integer \\( n > 1 \\) be \\( d_1 < d_2 < \\dots < d_k \\), where \\( d_1 = 1 \\) and \\( d_k = n \\). Define\n\\[ d = d_1d_2 + d_2d_3 + \\dots + d_{k-1}d_k. \\]\nProve that \\( d < n^2 \\) and determine all integers \\( n \\) for which \\( d \\mid n^2 \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2002 Problem 4 (English)"
+    "source": "IMO 2002 Day 2"
   },
   {
     "year": 2002,
     "day": 2,
     "problem_id": "P5",
     "topic": "Functional Equations",
-    "statement": "Find all real-valued functions f defined on the real numbers such that\n\n(f(x) + f(y))(f(u) + f(v)) = f(xu − yv) + f(xv + yu)\n\nfor all real numbers x, y, u, v.",
+    "statement": "Find all real-valued functions \\( f \\) defined on the real numbers such that\n\\[ (f(x) + f(y))(f(u) + f(v)) = f(xu - yv) + f(xv + yu) \\]\nfor all real numbers \\( x, y, u, v \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2002 Problem 5 (English)"
+    "source": "IMO 2002 Day 2"
   },
   {
     "year": 2002,
     "day": 2,
     "problem_id": "P6",
     "topic": "Geometry",
-    "statement": "Let n > 2 circles of radius 1 be drawn in the plane in such a way that no line meets more than two of the circles. Their centres are O1, O2, …, On.\n\nProve that\n\n∑_{i<j} 1 / OiOj ≤ (n − 1)π / 4.",
+    "statement": "Let \\( n > 2 \\) circles of radius 1 be drawn in the plane in such a way that no line meets more than two of the circles. Their centres are \\( O_1, O_2, \\dots, O_n \\). Prove that\n\\[ \\sum_{1 \\leq i < j \\leq n} \\frac{1}{O_iO_j} \\leq \\frac{(n - 1)\\pi}{4}. \\]",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2002 Problem 6 (English)"
+    "source": "IMO 2002 Day 2"
   }
 ]
