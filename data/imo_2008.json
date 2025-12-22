@@ -4,59 +4,59 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Geometry",
-    "statement": "An acute-angled triangle ABC has orthocentre H. The circle passing through H with centre the midpoint of BC intersects the line BC at A1 and A2. Similarly, the circle passing through H with centre the midpoint of CA intersects the line CA at B1 and B2, and the circle passing through H with centre the midpoint of AB intersects the line AB at C1 and C2. Show that A1, A2, B1, B2, C1, C2 lie on a circle.",
+    "statement": "An acute-angled triangle \\( ABC \\) has orthocentre \\( H \\). The circle passing through \\( H \\) with centre the midpoint of \\( BC \\) intersects the line \\( BC \\) at \\( A_1 \\) and \\( A_2 \\). Similarly, the circle passing through \\( H \\) with centre the midpoint of \\( CA \\) intersects the line \\( CA \\) at \\( B_1 \\) and \\( B_2 \\), and the circle passing through \\( H \\) with centre the midpoint of \\( AB \\) intersects the line \\( AB \\) at \\( C_1 \\) and \\( C_2 \\). Show that \\( A_1, A_2, B_1, B_2, C_1, C_2 \\) lie on a circle.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2008 Day 1 (English)"
+    "source": "IMO 2008 Day 1"
   },
   {
     "year": 2008,
     "day": 1,
     "problem_id": "P2",
     "topic": "Inequalities",
-    "statement": "(a) Prove that\n\nx^2/(x − 1)^2 + y^2/(y − 1)^2 + z^2/(z − 1)^2 ≥ 1\n\nfor all real numbers x, y, z, each different from 1, and satisfying xyz = 1.\n\n(b) Prove that equality holds above for infinitely many triples of rational numbers x, y, z, each different from 1, and satisfying xyz = 1.",
+    "statement": "(a) Prove that\n\\[ \\frac{x^2}{(x-1)^2} + \\frac{y^2}{(y-1)^2} + \\frac{z^2}{(z-1)^2} \\geq 1 \\]\nfor all real numbers \\( x, y, z \\), each different from 1, and satisfying \\( xyz = 1 \\).\n\n(b) Prove that equality holds above for infinitely many triples of rational numbers \\( x, y, z \\), each different from 1, and satisfying \\( xyz = 1 \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2008 Day 1 (English)"
+    "source": "IMO 2008 Day 1"
   },
   {
     "year": 2008,
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Prove that there exist infinitely many positive integers n such that n^2 + 1 has a prime divisor which is greater than 2n + √(2n).",
+    "statement": "Prove that there exist infinitely many positive integers \\( n \\) such that \\( n^2 + 1 \\) has a prime divisor which is greater than \\( 2n + \\sqrt{2n} \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2008 Day 1 (English)"
+    "source": "IMO 2008 Day 1"
   },
   {
     "year": 2008,
     "day": 2,
     "problem_id": "P4",
     "topic": "Functional Equations",
-    "statement": "Find all functions f : (0, ∞) → (0, ∞) such that\n\n(f(w))^2 + (f(x))^2\n———————————  =  ————————\nf(y^2) + f(z^2)    w^2 + x^2\n\nfor all positive real numbers w, x, y, z satisfying wx = yz.",
+    "statement": "Find all functions \\( f : (0, \\infty) \\to (0, \\infty) \\) such that\n\\[ \\frac{(f(w))^2 + (f(x))^2}{f(y^2) + f(z^2)} = \\frac{w^2 + x^2}{y^2 + z^2} \\]\nfor all positive real numbers \\( w, x, y, z \\) satisfying \\( wx = yz \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2008 Day 2 (English)"
+    "source": "IMO 2008 Day 2"
   },
   {
     "year": 2008,
     "day": 2,
     "problem_id": "P5",
     "topic": "Combinatorics",
-    "statement": "Let n and k be positive integers with k ≥ n and k − n an even number. Let 2n lamps labelled 1, 2, …, 2n be given, each of which can be either on or off. Initially all the lamps are off. We consider sequences of steps: at each step one of the lamps is switched (from on to off or from off to on).\n\nLet N be the number of such sequences consisting of k steps and resulting in the state where lamps 1 through n are all on, and lamps n + 1 through 2n are all off.\n\nLet M be the number of such sequences consisting of k steps, resulting in the same final state, but where none of the lamps n + 1 through 2n is ever switched on.\n\nDetermine the ratio N/M.",
+    "statement": "Let \\( n \\) and \\( k \\) be positive integers with \\( k \\geq n \\) and \\( k - n \\) an even number. Let \\( 2n \\) lamps labelled \\( 1, 2, \\dots, 2n \\) be given, each of which can be either on or off. Initially all the lamps are off. We consider sequences of steps: at each step one of the lamps is switched (from on to off or from off to on).\n\nLet \\( N \\) be the number of such sequences consisting of \\( k \\) steps and resulting in the state where lamps \\( 1 \\) through \\( n \\) are all on, and lamps \\( n + 1 \\) through \\( 2n \\) are all off.\n\nLet \\( M \\) be the number of such sequences consisting of \\( k \\) steps, resulting in the same final state, but where none of the lamps \\( n + 1 \\) through \\( 2n \\) is ever switched on.\n\nDetermine the ratio \\( N/M \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2008 Day 2 (English)"
+    "source": "IMO 2008 Day 2"
   },
   {
     "year": 2008,
     "day": 2,
     "problem_id": "P6",
     "topic": "Geometry",
-    "statement": "Let ABCD be a convex quadrilateral with |BA| ≠ |BC|. Denote the incircles of triangles ABC and ADC by ω1 and ω2 respectively. Suppose that there exists a circle ω tangent to the ray BA beyond A and to the ray BC beyond C, which is also tangent to the lines AD and CD.\n\nProve that the common external tangents of ω1 and ω2 intersect on ω.",
+    "statement": "Let \\( ABCD \\) be a convex quadrilateral with \\( |BA| \\neq |BC| \\). Denote the incircles of triangles \\( ABC \\) and \\( ADC \\) by \\( \\omega_1 \\) and \\( \\omega_2 \\) respectively. Suppose that there exists a circle \\( \\omega \\) tangent to the ray \\( BA \\) beyond \\( A \\) and to the ray \\( BC \\) beyond \\( C \\), which is also tangent to the lines \\( AD \\) and \\( CD \\). Prove that the common external tangents of \\( \\omega_1 \\) and \\( \\omega_2 \\) intersect on \\( \\omega \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2008 Day 2 (English)"
+    "source": "IMO 2008 Day 2"
   }
 ]
