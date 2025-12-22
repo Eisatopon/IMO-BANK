@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Combinatorics",
-    "statement": "Find all positive integers \\(n\\) for which an \\(n \\times n\\) table can be filled with letters \\(I, M, O\\) so that:\n\\begin{itemize}\n\\item[(i)] each row and column has one third of its entries \\(I\\), one third \\(M\\), one third \\(O\\);\n\\item[(ii)] in any diagonal with \\(3k\\) entries, exactly \\(k\\) are \\(I\\), \\(k\\) are \\(M\\), \\(k\\) are \\(O\\).\n\\end{itemize}\n(The table has \\(4n - 2\\) such diagonals.)",
+    "statement": "Find all positive integers \\(n\\) for which an \\(n \\times n\\) table can be filled with letters \\(I, M, O\\) so that: (i) each row and column has one third of its entries \\(I\\), one third \\(M\\), one third \\(O\\); (ii) in any diagonal with \\(3k\\) entries, exactly \\(k\\) are \\(I\\), \\(k\\) are \\(M\\), \\(k\\) are \\(O\\). (The table has \\(4n - 2\\) such diagonals.)",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 2016 Day 1"
@@ -24,7 +24,7 @@
     "day": 2,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Let \\(P(n) = n^2 + n + 1\\). Let \\(S\\) be a set of positive integers such that the set \\(\\{P(a + 1), P(a + 2), \\dots, P(a + b)\\}\\) is \\textit{fragrant} for every integer \\(a \\geq 0\\). (A set is \\textit{fragrant} if each element has a prime factor not dividing any other element.) Find the least possible value of \\(b\\).",
+    "statement": "Let \\(P(n) = n^2 + n + 1\\). Let \\(S\\) be a set of positive integers such that the set \\(\\{P(a + 1), P(a + 2), \\ldots, P(a + b)\\}\\) is fragrant for every integer \\(a \\geq 0\\). (A set is fragrant if each element has a prime factor not dividing any other element.) Find the least possible value of \\(b\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 2016 Day 2"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Combinatorics",
-    "statement": "A set of positive integers is \\textit{fragrant} if it contains at least two elements and each element has a prime factor not shared with any other element. Let \\(P(n) = n^2 + n + 1\\). Find the least \\(b\\) such that there exists a non-negative integer \\(a\\) for which the set \\(\\{P(a + 1), P(a + 2), \\dots, P(a + b)\\}\\) is fragrant.",
+    "statement": "A set of positive integers is fragrant if it contains at least two elements and each element has a prime factor not shared with any other element. Let \\(P(n) = n^2 + n + 1\\). Find the least \\(b\\) such that there exists a non-negative integer \\(a\\) for which the set \\(\\{P(a + 1), P(a + 2), \\ldots, P(a + b)\\}\\) is fragrant.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 2016 Day 2"
