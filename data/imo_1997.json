@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Algebra",
-    "statement": "Let \\( x_1, x_2, \\dots, x_n \\) be real numbers such that \\( x_1 + x_2 + \\dots + x_n = 0 \\) and \\( x_1^2 + x_2^2 + \\dots + x_n^2 = 1 \\). Prove that\n\\[ \\max(x_1, x_2, \\dots, x_n) \\geq \\frac{1}{\\sqrt{n - 1}}. \\]",
+    "statement": "Let \\( x_1, x_2, \\ldots, x_n \\) be real numbers such that \\( x_1 + x_2 + \\cdots + x_n = 0 \\) and \\( x_1^2 + x_2^2 + \\cdots + x_n^2 = 1 \\). Prove that \\(\\max(x_1, x_2, \\ldots, x_n) \\geq \\frac{1}{\\sqrt{n - 1}}\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1997 Day 1"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Number Theory",
-    "statement": "Let \\( a_1, a_2, \\dots \\) be an infinite sequence of integers satisfying \\( 1 \\leq a_j \\leq 1997 \\) for all \\( j \\geq 1 \\) and \\( a_k + k \\neq a_l + l \\) for all \\( 1 \\leq k < l \\). Prove that there exist positive integers \\( b \\) and \\( N \\) such that\n\\[ \\biggl|\\sum_{j = m + 1}^n (a_j - b)\\biggr| \\leq 1000 \\]\nfor all integers \\( m \\) and \\( n \\) with \\( n > m > N \\).",
+    "statement": "Let \\( a_1, a_2, \\ldots \\) be an infinite sequence of integers satisfying \\( 1 \\leq a_j \\leq 1997 \\) for all \\( j \\geq 1 \\) and \\( a_k + k \\neq a_l + l \\) for all \\( 1 \\leq k < l \\). Prove that there exist positive integers \\( b \\) and \\( N \\) such that \\(\\left|\\sum_{j = m + 1}^n (a_j - b)\\right| \\leq 1000\\) for all integers \\( m \\) and \\( n \\) with \\( n > m > N \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1997 Day 2"
