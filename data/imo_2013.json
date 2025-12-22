@@ -4,59 +4,59 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Number Theory",
-    "statement": "Prove that for any pair of positive integers k and n, there exist k positive integers m1, m2, …, mk (not necessarily different) such that\n\n1 + \\frac{2}{k - 1}^n = \\left(1 + \\frac{1}{m_1}\\right)\\left(1 + \\frac{1}{m_2}\\right) \\cdots \\left(1 + \\frac{1}{m_k}\\right).",
+    "statement": "Prove that for any pair of positive integers \\( k \\) and \\( n \\), there exist \\( k \\) positive integers \\( m_1, m_2, \\dots, m_k \\) (not necessarily different) such that\n\\[ 1 + \\frac{2^k - 1}{n} = \\left(1 + \\frac{1}{m_1}\\right)\\left(1 + \\frac{1}{m_2}\\right) \\cdots \\left(1 + \\frac{1}{m_k}\\right). \\]",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2013 Day 1 (English)"
+    "source": "IMO 2013 Day 1"
   },
   {
     "year": 2013,
     "day": 1,
     "problem_id": "P2",
     "topic": "Combinatorics",
-    "statement": "A configuration of 4027 points in the plane is called Colombian if it consists of 2013 red points and 2014 blue points, and no three of the points of the configuration are collinear. By drawing some lines, the plane is divided into several regions. An arrangement of lines is good for a Colombian configuration if the following two conditions are satisfied:\n\n• no line passes through any point of the configuration;\n• no region contains points of both colours.\n\nFind the least value of k such that for any Colombian configuration of 4027 points, there is a good arrangement of k lines.",
+    "statement": "A configuration of 4027 points in the plane is called Colombian if it consists of 2013 red points and 2014 blue points, and no three of the points of the configuration are collinear. By drawing some lines, the plane is divided into several regions. An arrangement of lines is good for a Colombian configuration if the following two conditions are satisfied:\n\\begin{itemize}\n\\item no line passes through any point of the configuration;\n\\item no region contains points of both colours.\n\\end{itemize}\nFind the least value of \\( k \\) such that for any Colombian configuration of 4027 points, there is a good arrangement of \\( k \\) lines.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2013 Day 1 (English)"
+    "source": "IMO 2013 Day 1"
   },
   {
     "year": 2013,
     "day": 1,
     "problem_id": "P3",
     "topic": "Geometry",
-    "statement": "Let the excircle of triangle ABC opposite the vertex A be tangent to the side BC at the point A1. Define the points B1 on CA and C1 on AB analogously, using the excircles opposite B and C, respectively. Suppose that the circumcentre of triangle A1B1C1 lies on the circumcircle of triangle ABC.\n\nProve that triangle ABC is right-angled.\n\n(The excircle of triangle ABC opposite the vertex A is the circle that is tangent to the line segment BC, to the ray AB beyond B, and to the ray AC beyond C. The excircles opposite B and C are similarly defined.)",
+    "statement": "Let the excircle of triangle \\( ABC \\) opposite the vertex \\( A \\) be tangent to the side \\( BC \\) at the point \\( A_1 \\). Define the points \\( B_1 \\) on \\( CA \\) and \\( C_1 \\) on \\( AB \\) analogously, using the excircles opposite \\( B \\) and \\( C \\), respectively. Suppose that the circumcentre of triangle \\( A_1B_1C_1 \\) lies on the circumcircle of triangle \\( ABC \\). Prove that triangle \\( ABC \\) is right-angled.\n\n(The excircle of triangle \\( ABC \\) opposite the vertex \\( A \\) is the circle that is tangent to the line segment \\( BC \\), to the ray \\( AB \\) beyond \\( B \\), and to the ray \\( AC \\) beyond \\( C \\). The excircles opposite \\( B \\) and \\( C \\) are similarly defined.)",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2013 Day 1 (English)"
+    "source": "IMO 2013 Day 1"
   },
   {
     "year": 2013,
     "day": 2,
     "problem_id": "P4",
     "topic": "Geometry",
-    "statement": "Let ABC be an acute-angled triangle with orthocentre H, and let W be a point on the side BC, lying strictly between B and C. The points M and N are the feet of the altitudes from B and C, respectively. Denote by ω1 the circumcircle of BWN, and let X be the point on ω1 such that WX is a diameter of ω1. Analogously, denote by ω2 the circumcircle of CWM, and let Y be the point on ω2 such that WY is a diameter of ω2.\n\nProve that X, Y, and H are collinear.",
+    "statement": "Let \\( ABC \\) be an acute-angled triangle with orthocentre \\( H \\), and let \\( W \\) be a point on the side \\( BC \\), lying strictly between \\( B \\) and \\( C \\). The points \\( M \\) and \\( N \\) are the feet of the altitudes from \\( B \\) and \\( C \\), respectively. Denote by \\( \\omega_1 \\) the circumcircle of \\( BWN \\), and let \\( X \\) be the point on \\( \\omega_1 \\) such that \\( WX \\) is a diameter of \\( \\omega_1 \\). Analogously, denote by \\( \\omega_2 \\) the circumcircle of \\( CWM \\), and let \\( Y \\) be the point on \\( \\omega_2 \\) such that \\( WY \\) is a diameter of \\( \\omega_2 \\). Prove that \\( X \\), \\( Y \\), and \\( H \\) are collinear.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2013 Day 2 (English)"
+    "source": "IMO 2013 Day 2"
   },
   {
     "year": 2013,
     "day": 2,
     "problem_id": "P5",
     "topic": "Functional Equations",
-    "statement": "Let Q_{>0} be the set of positive rational numbers. Let f : Q_{>0} → R be a function satisfying the following three conditions:\n\n(i) for all x, y ∈ Q_{>0}, we have f(x)f(y) ≥ f(xy);\n(ii) for all x, y ∈ Q_{>0}, we have f(x + y) ≥ f(x) + f(y);\n(iii) there exists a rational number a > 1 such that f(a) = a.\n\nProve that f(x) = x for all x ∈ Q_{>0}.",
+    "statement": "Let \\( \\mathbb{Q}_{>0} \\) be the set of positive rational numbers. Let \\( f : \\mathbb{Q}_{>0} \\to \\mathbb{R} \\) be a function satisfying the following three conditions:\n\\begin{itemize}\n\\item[(i)] for all \\( x, y \\in \\mathbb{Q}_{>0} \\), we have \\( f(x)f(y) \\geq f(xy) \\);\n\\item[(ii)] for all \\( x, y \\in \\mathbb{Q}_{>0} \\), we have \\( f(x + y) \\geq f(x) + f(y) \\);\n\\item[(iii)] there exists a rational number \\( a > 1 \\) such that \\( f(a) = a \\).\n\\end{itemize}\nProve that \\( f(x) = x \\) for all \\( x \\in \\mathbb{Q}_{>0} \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2013 Day 2 (English)"
+    "source": "IMO 2013 Day 2"
   },
   {
     "year": 2013,
     "day": 2,
     "problem_id": "P6",
     "topic": "Combinatorics",
-    "statement": "Let n ≥ 3 be an integer, and consider a circle with n + 1 equally spaced points marked on it. Consider all labellings of these points with the numbers 0, 1, …, n such that each label is used exactly once; two such labellings are considered to be the same if one can be obtained from the other by a rotation of the circle. A labelling is called beautiful if, for any four labels a < b < c < d with a + d = b + c, the chord joining the points labelled a and d does not intersect the chord joining the points labelled b and c.\n\nLet M be the number of beautiful labellings, and let N be the number of ordered pairs (x, y) of positive integers such that x + y ≤ n and gcd(x, y) = 1.\n\nProve that M = N + 1.",
+    "statement": "Let \\( n \\geq 3 \\) be an integer, and consider a circle with \\( n + 1 \\) equally spaced points marked on it. Consider all labellings of these points with the numbers \\( 0, 1, \\dots, n \\) such that each label is used exactly once; two such labellings are considered to be the same if one can be obtained from the other by a rotation of the circle. A labelling is called beautiful if, for any four labels \\( a < b < c < d \\) with \\( a + d = b + c \\), the chord joining the points labelled \\( a \\) and \\( d \\) does not intersect the chord joining the points labelled \\( b \\) and \\( c \\).\n\nLet \\( M \\) be the number of beautiful labellings, and let \\( N \\) be the number of ordered pairs \\( (x, y) \\) of positive integers such that \\( x + y \\leq n \\) and \\( \\gcd(x, y) = 1 \\).\n\nProve that \\( M = N + 1 \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2013 Day 2 (English)"
+    "source": "IMO 2013 Day 2"
   }
 ]
