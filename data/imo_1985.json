@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Geometry",
-    "statement": "A circle has its center on the side AB of the cyclic quadrilateral ABCD. The other three sides are tangent to the circle. Prove that AD + BC = AB.",
+    "statement": "A circle has its center on the side \\(AB\\) of the cyclic quadrilateral \\(ABCD\\). The other three sides are tangent to the circle. Prove that \\(AD + BC = AB\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1985 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Combinatorics",
-    "statement": "Let n and k be relatively prime natural numbers with k < n. Each number in the set M = {1, 2, …, n − 1} is colored either blue or white. It is given that:\n(i) for each i ∈ M, both i and n − i have the same color;\n(ii) for each i ∈ M, i ≠ k, both i and |i − k| have the same color.\nProve that all numbers in M must have the same color.",
+    "statement": "Let \\(n\\) and \\(k\\) be relatively prime natural numbers with \\(k < n\\). Each number in the set \\(M = \\{1, 2, \\dots, n - 1\\}\\) is colored either blue or white. It is given that:\n\\begin{enumerate}\n\\item[(i)] for each \\(i \\in M\\), both \\(i\\) and \\(n - i\\) have the same color;\n\\item[(ii)] for each \\(i \\in M\\), \\(i \\neq k\\), both \\(i\\) and \\(|i - k|\\) have the same color.\n\\end{enumerate}\nProve that all numbers in \\(M\\) must have the same color.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1985 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Algebra",
-    "statement": "For any polynomial P(x) = a₀ + a₁x + · · · + a_k x^k with integer coefficients, the number of coefficients which are odd is denoted by w(P). For i = 0, 1, …, let Q_i(x) = (1 + x)^i. Prove that if i₁, i₂, …, i_n are integers such that 0 ≤ i₁ < i₂ < · · · < i_n, then\n\nw(Q_{i₁} + Q_{i₂} + · · · + Q_{i_n}) ≥ w(Q_{i₁}).",
+    "statement": "For any polynomial \\(P(x) = a_0 + a_1x + \\dots + a_kx^k\\) with integer coefficients, the number of coefficients which are odd is denoted by \\(w(P)\\). For \\(i = 0, 1, \\dots\\), let \\(Q_i(x) = (1 + x)^i\\). Prove that if \\(i_1, i_2, \\dots, i_n\\) are integers such that \\(0 \\leq i_1 < i_2 < \\dots < i_n\\), then\n\\[ w(Q_{i_1} + Q_{i_2} + \\dots + Q_{i_n}) \\geq w(Q_{i_1}). \\]",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1985 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Number Theory",
-    "statement": "Given a set M of 1985 distinct positive integers, none of which has a prime divisor greater than 26. Prove that M contains at least one subset of four distinct elements whose product is the fourth power of an integer.",
+    "statement": "Given a set \\(M\\) of 1985 distinct positive integers, none of which has a prime divisor greater than 26. Prove that \\(M\\) contains at least one subset of four distinct elements whose product is the fourth power of an integer.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1985 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Geometry",
-    "statement": "A circle with center O passes through the vertices A and C of triangle ABC and intersects the segments AB and BC again at distinct points K and N, respectively. The circumscribed circles of the triangles ABC and EBN intersect at exactly two distinct points B and M. Prove that angle OMB is a right angle.",
+    "statement": "A circle with center \\(O\\) passes through the vertices \\(A\\) and \\(C\\) of triangle \\(ABC\\) and intersects the segments \\(AB\\) and \\(BC\\) again at distinct points \\(K\\) and \\(N\\), respectively. The circumscribed circles of the triangles \\(ABC\\) and \\(KBN\\) intersect at exactly two distinct points \\(B\\) and \\(M\\. Prove that angle \\(OMB\\) is a right angle.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1985 Day 2"
@@ -54,10 +54,9 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Analysis",
-    "statement": "For every real number x₁, construct the sequence x₁, x₂, … by setting\n\nx_{n+1} = x_n \\left(x_n + \\frac{1}{n}\\right)\n\nfor each n ≥ 1. Prove that there exists exactly one value of x₁ for which\n\n0 < x_n < x_{n+1} < 1\n\nfor every n.",
+    "statement": "For every real number \\(x_1\\), construct the sequence \\(x_1, x_2, \\dots\\) by setting\n\\[ x_{n+1} = x_n \\left(x_n + \\frac{1}{n}\\right) \\]\nfor each \\(n \\geq 1\\). Prove that there exists exactly one value of \\(x_1\\) for which\n\\[ 0 < x_n < x_{n+1} < 1 \\]\nfor every \\(n\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1985 Day 2"
   }
 ]
-
