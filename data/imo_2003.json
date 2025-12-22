@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Combinatorics",
-    "statement": "Let \\( S \\) be the set \\( \\{1, 2, 3, \\dots, 1\\,000\\,000\\} \\). Show that for any subset \\( A \\) of \\( S \\) with 101 elements, we can find 100 distinct elements \\( x_1, x_2, \\dots, x_{100} \\) of \\( S \\) such that the sets \\( \\{a + x_i \\mid a \\in A\\} \\) are all pairwise disjoint.",
+    "statement": "Let \\( S \\) be the set \\( \\{1, 2, 3, \\ldots, 1\\,000\\,000\\} \\). Show that for any subset \\( A \\) of \\( S \\) with 101 elements, we can find 100 distinct elements \\( x_1, x_2, \\ldots, x_{100} \\) of \\( S \\) such that the sets \\( \\{a + x_i \\mid a \\in A\\} \\) are all pairwise disjoint.",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2003 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Find all pairs \\( (m, n) \\) of positive integers such that\n\\[ \\frac{m^2}{2mn^2 - n^3 + 1} \\]\nis a positive integer.",
+    "statement": "Find all pairs \\( (m, n) \\) of positive integers such that \\(\\frac{m^2}{2mn^2 - n^3 + 1}\\) is a positive integer.",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2003 Day 1"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Inequalities",
-    "statement": "Given \\( n > 2 \\) and real numbers \\( x_1 \\leq x_2 \\leq \\dots \\leq x_n \\), show that\n\\[ \\biggl(\\sum_{i,j} |x_i - x_j|\\biggr)^{\\!2} \\leq \\frac{2}{3}(n^2 - 1) \\sum_{i,j} (x_i - x_j)^2. \\]\nShow that equality holds if and only if the sequence \\( (x_1, x_2, \\dots, x_n) \\) is an arithmetic progression.",
+    "statement": "Given \\( n > 2 \\) and real numbers \\( x_1 \\leq x_2 \\leq \\ldots \\leq x_n \\), show that \\(\\left(\\sum_{i,j} |x_i - x_j|\\right)^2 \\leq \\frac{2}{3}(n^2 - 1) \\sum_{i,j} (x_i - x_j)^2\\). Show that equality holds if and only if the sequence \\( (x_1, x_2, \\ldots, x_n) \\) is an arithmetic progression.",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2003 Day 2"
