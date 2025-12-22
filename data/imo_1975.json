@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Inequalities",
-    "statement": "Let \\( x_i, y_i \\) (\\( i=1,2,\\dots,n \\)) be real numbers such that \\( x_1\\geq x_2\\geq\\cdots\\geq x_n \\) and \\( y_1\\geq y_2\\geq\\cdots\\geq y_n \\). Prove that, if \\( z_1,z_2,\\dots,z_n \\) is any permutation of \\( y_1,y_2,\\dots,y_n \\), then\n\\[ \\sum_{i=1}^n (x_i-y_i)^2 \\leq \\sum_{i=1}^n (x_i-z_i)^2. \\]",
+    "statement": "Let \\( x_i, y_i \\) (\\( i=1,2,\\ldots,n \\)) be real numbers such that \\( x_1\\geq x_2\\geq\\cdots\\geq x_n \\) and \\( y_1\\geq y_2\\geq\\cdots\\geq y_n \\). Prove that, if \\( z_1,z_2,\\ldots,z_n \\) is any permutation of \\( y_1,y_2,\\ldots,y_n \\), then \\(\\sum_{i=1}^n (x_i-y_i)^2 \\leq \\sum_{i=1}^n (x_i-z_i)^2\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1975 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Let \\( a_1,a_2,a_3,\\dots \\) be an infinite increasing sequence of positive integers. Prove that for every \\( p\\geq 1 \\) there are infinitely many \\( a_m \\) which can be written in the form \\( a_m = x a_p + y a_q \\) with \\( x,y \\) positive integers and \\( q>p \\).",
+    "statement": "Let \\( a_1,a_2,a_3,\\ldots \\) be an infinite increasing sequence of positive integers. Prove that for every \\( p\\geq 1 \\) there are infinitely many \\( a_m \\) which can be written in the form \\( a_m = x a_p + y a_q \\) with \\( x,y \\) positive integers and \\( q>p \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1975 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Geometry",
-    "statement": "On the sides of an arbitrary triangle ABC, triangles ABR, BCP, CAQ are constructed externally with \\( \\angle CBP=\\angle CAQ=45^{\\circ} \\), \\( \\angle BCP=\\angle ACQ=30^{\\circ} \\), \\( \\angle ABR=\\angle BAR=15^{\\circ} \\). Prove that \\( \\angle QRP=90^{\\circ} \\) and QR=RP.",
+    "statement": "On the sides of an arbitrary triangle \\(ABC\\), triangles \\(ABR\\), \\(BCP\\), \\(CAQ\\) are constructed externally with \\( \\angle CBP=\\angle CAQ=45^{\\circ} \\), \\( \\angle BCP=\\angle ACQ=30^{\\circ} \\), \\( \\angle ABR=\\angle BAR=15^{\\circ} \\). Prove that \\( \\angle QRP=90^{\\circ} \\) and \\(QR=RP\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1975 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Number Theory",
-    "statement": "When \\( 4444^{4444} \\) is written in decimal notation, the sum of its digits is A. Let B be the sum of the digits of A. Find the sum of the digits of B (A and B are written in decimal notation).",
+    "statement": "When \\( 4444^{4444} \\) is written in decimal notation, the sum of its digits is \\(A\\). Let \\(B\\) be the sum of the digits of \\(A\\). Find the sum of the digits of \\(B\\) (\\(A\\) and \\(B\\) are written in decimal notation).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1975 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Polynomials",
-    "statement": "Find all polynomials \\( P \\) in two variables with:\n\\begin{enumerate}\n\\item[(i)] \\( P(tx,ty)=t^{n}P(x,y) \\) for some positive integer \\( n \\) and all real \\( t,x,y \\) (homogeneous of degree \\( n \\));\n\\item[(ii)] \\( P(b+c,a)+P(c+a,b)+P(a+b,c)=0 \\) for all real \\( a,b,c \\);\n\\item[(iii)] \\( P(x,0)=1 \\).\n\\end{enumerate}",
+    "statement": "Find all polynomials \\( P \\) in two variables with: (i) \\( P(tx,ty)=t^{n}P(x,y) \\) for some positive integer \\( n \\) and all real \\( t,x,y \\) (homogeneous of degree \\( n \\)); (ii) \\( P(b+c,a)+P(c+a,b)+P(a+b,c)=0 \\) for all real \\( a,b,c \\); (iii) \\( P(x,0)=1 \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1975 Day 2"
