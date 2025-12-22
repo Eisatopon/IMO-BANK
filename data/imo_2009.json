@@ -4,59 +4,59 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Number Theory",
-    "statement": "Let n be a positive integer and let a1, a2, …, ak (k ≥ 2) be distinct integers in the set {1, 2, …, n} such that n divides a_i(a_{i+1} − 1) for i = 1, 2, …, k − 1. Prove that n does not divide a_k(a_1 − 1).",
+    "statement": "Let \\( n \\) be a positive integer and let \\( a_1, a_2, \\dots, a_k \\) (\\( k \\geq 2 \\)) be distinct integers in the set \\( \\{1, 2, \\dots, n\\} \\) such that \\( n \\) divides \\( a_i(a_{i+1} - 1) \\) for \\( i = 1, 2, \\dots, k - 1 \\). Prove that \\( n \\) does not divide \\( a_k(a_1 - 1) \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2009 Day 1 (English)"
+    "source": "IMO 2009 Day 1"
   },
   {
     "year": 2009,
     "day": 1,
     "problem_id": "P2",
     "topic": "Geometry",
-    "statement": "Let ABC be a triangle with circumcentre O. The points P and Q are interior points of the sides CA and AB, respectively. Let K, L, and M be the midpoints of the segments BP, CQ, and PQ, respectively, and let Γ be the circle passing through K, L, and M. Suppose that the line PQ is tangent to the circle Γ. Prove that OP = OQ.",
+    "statement": "Let \\( ABC \\) be a triangle with circumcentre \\( O \\). The points \\( P \\) and \\( Q \\) are interior points of the sides \\( CA \\) and \\( AB \\), respectively. Let \\( K, L, \\) and \\( M \\) be the midpoints of the segments \\( BP, CQ, \\) and \\( PQ \\), respectively, and let \\( \\Gamma \\) be the circle passing through \\( K, L, \\) and \\( M \\). Suppose that the line \\( PQ \\) is tangent to the circle \\( \\Gamma \\). Prove that \\( OP = OQ \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2009 Day 1 (English)"
+    "source": "IMO 2009 Day 1"
   },
   {
     "year": 2009,
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Suppose that s1, s2, s3, … is a strictly increasing sequence of positive integers such that the subsequences\n\ns_{s1}, s_{s2}, s_{s3}, …  and  s_{s1+1}, s_{s2+1}, s_{s3+1}, …\n\nare both arithmetic progressions. Prove that the sequence s1, s2, s3, … is itself an arithmetic progression.",
+    "statement": "Suppose that \\( s_1, s_2, s_3, \\dots \\) is a strictly increasing sequence of positive integers such that the subsequences\n\\[ s_{s_1}, s_{s_2}, s_{s_3}, \\dots \\quad\\text{and}\\quad s_{s_1 + 1}, s_{s_2 + 1}, s_{s_3 + 1}, \\dots \\]\nare both arithmetic progressions. Prove that the sequence \\( s_1, s_2, s_3, \\dots \\) is itself an arithmetic progression.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2009 Day 1 (English)"
+    "source": "IMO 2009 Day 1"
   },
   {
     "year": 2009,
     "day": 2,
     "problem_id": "P4",
     "topic": "Geometry",
-    "statement": "Let ABC be a triangle with AB = AC. The angle bisectors of ∠CAB and ∠ABC meet the sides BC and CA at D and E, respectively. Let K be the incentre of triangle ADC. Suppose that ∠BEK = 45°. Find all possible values of ∠CAB.",
+    "statement": "Let \\( ABC \\) be a triangle with \\( AB = AC \\). The angle bisectors of \\( \\angle CAB \\) and \\( \\angle ABC \\) meet the sides \\( BC \\) and \\( CA \\) at \\( D \\) and \\( E \\), respectively. Let \\( K \\) be the incentre of triangle \\( ADC \\). Suppose that \\( \\angle BEK = 45^{\\circ} \\). Find all possible values of \\( \\angle CAB \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2009 Day 2 (English)"
+    "source": "IMO 2009 Day 2"
   },
   {
     "year": 2009,
     "day": 2,
     "problem_id": "P5",
     "topic": "Functional Equations",
-    "statement": "Determine all functions f from the set of positive integers to the set of positive integers such that, for all positive integers a and b, there exists a non-degenerate triangle with sides of lengths a, f(b), and f(b + f(a) − 1).\n\n(A triangle is non-degenerate if its vertices are not collinear.)",
+    "statement": "Determine all functions \\( f \\) from the set of positive integers to the set of positive integers such that, for all positive integers \\( a \\) and \\( b \\), there exists a non-degenerate triangle with sides of lengths \\( a, f(b), \\) and \\( f(b + f(a) - 1) \\).\n\n(A triangle is non-degenerate if its vertices are not collinear.)",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2009 Day 2 (English)"
+    "source": "IMO 2009 Day 2"
   },
   {
     "year": 2009,
     "day": 2,
     "problem_id": "P6",
     "topic": "Combinatorics",
-    "statement": "Let a1, a2, …, an be distinct positive integers and let M be a set of n − 1 positive integers not containing s = a1 + a2 + · · · + an. A grasshopper is to jump along the real axis, starting at the point 0 and making n jumps to the right with lengths a1, a2, …, an in some order. Prove that the order can be chosen in such a way that the grasshopper never lands on any point in M.",
+    "statement": "Let \\( a_1, a_2, \\dots, a_n \\) be distinct positive integers and let \\( M \\) be a set of \\( n - 1 \\) positive integers not containing \\( s = a_1 + a_2 + \\dots + a_n \\). A grasshopper is to jump along the real axis, starting at the point 0 and making \\( n \\) jumps to the right with lengths \\( a_1, a_2, \\dots, a_n \\) in some order. Prove that the order can be chosen in such a way that the grasshopper never lands on any point in \\( M \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2009 Day 2 (English)"
+    "source": "IMO 2009 Day 2"
   }
 ]
