@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Polynomials",
-    "statement": "Let P₁(x) = x² − 2 and Pⱼ(x) = P₁(Pⱼ₋₁(x)) for j = 2, 3, ... . Show that, for any positive integer n, the roots of the equation Pₙ(x) = x are real and distinct.",
+    "statement": "Let \\(P_1(x) = x^2 - 2\\) and \\(P_j(x) = P_1(P_{j-1}(x))\\) for \\(j = 2, 3, \\ldots\\). Show that, for any positive integer \\(n\\), the roots of the equation \\(P_n(x) = x\\) are real and distinct.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1976 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "A rectangular box can be filled completely with unit cubes. If one places as many cubes as possible, each with volume 2, in the box, so that their edges are parallel to the edges of the box, one can fill exactly 40 % of the box. Determine the possible dimensions of all such boxes.",
+    "statement": "A rectangular box can be filled completely with unit cubes. If one places as many cubes as possible, each with volume 2, in the box, so that their edges are parallel to the edges of the box, one can fill exactly 40% of the box. Determine the possible dimensions of all such boxes.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1976 Day 1"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Linear Algebra",
-    "statement": "Consider the system of p equations in q = 2p unknowns x₁, x₂, ..., x_q: ∑_{j=1}^q a_{ij} x_j = 0 (i = 1, ..., p) with every coefficient a_{ij} ∈ {−1, 0, 1}. Prove that the system has a solution (x₁, ..., x_q) such that (a) all x_j are integers, (b) at least one x_j ≠ 0, (c) |x_j| ≤ q for all j.",
+    "statement": "Consider the system of \\(p\\) equations in \\(q = 2p\\) unknowns \\(x_1, x_2, \\ldots, x_q\\): \\(\\sum_{j=1}^q a_{ij} x_j = 0\\) (\\(i = 1, \\ldots, p\\)) with every coefficient \\(a_{ij} \\in \\{-1, 0, 1\\}\\). Prove that the system has a solution \\((x_1, \\ldots, x_q)\\) such that (a) all \\(x_j\\) are integers, (b) at least one \\(x_j \\neq 0\\), (c) \\(|x_j| \\leq q\\) for all \\(j\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1976 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Sequences",
-    "statement": "A sequence {u_n} is defined by u₀ = 2, u₁ = 5/2, u_{n+1} = u_n(u_{n-1}^2 − 2) − u₁ for n = 1, 2, ... . Prove that for positive integers n, [u_n] = 2^{[2^n − (−1)^n]/3}, where [x] denotes the greatest integer ≤ x.",
+    "statement": "A sequence \\(\\{u_n\\}\\) is defined by \\(u_0 = 2\\), \\(u_1 = 5/2\\), \\(u_{n+1} = u_n(u_{n-1}^2 - 2) - u_1\\) for \\(n = 1, 2, \\ldots\\). Prove that for positive integers \\(n\\), \\(\\lfloor u_n \\rfloor = 2^{(2^n - (-1)^n)/3}\\), where \\(\\lfloor x \\rfloor\\) denotes the greatest integer \\(\\leq x\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1976 Day 2"
