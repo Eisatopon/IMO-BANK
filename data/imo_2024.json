@@ -4,59 +4,59 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Number Theory",
-    "statement": "Determine all real numbers α such that, for every positive integer n, the integer\n\n⌊α⌋ + ⌊2α⌋ + · · · + ⌊nα⌋\n\nis a multiple of n.\n\n(Note that ⌊z⌋ denotes the greatest integer less than or equal to z. For example, ⌊−π⌋ = −4 and ⌊2⌋ = ⌊2.9⌋ = 2.)",
+    "statement": "Determine all real numbers \\(\\alpha\\) such that, for every positive integer \\(n\\), the integer\n\\[\\lfloor\\alpha\\rfloor + \\lfloor2\\alpha\\rfloor + \\cdots + \\lfloor n\\alpha\\rfloor\\]\nis a multiple of \\(n\\).\n\\(\\big(\\lfloor z\\rfloor\\) denotes the greatest integer less than or equal to \\(z\\).\\)",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2024 Day 1 (English)"
+    "source": "IMO 2024 Day 1"
   },
   {
     "year": 2024,
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Determine all pairs (a, b) of positive integers for which there exist positive integers g and N such that\n\ngcd(a^n + b, b^n + a) = g\n\nholds for all integers n ⩾ N.\n\n(Note that gcd(x, y) denotes the greatest common divisor of integers x and y.)",
+    "statement": "Determine all pairs \\((a,b)\\) of positive integers for which there exist positive integers \\(g\\) and \\(N\\) such that\n\\[\\gcd(a^n + b, b^n + a) = g\\]\nfor all integers \\(n \\geqslant N\\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2024 Day 1 (English)"
+    "source": "IMO 2024 Day 1"
   },
   {
     "year": 2024,
     "day": 1,
     "problem_id": "P3",
     "topic": "Combinatorics",
-    "statement": "Let a1, a2, a3, . . . be an infinite sequence of positive integers, and let N be a positive integer. Suppose that, for each n > N, an is equal to the number of times an−1 appears in the list a1, a2, . . . , an−1.\n\nProve that at least one of the sequences a1, a3, a5, . . . and a2, a4, a6, . . . is eventually periodic.\n\n(An infinite sequence b1, b2, b3, . . . is eventually periodic if there exist positive integers p and M such that bm+p = bm for all m ⩾ M.)",
+    "statement": "Let \\(a_1,a_2,a_3,\\dots\\) be an infinite sequence of positive integers, and let \\(N\\) be a positive integer. Suppose that, for each \\(n > N\\), \\(a_n\\) equals the number of times \\(a_{n-1}\\) appears in the list \\(a_1,a_2,\\dots,a_{n-1}\\). Prove that at least one of the sequences \\(a_1,a_3,a_5,\\dots\\) and \\(a_2,a_4,a_6,\\dots\\) is eventually periodic.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2024 Day 1 (English)"
+    "source": "IMO 2024 Day 1"
   },
   {
     "year": 2024,
     "day": 2,
     "problem_id": "P4",
     "topic": "Geometry",
-    "statement": "Let ABC be a triangle with AB < AC < BC. Let the incentre and incircle of triangle ABC be I and ω, respectively. Let X be the point on line BC different from C such that the line through X parallel to AC is tangent to ω. Similarly, let Y be the point on line BC different from B such that the line through Y parallel to AB is tangent to ω. Let AI intersect the circumcircle of triangle ABC again at P ≠ A. Let K and L be the midpoints of AC and AB, respectively.\n\nProve that ∠KIL + ∠YPX = 180°.",
+    "statement": "Let \\(ABC\\) be a triangle with \\(AB < AC < BC\\). Let \\(I\\) and \\(\\omega\\) be the incentre and incircle of \\(ABC\\), respectively. Let \\(X\\) be the point on line \\(BC\\) different from \\(C\\) such that the line through \\(X\\) parallel to \\(AC\\) is tangent to \\(\\omega\\). Similarly, let \\(Y\\) be the point on line \\(BC\\) different from \\(B\\) such that the line through \\(Y\\) parallel to \\(AB\\) is tangent to \\(\\omega\\). Let \\(AI\\) intersect the circumcircle of \\(ABC\\) again at \\(P \\ne A\\). Let \\(K\\) and \\(L\\) be the midpoints of \\(AC\\) and \\(AB\\), respectively. Prove that \\(\\angle KIL + \\angle YPX = 180^{\\circ}\\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2024 Day 2 (English)"
+    "source": "IMO 2024 Day 2"
   },
   {
     "year": 2024,
     "day": 2,
     "problem_id": "P5",
     "topic": "Combinatorics",
-    "statement": "Turbo the snail plays a game on a board with 2024 rows and 2023 columns. There are hidden monsters in 2022 of the cells. Initially, Turbo does not know where any of the monsters are, but he knows that there is exactly one monster in each row except the first row and the last row, and that each column contains at most one monster.\n\nTurbo makes a series of attempts to go from the first row to the last row. On each attempt, he chooses to start on any cell in the first row, then repeatedly moves to an adjacent cell sharing a common side. (He is allowed to return to a previously visited cell.) If he reaches a cell with a monster, his attempt ends and he is transported back to the first row to start a new attempt. The monsters do not move, and Turbo remembers whether or not each cell he has visited contains a monster. If he reaches any cell in the last row, his attempt ends and the game is over.\n\nDetermine the minimum value of n for which Turbo has a strategy that guarantees reaching the last row on the n-th attempt or earlier, regardless of the locations of the monsters.",
+    "statement": "Turbo the snail plays a game on a board with 2024 rows and 2023 columns. There are hidden monsters in 2022 of the cells. Initially, Turbo does not know where any of the monsters are, but he knows that there is exactly one monster in each row except the first row and the last row, and that each column contains at most one monster. Determine the minimum value of \\(n\\) for which Turbo has a strategy that guarantees reaching the last row on the \\(n\\)-th attempt or earlier, regardless of the locations of the monsters.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2024 Day 2 (English)"
+    "source": "IMO 2024 Day 2"
   },
   {
     "year": 2024,
     "day": 2,
     "problem_id": "P6",
     "topic": "Algebra",
-    "statement": "Let Q be the set of rational numbers. A function f : Q → Q is called aquaesulian if the following property holds: for every x, y ∈ Q,\n\nf(x + f(y)) = f(x) + y  or  f(f(x) + y) = x + f(y).\n\nShow that there exists an integer c such that for any aquaesulian function f there are at most c different rational numbers of the form f(r) + f(−r) for some rational number r, and find the smallest possible value of c.",
+    "statement": "Let \\(\\mathbb{Q}\\) be the set of rational numbers. A function \\(f : \\mathbb{Q} \\to \\mathbb{Q}\\) is called \\textit{aquaesulian} if for every \\(x, y \\in \\mathbb{Q}\\),\n\\[f(x + f(y)) = f(x) + y\\quad\\text{or}\\quad f(f(x) + y) = x + f(y).\\]\nShow that there exists an integer \\(c\\) such that for any aquaesulian function \\(f\\) there are at most \\(c\\) different rational numbers of the form \\(f(r) + f(-r)\\) for some rational number \\(r\\), and find the smallest possible value of \\(c\\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2024 Day 2 (English)"
+    "source": "IMO 2024 Day 2"
   }
 ]
