@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Geometry",
-    "statement": "Given a triangle ABC, let I be the center of its inscribed circle. The internal bisectors of the angles A, B, C meet the opposite sides in A', B', C' respectively. Prove that\n\n1/4 < (AI · BI · CI) / (AA' · BB' · CC') ≤ 8/27.",
+    "statement": "Given a triangle \\( ABC \\), let \\( I \\) be the center of its inscribed circle. The internal bisectors of the angles \\( A, B, C \\) meet the opposite sides in \\( A', B', C' \\) respectively. Prove that\n\\[ \\frac{1}{4} < \\frac{AI \\cdot BI \\cdot CI}{AA' \\cdot BB' \\cdot CC'} \\leq \\frac{8}{27}. \\]",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1991 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Let n > 6 be an integer and a₁, a₂, …, aₖ be all the natural numbers less than n and relatively prime to n. If\n\na₂ − a₁ = a₃ − a₂ = · · · = aₖ − aₖ₋₁ > 0,\n\nprove that n must be either a prime number or a power of 2.",
+    "statement": "Let \\( n > 6 \\) be an integer and \\( a_1, a_2, \\dots, a_k \\) be all the natural numbers less than \\( n \\) and relatively prime to \\( n \\). If\n\\[ a_2 - a_1 = a_3 - a_2 = \\dots = a_k - a_{k-1} > 0, \\]\nprove that \\( n \\) must be either a prime number or a power of 2.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1991 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Combinatorics",
-    "statement": "Let S = {1, 2, 3, …, 280}. Find the smallest integer n such that each n-element subset of S contains five numbers which are pairwise relatively prime.",
+    "statement": "Let \\( S = \\{1, 2, 3, \\dots, 280\\} \\). Find the smallest integer \\( n \\) such that each \\( n \\)-element subset of \\( S \\) contains five numbers which are pairwise relatively prime.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1991 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Combinatorics",
-    "statement": "Suppose G is a connected graph with k edges. Prove that it is possible to label the edges 1, 2, …, k in such a way that at each vertex which belongs to two or more edges, the greatest common divisor of the integers labeling those edges is equal to 1.\n\n[A graph consists of a set of points, called vertices, together with a set of edges joining certain pairs of distinct vertices. Each pair of vertices u, v belongs to at most one edge. The graph G is connected if for each pair of distinct vertices x, y there is some sequence of vertices x = v₀, v₁, v₂, …, vₘ = y such that each pair vᵢ, vᵢ₊₁ is joined by an edge of G.]",
+    "statement": "Suppose \\( G \\) is a connected graph with \\( k \\) edges. Prove that it is possible to label the edges \\( 1, 2, \\dots, k \\) in such a way that at each vertex which belongs to two or more edges, the greatest common divisor of the integers labeling those edges is equal to 1.\n\n[A graph consists of a set of points, called vertices, together with a set of edges joining certain pairs of distinct vertices. Each pair of vertices \\( u, v \\) belongs to at most one edge. The graph \\( G \\) is connected if for each pair of distinct vertices \\( x, y \\) there is some sequence of vertices \\( x = v_0, v_1, v_2, \\dots, v_m = y \\) such that each pair \\( v_i, v_{i+1} \\) is joined by an edge of \\( G \\).]",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1991 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Geometry",
-    "statement": "Let ABC be a triangle and P an interior point of ABC. Show that at least one of the angles ∠PAB, ∠PBC, ∠PCA is less than or equal to 30°.",
+    "statement": "Let \\( ABC \\) be a triangle and \\( P \\) an interior point of \\( ABC \\). Show that at least one of the angles \\( \\angle PAB, \\angle PBC, \\angle PCA \\) is less than or equal to \\( 30^{\\circ} \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1991 Day 2"
@@ -54,10 +54,9 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Algebra",
-    "statement": "An infinite sequence x₀, x₁, x₂, … of real numbers is said to be bounded if there is a constant C such that |xᵢ| ≤ C for every i ≥ 0.\n\nGiven any real number a > 1, construct a bounded infinite sequence x₀, x₁, x₂, … such that\n\n|xᵢ − xⱼ| · |i − j|ᵃ ≥ 1\n\nfor every pair of distinct nonnegative integers i, j.",
+    "statement": "An infinite sequence \\( x_0, x_1, x_2, \\dots \\) of real numbers is said to be bounded if there is a constant \\( C \\) such that \\( |x_i| \\leq C \\) for every \\( i \\geq 0 \\).\n\nGiven any real number \\( a > 1 \\), construct a bounded infinite sequence \\( x_0, x_1, x_2, \\dots \\) such that\n\\[ |x_i - x_j| \\cdot |i - j|^a \\geq 1 \\]\nfor every pair of distinct nonnegative integers \\( i, j \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1991 Day 2"
   }
 ]
-
