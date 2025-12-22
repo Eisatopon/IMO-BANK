@@ -19,16 +19,16 @@
     "language": "en",
     "source": "IMO 1970 Day 1"
   },
- {
-  "year": 1970,
-  "day": 1,
-  "problem_id": "P3",
-  "topic": "Sequences",
-  "statement": "Given \\( 1 = a_0 \\leq a_1 \\leq a_2 \\leq \\dots \\), define\n\\[ b_n = \\sum_{k=1}^n \\frac{1 - \\frac{a_{k-1}}{a_k}}{\\sqrt{a_k}}. \\]\n\\begin{enumerate}\n\\item[(a)] Prove that \\( 0 \\leq b_n < 2 \\) for all \\( n \\).\n\\item[(b)] For any \\( 0 \\leq c < 2 \\), show that there exists a sequence \\(\\{a_k\\}\\) such that \\( b_n > c \\) for all sufficiently large \\( n \\).\n\\end{enumerate}",
-  "official_solution_available": true,
-  "language": "en",
-  "source": "IMO 1970 Day 1"
-},
+  {
+    "year": 1970,
+    "day": 1,
+    "problem_id": "P3",
+    "topic": "Sequences",
+    "statement": "Given \\( 1 = a_0 \\leq a_1 \\leq a_2 \\leq \\dots \\), define\n\\[ b_n = \\sum_{k=1}^n \\frac{1 - a_{k-1}/a_k}{\\sqrt{a_k}}. \\]\n\\begin{enumerate}\n\\item[(a)] Prove \\( 0 \\leq b_n < 2 \\) for all \\( n \\).\n\\item[(b)] For any \\( 0 \\leq c < 2 \\) show suitable \\(\\{a_k\\}\\) exist with \\( b_n > c \\) for all large \\( n \\).\n\\end{enumerate}",
+    "official_solution_available": true,
+    "language": "en",
+    "source": "IMO 1970 Day 1"
+  },
   {
     "year": 1970,
     "day": 2,
