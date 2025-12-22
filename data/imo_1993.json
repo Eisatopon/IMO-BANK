@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Geometry",
-    "statement": "Let \\( D \\) be a point inside acute triangle \\( ABC \\) such that\n\\[ \\angle ADB = \\angle ACB + \\pi/2 \\quad\\text{and}\\quad AC \\cdot BD = AD \\cdot BC. \\]\n\\begin{enumerate}\n\\item[(a)] Calculate the ratio \\( \\frac{AB \\cdot CD}{AC \\cdot BD} \\).\n\\item[(b)] Prove that the tangents at \\( C \\) to the circumcircles of triangles \\( ACD \\) and \\( BCD \\) are perpendicular.\n\\end{enumerate}",
+    "statement": "Let \\( D \\) be a point inside acute triangle \\( ABC \\) such that \\( \\angle ADB = \\angle ACB + \\pi/2 \\) and \\( AC \\cdot BD = AD \\cdot BC \\). (a) Calculate the ratio \\( \\frac{AB \\cdot CD}{AC \\cdot BD} \\). (b) Prove that the tangents at \\( C \\) to the circumcircles of triangles \\( ACD \\) and \\( BCD \\) are perpendicular.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1993 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Geometry",
-    "statement": "For three points \\( P, Q, R \\) in the plane, define \\( m(PQR) \\) as the minimum length of the three altitudes of triangle \\( PQR \\). (If the points are collinear, set \\( m(PQR) = 0 \\).) Prove that for any points \\( A, B, C, X \\) in the plane,\n\\[ m(ABC) \\leq m(ABX) + m(AXC) + m(XBC). \\]",
+    "statement": "For three points \\( P, Q, R \\) in the plane, define \\( m(PQR) \\) as the minimum length of the three altitudes of triangle \\( PQR \\). (If the points are collinear, set \\( m(PQR) = 0 \\).) Prove that for any points \\( A, B, C, X \\) in the plane, \\( m(ABC) \\leq m(ABX) + m(AXC) + m(XBC) \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1993 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Combinatorics",
-    "statement": "There are \\( n \\) lamps \\( L_0, L_1, \\dots, L_{n-1} \\) in a circle (\\( n > 1 \\)), where we denote \\( L_{n+k} = L_k \\). A lamp at any time is either on or off. Perform steps \\( s_0, s_1, \\dots \\) as follows: at step \\( s_i \\), if \\( L_{i-1} \\) is lit, switch \\( L_i \\) from on to off or vice versa; otherwise do nothing. Initially all lamps are on.\n\\begin{enumerate}\n\\item[(a)] There is a positive integer \\( M(n) \\) such that after \\( M(n) \\) steps all the lamps are on again;\n\\item[(b)] If \\( n = 2^k \\), we can take \\( M(n) = n^2 - 1 \\);\n\\item[(c)] If \\( n = 2^k + 1 \\), we can take \\( M(n) = n^2 - n + 1 \\).\n\\end{enumerate}",
+    "statement": "There are \\( n \\) lamps \\( L_0, L_1, \\dots, L_{n-1} \\) in a circle (\\( n > 1 \\)), where we denote \\( L_{n+k} = L_k \\). A lamp at any time is either on or off. Perform steps \\( s_0, s_1, \\dots \\) as follows: at step \\( s_i \\), if \\( L_{i-1} \\) is lit, switch \\( L_i \\) from on to off or vice versa; otherwise do nothing. Initially all lamps are on. Show that: (a) There is a positive integer \\( M(n) \\) such that after \\( M(n) \\) steps all the lamps are on again; (b) If \\( n = 2^k \\), we can take \\( M(n) = n^2 - 1 \\); (c) If \\( n = 2^k + 1 \\), we can take \\( M(n) = n^2 - n + 1 \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1993 Day 2"
