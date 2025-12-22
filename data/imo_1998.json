@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Combinatorics",
-    "statement": "In a competition, there are \\( a \\) contestants and \\( b \\) judges, where \\( b \\geq 3 \\) is an odd integer. Each judge rates each contestant as either “pass” or “fail”. Suppose \\( k \\) is a number such that, for any two judges, their ratings coincide for at most \\( k \\) contestants. Prove that\n\\[ \\frac{k}{a} \\geq \\frac{b - 1}{2b}. \\]",
+    "statement": "In a competition, there are \\( a \\) contestants and \\( b \\) judges, where \\( b \\geq 3 \\) is an odd integer. Each judge rates each contestant as either "pass" or "fail". Suppose \\( k \\) is a number such that, for any two judges, their ratings coincide for at most \\( k \\) contestants. Prove that \\(\\frac{k}{a} \\geq \\frac{b - 1}{2b}\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1998 Day 1"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Algebra",
-    "statement": "Consider all functions \\( f : \\mathbb{N} \\to \\mathbb{N} \\) satisfying\n\\[ f(t^2 f(s)) = s (f(t))^2 \\]\nfor all \\( s, t \\in \\mathbb{N} \\). Determine the least possible value of \\( f(1998) \\).",
+    "statement": "Consider all functions \\( f : \\mathbb{N} \\to \\mathbb{N} \\) satisfying \\(f(t^2 f(s)) = s (f(t))^2\\) for all \\( s, t \\in \\mathbb{N} \\). Determine the least possible value of \\( f(1998) \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1998 Day 2"
