@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Functional Equations",
-    "statement": "Find all polynomials \\( f \\) with real coefficients such that for all real numbers \\( a, b, c \\) satisfying \\( ab + bc + ca = 0 \\), we have\n\\[ f(a - b) + f(b - c) + f(c - a) = 2f(a + b + c). \\]",
+    "statement": "Find all polynomials \\( f \\) with real coefficients such that for all real numbers \\( a, b, c \\) satisfying \\( ab + bc + ca = 0 \\), we have \\(f(a - b) + f(b - c) + f(c - a) = 2f(a + b + c)\\).",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2004 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Combinatorics",
-    "statement": "Define a hook to be a figure made up of six unit squares as shown in the picture, or any of the figures obtained by applying rotations and reflections to this figure. Determine all \\( m \\times n \\) rectangles that can be covered without gaps and without overlaps with hooks such that:\n\\begin{itemize}\n\\item the rectangle is completely covered;\n\\item no part of a hook covers area outside the rectangle.\n\\end{itemize}",
+    "statement": "Define a hook to be a figure made up of six unit squares as shown in the picture, or any of the figures obtained by applying rotations and reflections to this figure. Determine all \\( m \\times n \\) rectangles that can be covered without gaps and without overlaps with hooks such that: the rectangle is completely covered; no part of a hook covers area outside the rectangle.",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2004 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Inequalities",
-    "statement": "Let \\( n \\geq 3 \\) be an integer. Let \\( t_1, t_2, \\dots, t_n \\) be positive real numbers such that\n\\[ n^2 + 1 > \\bigl(t_1 + t_2 + \\dots + t_n\\bigr) \\left( \\frac{1}{t_1} + \\frac{1}{t_2} + \\dots + \\frac{1}{t_n} \\right). \\]\nShow that \\( t_i, t_j, t_k \\) are side lengths of a triangle for all \\( i, j, k \\) with \\( 1 \\leq i < j < k \\leq n \\).",
+    "statement": "Let \\( n \\geq 3 \\) be an integer. Let \\( t_1, t_2, \\ldots, t_n \\) be positive real numbers such that \\(n^2 + 1 > (t_1 + t_2 + \\cdots + t_n)\\left(\\frac{1}{t_1} + \\frac{1}{t_2} + \\cdots + \\frac{1}{t_n}\\right)\\). Show that \\( t_i, t_j, t_k \\) are side lengths of a triangle for all \\( i, j, k \\) with \\( 1 \\leq i < j < k \\leq n \\).",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2004 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Geometry",
-    "statement": "In a convex quadrilateral \\( ABCD \\) the diagonal \\( BD \\) does not bisect the angles \\( ABC \\) and \\( CDA \\). The point \\( P \\) lies inside \\( ABCD \\) and satisfies\n\\[ \\angle PBC = \\angle DBA \\quad\\text{and}\\quad \\angle PDC = \\angle BDA. \\]\nProve that \\( ABCD \\) is a cyclic quadrilateral if and only if \\( AP = CP \\).",
+    "statement": "In a convex quadrilateral \\( ABCD \\) the diagonal \\( BD \\) does not bisect the angles \\( ABC \\) and \\( CDA \\). The point \\( P \\) lies inside \\( ABCD \\) and satisfies \\(\\angle PBC = \\angle DBA\\) and \\(\\angle PDC = \\angle BDA\\). Prove that \\( ABCD \\) is a cyclic quadrilateral if and only if \\( AP = CP \\).",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2004 Day 2"
