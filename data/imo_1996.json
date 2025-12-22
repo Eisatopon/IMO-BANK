@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Combinatorics",
-    "statement": "Given a positive integer \\( n \\), find the number of permutations \\( a_1, a_2, \\dots, a_n \\) of the numbers \\( 1, 2, \\dots, n \\) such that for every \\( i \\) with \\( 1 \\leq i \\leq n \\), the number \\( |a_i - i| \\) is odd.",
+    "statement": "Given a positive integer \\( n \\), find the number of permutations \\( a_1, a_2, \\ldots, a_n \\) of the numbers \\( 1, 2, \\ldots, n \\) such that for every \\( i \\) with \\( 1 \\leq i \\leq n \\), the number \\( |a_i - i| \\) is odd.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1996 Day 1"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Algebra",
-    "statement": "Let \\( x_1, x_2, \\dots, x_n \\) be real numbers satisfying \\( x_1 + x_2 + \\dots + x_n = 0 \\) and \\( x_1^2 + x_2^2 + \\dots + x_n^2 = 1 \\). Prove that\n\\[ \\max(x_1, x_2, \\dots, x_n) \\geq \\frac{1}{\\sqrt{n - 1}}. \\]",
+    "statement": "Let \\( x_1, x_2, \\ldots, x_n \\) be real numbers satisfying \\( x_1 + x_2 + \\cdots + x_n = 0 \\) and \\( x_1^2 + x_2^2 + \\cdots + x_n^2 = 1 \\). Prove that \\(\\max(x_1, x_2, \\ldots, x_n) \\geq \\frac{1}{\\sqrt{n - 1}}\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1996 Day 2"
