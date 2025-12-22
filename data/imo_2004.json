@@ -4,59 +4,59 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Geometry",
-    "statement": "Let ABC be an acute-angled triangle with AB ≠ AC. The circle with diameter BC intersects the sides AB and AC at M and N respectively. Denote by O the midpoint of the side BC. The bisectors of the angles ∠BAC and ∠MON intersect at R. Prove that the circumcircles of the triangles BMR and CNR have a common point lying on the side BC.",
+    "statement": "Let \\( ABC \\) be an acute-angled triangle with \\( AB \\neq AC \\). The circle with diameter \\( BC \\) intersects the sides \\( AB \\) and \\( AC \\) at \\( M \\) and \\( N \\) respectively. Denote by \\( O \\) the midpoint of the side \\( BC \\). The bisectors of the angles \\( \\angle BAC \\) and \\( \\angle MON \\) intersect at \\( R \\). Prove that the circumcircles of the triangles \\( BMR \\) and \\( CNR \\) have a common point lying on the side \\( BC \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2004 Day 1 (English)"
+    "source": "IMO 2004 Day 1"
   },
   {
     "year": 2004,
     "day": 1,
     "problem_id": "P2",
     "topic": "Functional Equations",
-    "statement": "Find all polynomials f with real coefficients such that for all real numbers a, b, c satisfying ab + bc + ca = 0, we have\n\nf(a − b) + f(b − c) + f(c − a) = 2f(a + b + c).",
+    "statement": "Find all polynomials \\( f \\) with real coefficients such that for all real numbers \\( a, b, c \\) satisfying \\( ab + bc + ca = 0 \\), we have\n\\[ f(a - b) + f(b - c) + f(c - a) = 2f(a + b + c). \\]",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2004 Day 1 (English)"
+    "source": "IMO 2004 Day 1"
   },
   {
     "year": 2004,
     "day": 1,
     "problem_id": "P3",
     "topic": "Combinatorics",
-    "statement": "Define a hook to be a figure made up of six unit squares as shown in the picture, or any of the figures obtained by applying rotations and reflections to this figure.\n\nDetermine all m × n rectangles that can be covered without gaps and without overlaps with hooks such that:\n• the rectangle is completely covered;\n• no part of a hook covers area outside the rectangle.",
+    "statement": "Define a hook to be a figure made up of six unit squares as shown in the picture, or any of the figures obtained by applying rotations and reflections to this figure. Determine all \\( m \\times n \\) rectangles that can be covered without gaps and without overlaps with hooks such that:\n\\begin{itemize}\n\\item the rectangle is completely covered;\n\\item no part of a hook covers area outside the rectangle.\n\\end{itemize}",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2004 Day 1 (English)"
+    "source": "IMO 2004 Day 1"
   },
   {
     "year": 2004,
     "day": 2,
     "problem_id": "P4",
     "topic": "Inequalities",
-    "statement": "Let n ≥ 3 be an integer. Let t1, t2, …, tn be positive real numbers such that\n\nn/2 + 1 > (t1 + t2 + · · · + tn) (1/t1 + 1/t2 + · · · + 1/tn).\n\nShow that ti, tj, tk are side lengths of a triangle for all i, j, k with 1 ≤ i < j < k ≤ n.",
+    "statement": "Let \\( n \\geq 3 \\) be an integer. Let \\( t_1, t_2, \\dots, t_n \\) be positive real numbers such that\n\\[ n^2 + 1 > \\bigl(t_1 + t_2 + \\dots + t_n\\bigr) \\left( \\frac{1}{t_1} + \\frac{1}{t_2} + \\dots + \\frac{1}{t_n} \\right). \\]\nShow that \\( t_i, t_j, t_k \\) are side lengths of a triangle for all \\( i, j, k \\) with \\( 1 \\leq i < j < k \\leq n \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2004 Day 2 (English)"
+    "source": "IMO 2004 Day 2"
   },
   {
     "year": 2004,
     "day": 2,
     "problem_id": "P5",
     "topic": "Geometry",
-    "statement": "In a convex quadrilateral ABCD the diagonal BD does not bisect the angles ABC and CDA. The point P lies inside ABCD and satisfies\n\n∠PBC = ∠DBA and ∠PDC = ∠BDA.\n\nProve that ABCD is a cyclic quadrilateral if and only if AP = CP.",
+    "statement": "In a convex quadrilateral \\( ABCD \\) the diagonal \\( BD \\) does not bisect the angles \\( ABC \\) and \\( CDA \\). The point \\( P \\) lies inside \\( ABCD \\) and satisfies\n\\[ \\angle PBC = \\angle DBA \\quad\\text{and}\\quad \\angle PDC = \\angle BDA. \\]\nProve that \\( ABCD \\) is a cyclic quadrilateral if and only if \\( AP = CP \\).",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2004 Day 2 (English)"
+    "source": "IMO 2004 Day 2"
   },
   {
     "year": 2004,
     "day": 2,
     "problem_id": "P6",
     "topic": "Number Theory",
-    "statement": "We call a positive integer alternating if every two consecutive digits in its decimal representation are of different parity.\n\nFind all positive integers n such that n has a multiple which is alternating.",
+    "statement": "We call a positive integer alternating if every two consecutive digits in its decimal representation are of different parity. Find all positive integers \\( n \\) such that \\( n \\) has a multiple which is alternating.",
     "official_solution_available": false,
     "language": "en",
-    "source": "IMO 2004 Day 2 (English)"
+    "source": "IMO 2004 Day 2"
   }
 ]
