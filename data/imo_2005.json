@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Let \\( a_1, a_2, \\dots \\) be a sequence of integers with infinitely many positive and negative terms. Suppose that for every positive integer \\( n \\) the numbers \\( a_1, a_2, \\dots, a_n \\) leave \\( n \\) different remainders upon division by \\( n \\). Prove that every integer occurs exactly once in the sequence \\( a_1, a_2, \\dots \\).",
+    "statement": "Let \\( a_1, a_2, \\ldots \\) be a sequence of integers with infinitely many positive and negative terms. Suppose that for every positive integer \\( n \\) the numbers \\( a_1, a_2, \\ldots, a_n \\) leave \\( n \\) different remainders upon division by \\( n \\). Prove that every integer occurs exactly once in the sequence \\( a_1, a_2, \\ldots \\).",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2005 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Inequalities",
-    "statement": "Let \\( x, y, z \\) be three positive real numbers such that \\( xyz \\geq 1 \\). Prove that\n\\[ \\frac{x^5 - x^2}{x^5 + y^2 + z^2} + \\frac{y^5 - y^2}{x^2 + y^5 + z^2} + \\frac{z^5 - z^2}{x^2 + y^2 + z^5} \\geq 0. \\]",
+    "statement": "Let \\( x, y, z \\) be three positive real numbers such that \\( xyz \\geq 1 \\). Prove that \\(\\frac{x^5 - x^2}{x^5 + y^2 + z^2} + \\frac{y^5 - y^2}{x^2 + y^5 + z^2} + \\frac{z^5 - z^2}{x^2 + y^2 + z^5} \\geq 0\\).",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2005 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Number Theory",
-    "statement": "Determine all positive integers that are relatively prime to all the terms of the infinite sequence\n\\[ a_n = 2^n + 3^n + 6^n - 1, \\quad n \\geq 1. \\]",
+    "statement": "Determine all positive integers that are relatively prime to all the terms of the infinite sequence \\(a_n = 2^n + 3^n + 6^n - 1\\), \\(n \\geq 1\\).",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2005 Day 2"
