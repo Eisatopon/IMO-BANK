@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Logic / Game Theory",
-    "statement": "Three players A, B and C play a game with cards bearing distinct integers p < q < r. After at least two rounds of dealing counters, A ends with 20, B with 10, C with 9 counters; in the last round B received r counters. Determine who received q counters on the first round.",
+    "statement": "Three players \\(A\\), \\(B\\) and \\(C\\) play a game with cards bearing distinct integers \\(p < q < r\\). After at least two rounds of dealing counters, \\(A\\) ends with 20, \\(B\\) with 10, \\(C\\) with 9 counters; in the last round \\(B\\) received \\(r\\) counters. Determine who received \\(q\\) counters on the first round.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1974 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Geometry",
-    "statement": "In triangle ABC prove that there exists a point D on side AB such that CD is the geometric mean of AD and DB if and only if sin A sin B ≤ sin²(C/2).",
+    "statement": "In triangle \\(ABC\\) prove that there exists a point \\(D\\) on side \\(AB\\) such that \\(CD\\) is the geometric mean of \\(AD\\) and \\(DB\\) if and only if \\(\\sin A \\sin B \\leq \\sin^2(C/2)\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1974 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Prove that the number Σ_{k=0}^n C(2n+1,2k+1) 2^{3k} is not divisible by 5 for any integer n ≥ 0.",
+    "statement": "Prove that the number \\(\\sum_{k=0}^n \\binom{2n+1}{2k+1} 2^{3k}\\) is not divisible by 5 for any integer \\(n \\geq 0\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1974 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Combinatorics",
-    "statement": "Consider decompositions of an 8×8 chessboard into p non-overlapping rectangles each with equal numbers of white and black squares. Let a_i be the number of white squares in the i-th rectangle and a_1 < a_2 < ⋯ < a_p. Find the maximum possible p and, for this p, all possible sequences (a_1, a_2, ..., a_p).",
+    "statement": "Consider decompositions of an \\(8 \\times 8\\) chessboard into \\(p\\) non-overlapping rectangles each with equal numbers of white and black squares. Let \\(a_i\\) be the number of white squares in the \\(i\\)-th rectangle and \\(a_1 < a_2 < \\cdots < a_p\\). Find the maximum possible \\(p\\) and, for this \\(p\\), all possible sequences \\((a_1, a_2, \\ldots, a_p)\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1974 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Inequalities",
-    "statement": "Determine all possible values of S = a/(a+b+d) + b/(a+b+c) + c/(b+c+d) + d/(a+c+d) where a, b, c, d are arbitrary positive real numbers.",
+    "statement": "Determine all possible values of \\(S = \\frac{a}{a+b+d} + \\frac{b}{a+b+c} + \\frac{c}{b+c+d} + \\frac{d}{a+c+d}\\) where \\(a, b, c, d\\) are arbitrary positive real numbers.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1974 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Polynomials",
-    "statement": "Let P be a non-constant polynomial with integer coefficients. If n(P) denotes the number of distinct integers k such that (P(k))² = 1, prove that n(P) − deg(P) ≤ 2.",
+    "statement": "Let \\(P\\) be a non-constant polynomial with integer coefficients. If \\(n(P)\\) denotes the number of distinct integers \\(k\\) such that \\((P(k))^2 = 1\\), prove that \\(n(P) - \\deg(P) \\leq 2\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1974 Day 2"
