@@ -9,16 +9,16 @@
     "language": "en",
     "source": "IMO 1993 Day 1"
   },
-  {
-    "year": 1993,
-    "day": 1,
-    "problem_id": "P2",
-    "topic": "Geometry",
-    "statement": "Let \\( D \\) be a point inside acute triangle \\( ABC \\) such that \\( \\angle ADB = \\angle ACB + \\frac{\\pi}{2} \\) and \\( AC \\cdot BD = AD \\cdot BC \\).\n\\begin{itemize}\n\\item[(a)] Calculate the ratio \\( \\frac{AB \\cdot CD}{AC \\cdot BD} \\).\n\\item[(b)] Prove that the tangents at \\( C \\) to the circumcircles of triangles \\( ACD \\) and \\( BCD \\) are perpendicular.\n\\end{itemize}",
-    "official_solution_available": true,
-    "language": "en",
-    "source": "IMO 1993 Day 1"
-  },
+{
+  "year": 1993,
+  "day": 1,
+  "problem_id": "P2",
+  "topic": "Geometry",
+  "statement": "Let D be a point inside acute triangle ABC such that\n\\[ \\angle ADB = \\angle ACB + \\frac{\\pi}{2} \\quad\\text{and}\\quad AC \\cdot BD = AD \\cdot BC. \\]\n\\begin{enumerate}\n\\item[(a)] Calculate the ratio \\( \\frac{AB \\cdot CD}{AC \\cdot BD} \\).\n\\item[(b)] Prove that the tangents at C to the circumcircles of triangles ACD and BCD are perpendicular.\n\\end{enumerate}",
+  "official_solution_available": true,
+  "language": "en",
+  "source": "IMO 1993 Day 1"
+},
   {
     "year": 1993,
     "day": 1,
