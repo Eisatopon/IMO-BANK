@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Geometry",
-    "statement": "In the convex quadrilateral ABCD, the diagonals AC and BD are perpendicular and the opposite sides AB and DC are not parallel. Suppose that the point P, where the perpendicular bisectors of AB and DC meet, is inside ABCD. Prove that ABCD is a cyclic quadrilateral if and only if the triangles ABP and CDP have equal areas.",
+    "statement": "In the convex quadrilateral \\( ABCD \\), the diagonals \\( AC \\) and \\( BD \\) are perpendicular and the opposite sides \\( AB \\) and \\( DC \\) are not parallel. Suppose that the point \\( P \\), where the perpendicular bisectors of \\( AB \\) and \\( DC \\) meet, is inside \\( ABCD \\). Prove that \\( ABCD \\) is a cyclic quadrilateral if and only if the triangles \\( ABP \\) and \\( CDP \\) have equal areas.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1998 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Combinatorics",
-    "statement": "In a competition, there are a contestants and b judges, where b ≥ 3 is an odd integer. Each judge rates each contestant as either “pass” or “fail”. Suppose k is a number such that, for any two judges, their ratings coincide for at most k contestants. Prove that k / a ≥ (b − 1) / (2b).",
+    "statement": "In a competition, there are \\( a \\) contestants and \\( b \\) judges, where \\( b \\geq 3 \\) is an odd integer. Each judge rates each contestant as either “pass” or “fail”. Suppose \\( k \\) is a number such that, for any two judges, their ratings coincide for at most \\( k \\) contestants. Prove that\n\\[ \\frac{k}{a} \\geq \\frac{b - 1}{2b}. \\]",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1998 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "For any positive integer n, let d(n) denote the number of positive divisors of n (including 1 and n itself). Determine all positive integers k such that d(n²) / d(n) = k for some n.",
+    "statement": "For any positive integer \\( n \\), let \\( d(n) \\) denote the number of positive divisors of \\( n \\) (including 1 and \\( n \\) itself). Determine all positive integers \\( k \\) such that \\( \\frac{d(n^2)}{d(n)} = k \\) for some \\( n \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1998 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Number Theory",
-    "statement": "Determine all pairs (a, b) of positive integers such that ab² + b + 7 divides a²b + a + b.",
+    "statement": "Determine all pairs \\( (a, b) \\) of positive integers such that \\( ab^2 + b + 7 \\) divides \\( a^2b + a + b \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1998 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Geometry",
-    "statement": "Let I be the incenter of triangle ABC. Let the incircle of ABC touch the sides BC, CA, and AB at K, L, and M, respectively. The line through B parallel to MK meets the lines LM and LK at R and S, respectively. Prove that angle RIS is acute.",
+    "statement": "Let \\( I \\) be the incenter of triangle \\( ABC \\). Let the incircle of \\( ABC \\) touch the sides \\( BC, CA, \\) and \\( AB \\) at \\( K, L, \\) and \\( M \\), respectively. The line through \\( B \\) parallel to \\( MK \\) meets the lines \\( LM \\) and \\( LK \\) at \\( R \\) and \\( S \\), respectively. Prove that angle \\( RIS \\) is acute.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1998 Day 2"
@@ -54,10 +54,9 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Algebra",
-    "statement": "Consider all functions f from the set N of all positive integers into itself satisfying f(t² f(s)) = s (f(t))² for all s and t in N. Determine the least possible value of f(1998).",
+    "statement": "Consider all functions \\( f : \\mathbb{N} \\to \\mathbb{N} \\) satisfying\n\\[ f(t^2 f(s)) = s (f(t))^2 \\]\nfor all \\( s, t \\in \\mathbb{N} \\). Determine the least possible value of \\( f(1998) \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1998 Day 2"
   }
 ]
-
