@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Functional Equations",
-    "statement": "Determine all functions \\( f : \\mathbb{R} \\to \\mathbb{R} \\) such that the equality\n\\[ f(\\lfloor x \\rfloor y) = f(x) \\lfloor f(y) \\rfloor \\]\nholds for all real numbers \\( x \\) and \\( y \\).\n\n(Here \\( \\lfloor z \\rfloor \\) denotes the greatest integer less than or equal to \\( z \\).)",
+    "statement": "Determine all functions \\( f : \\mathbb{R} \\to \\mathbb{R} \\) such that the equality \\(f(\\lfloor x \\rfloor y) = f(x) \\lfloor f(y) \\rfloor\\) holds for all real numbers \\( x \\) and \\( y \\). (Here \\( \\lfloor z \\rfloor \\) denotes the greatest integer less than or equal to \\( z \\).)",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2010 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Geometry",
-    "statement": "Let \\( I \\) be the incentre of triangle \\( ABC \\) and let \\( \\Gamma \\) be its circumcircle. Let the line \\( AI \\) intersect \\( \\Gamma \\) again at \\( D \\). Let \\( E \\) be a point on the arc \\( BDC \\) of \\( \\Gamma \\) and \\( F \\) a point on the side \\( BC \\) such that\n\\[ \\angle BAF = \\angle CAE < \\tfrac{1}{2} \\angle BAC. \\]\nFinally, let \\( G \\) be the midpoint of the segment \\( IF \\). Prove that the lines \\( DG \\) and \\( EI \\) intersect on \\( \\Gamma \\).",
+    "statement": "Let \\( I \\) be the incentre of triangle \\( ABC \\) and let \\( \\Gamma \\) be its circumcircle. Let the line \\( AI \\) intersect \\( \\Gamma \\) again at \\( D \\). Let \\( E \\) be a point on the arc \\( BDC \\) of \\( \\Gamma \\) and \\( F \\) a point on the side \\( BC \\) such that \\(\\angle BAF = \\angle CAE < \\frac{1}{2} \\angle BAC\\). Finally, let \\( G \\) be the midpoint of the segment \\( IF \\). Prove that the lines \\( DG \\) and \\( EI \\) intersect on \\( \\Gamma \\).",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2010 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Let \\( \\mathbb{N} \\) be the set of positive integers. Determine all functions \\( g : \\mathbb{N} \\to \\mathbb{N} \\) such that\n\\[ \\bigl(g(m) + n\\bigr) \\bigl(m + g(n)\\bigr) \\]\nis a perfect square for all \\( m, n \\in \\mathbb{N} \\).",
+    "statement": "Let \\( \\mathbb{N} \\) be the set of positive integers. Determine all functions \\( g : \\mathbb{N} \\to \\mathbb{N} \\) such that \\((g(m) + n)(m + g(n))\\) is a perfect square for all \\( m, n \\in \\mathbb{N} \\).",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2010 Day 1"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Combinatorics",
-    "statement": "In each of six boxes \\( B_1, B_2, B_3, B_4, B_5, B_6 \\) there is initially one coin. There are two types of operation allowed:\n\\begin{itemize}\n\\item[Type 1:] Choose a nonempty box \\( B_j \\) with \\( 1 \\leq j \\leq 5 \\). Remove one coin from \\( B_j \\) and add two coins to \\( B_{j+1} \\).\n\\item[Type 2:] Choose a nonempty box \\( B_k \\) with \\( 1 \\leq k \\leq 4 \\). Remove one coin from \\( B_k \\) and exchange the contents of (possibly empty) boxes \\( B_{k+1} \\) and \\( B_{k+2} \\).\n\\end{itemize}\nDetermine whether there is a finite sequence of such operations that results in boxes \\( B_1, B_2, B_3, B_4, B_5 \\) being empty and box \\( B_6 \\) containing exactly \\( 2010^{2010^{2010}} \\) coins.",
+    "statement": "In each of six boxes \\( B_1, B_2, B_3, B_4, B_5, B_6 \\) there is initially one coin. There are two types of operation allowed: Type 1: Choose a nonempty box \\( B_j \\) with \\( 1 \\leq j \\leq 5 \\). Remove one coin from \\( B_j \\) and add two coins to \\( B_{j+1} \\). Type 2: Choose a nonempty box \\( B_k \\) with \\( 1 \\leq k \\leq 4 \\). Remove one coin from \\( B_k \\) and exchange the contents of (possibly empty) boxes \\( B_{k+1} \\) and \\( B_{k+2} \\). Determine whether there is a finite sequence of such operations that results in boxes \\( B_1, B_2, B_3, B_4, B_5 \\) being empty and box \\( B_6 \\) containing exactly \\( 2010^{2010^{2010}} \\) coins.",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2010 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Algebra",
-    "statement": "Let \\( a_1, a_2, a_3, \\dots \\) be a sequence of positive real numbers. Suppose that for some positive integer \\( s \\), we have\n\\[ a_n = \\max_{1 \\leq k \\leq n-1} (a_k + a_{n-k}) \\]\nfor all \\( n > s \\). Prove that there exist positive integers \\( \\ell \\) and \\( N \\), with \\( \\ell \\leq s \\), such that\n\\[ a_n = a_\\ell + a_{n-\\ell} \\]\nfor all \\( n \\geq N \\).",
+    "statement": "Let \\( a_1, a_2, a_3, \\ldots \\) be a sequence of positive real numbers. Suppose that for some positive integer \\( s \\), we have \\(a_n = \\max_{1 \\leq k \\leq n-1} (a_k + a_{n-k})\\) for all \\( n > s \\). Prove that there exist positive integers \\( \\ell \\) and \\( N \\), with \\( \\ell \\leq s \\), such that \\(a_n = a_\\ell + a_{n-\\ell}\\) for all \\( n \\geq N \\).",
     "official_solution_available": false,
     "language": "en",
     "source": "IMO 2010 Day 2"
