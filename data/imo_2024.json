@@ -6,6 +6,7 @@
     "topic": "Number Theory",
     "statement": "Determine all real numbers \\(\\alpha\\) such that, for every positive integer \\(n\\), the integer\n\\[\\lfloor\\alpha\\rfloor + \\lfloor2\\alpha\\rfloor + \\cdots + \\lfloor n\\alpha\\rfloor\\]\nis a multiple of \\(n\\).\n\\(\\big(\\lfloor z\\rfloor\\) denotes the greatest integer less than or equal to \\(z\\).\\)",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2025/07/65th-international-mathematical.html",
     "language": "en",
     "source": "IMO 2024 Day 1"
   },
@@ -16,6 +17,7 @@
     "topic": "Number Theory",
     "statement": "Determine all pairs \\((a,b)\\) of positive integers for which there exist positive integers \\(g\\) and \\(N\\) such that\n\\[\\gcd(a^n + b, b^n + a) = g\\]\nfor all integers \\(n \\geqslant N\\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2025/07/65th-international-mathematical.html",
     "language": "en",
     "source": "IMO 2024 Day 1"
   },
@@ -26,6 +28,7 @@
     "topic": "Combinatorics",
     "statement": "Let \\(a_1,a_2,a_3,\\dots\\) be an infinite sequence of positive integers, and let \\(N\\) be a positive integer. Suppose that, for each \\(n > N\\), \\(a_n\\) equals the number of times \\(a_{n-1}\\) appears in the list \\(a_1,a_2,\\dots,a_{n-1}\\). Prove that at least one of the sequences \\(a_1,a_3,a_5,\\dots\\) and \\(a_2,a_4,a_6,\\dots\\) is eventually periodic.",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2025/07/65th-international-mathematical.html",
     "language": "en",
     "source": "IMO 2024 Day 1"
   },
@@ -36,6 +39,7 @@
     "topic": "Geometry",
     "statement": "Let \\(ABC\\) be a triangle with \\(AB < AC < BC\\). Let \\(I\\) and \\(\\omega\\) be the incentre and incircle of \\(ABC\\), respectively. Let \\(X\\) be the point on line \\(BC\\) different from \\(C\\) such that the line through \\(X\\) parallel to \\(AC\\) is tangent to \\(\\omega\\). Similarly, let \\(Y\\) be the point on line \\(BC\\) different from \\(B\\) such that the line through \\(Y\\) parallel to \\(AB\\) is tangent to \\(\\omega\\). Let \\(AI\\) intersect the circumcircle of \\(ABC\\) again at \\(P \\ne A\\). Let \\(K\\) and \\(L\\) be the midpoints of \\(AC\\) and \\(AB\\), respectively. Prove that \\(\\angle KIL + \\angle YPX = 180^{\\circ}\\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2025/07/65th-international-mathematical.html",
     "language": "en",
     "source": "IMO 2024 Day 2"
   },
@@ -46,6 +50,7 @@
     "topic": "Combinatorics",
     "statement": "Turbo the snail plays a game on a board with 2024 rows and 2023 columns. There are hidden monsters in 2022 of the cells. Initially, Turbo does not know where any of the monsters are, but he knows that there is exactly one monster in each row except the first row and the last row, and that each column contains at most one monster. Determine the minimum value of \\(n\\) for which Turbo has a strategy that guarantees reaching the last row on the \\(n\\)-th attempt or earlier, regardless of the locations of the monsters.",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2025/07/65th-international-mathematical.html",
     "language": "en",
     "source": "IMO 2024 Day 2"
   },
@@ -56,6 +61,7 @@
     "topic": "Algebra",
     "statement": "Let \\(\\mathbb{Q}\\) be the set of rational numbers. A function \\(f : \\mathbb{Q} \\to \\mathbb{Q}\\) is called \\textit{aquaesulian} if for every \\(x, y \\in \\mathbb{Q}\\),\n\\[f(x + f(y)) = f(x) + y\\quad\\text{or}\\quad f(f(x) + y) = x + f(y).\\]\nShow that there exists an integer \\(c\\) such that for any aquaesulian function \\(f\\) there are at most \\(c\\) different rational numbers of the form \\(f(r) + f(-r)\\) for some rational number \\(r\\), and find the smallest possible value of \\(c\\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2025/07/65th-international-mathematical.html",
     "language": "en",
     "source": "IMO 2024 Day 2"
   }
