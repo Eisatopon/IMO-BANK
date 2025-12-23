@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Combinatorics",
-    "statement": "Let \\( p_n(k) \\) be the number of permutations of the set \\(\\{1, 2, \\dots, n\\}\\), \\( n \\geq 1 \\), which have exactly \\( k \\) fixed points. Prove that\n\\[ \\sum_{k=0}^{n} k \\cdot p_n(k) = n!. \\]\n(A permutation \\( f \\) of a set \\( S \\) is a one-to-one mapping of \\( S \\) onto itself. An element \\( i \\) in \\( S \\) is called a fixed point of the permutation \\( f \\) if \\( f(i) = i \\).)",
+    "statement": "Let \\( p_n(k) \\) be the number of permutations of the set \\(\\{1, 2, \\ldots, n\\}\\), \\( n \\geq 1 \\), which have exactly \\( k \\) fixed points. Prove that \\(\\sum_{k=0}^{n} k \\cdot p_n(k) = n!\\). (A permutation \\( f \\) of a set \\( S \\) is a one-to-one mapping of \\( S \\) onto itself. An element \\( i \\) in \\( S \\) is called a fixed point of the permutation \\( f \\) if \\( f(i) = i \\).)",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1987 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Let \\( x_1, x_2, \\dots, x_n \\) be real numbers satisfying \\( x_1^2 + x_2^2 + \\dots + x_n^2 = 1 \\). Prove that for every integer \\( k \\geq 2 \\) there exist integers \\( a_1, a_2, \\dots, a_n \\), not all zero, such that \\( |a_i| \\leq k - 1 \\) for all \\( i \\) and\n\\[ |a_1x_1 + a_2x_2 + \\dots + a_nx_n| \\leq \\frac{(k - 1)\\sqrt{n}}{k^{n-1}}. \\]",
+    "statement": "Let \\( x_1, x_2, \\ldots, x_n \\) be real numbers satisfying \\( x_1^2 + x_2^2 + \\cdots + x_n^2 = 1 \\). Prove that for every integer \\( k \\geq 2 \\) there exist integers \\( a_1, a_2, \\ldots, a_n \\), not all zero, such that \\( |a_i| \\leq k - 1 \\) for all \\( i \\) and \\(|a_1x_1 + a_2x_2 + \\cdots + a_nx_n| \\leq \\frac{(k - 1)\\sqrt{n}}{k^{n-1}}\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1987 Day 1"
