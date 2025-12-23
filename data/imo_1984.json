@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Find one pair of positive integers \\( a \\) and \\( b \\) such that:\n\\begin{enumerate}\n\\item[(i)] \\( ab(a + b) \\) is not divisible by 7;\n\\item[(ii)] \\( (a + b)^7 - a^7 - b^7 \\) is divisible by \\( 7^7 \\).\n\\end{enumerate}\nJustify your answer.",
+    "statement": "Find one pair of positive integers \\( a \\) and \\( b \\) such that: (i) \\( ab(a + b) \\) is not divisible by 7; (ii) \\( (a + b)^7 - a^7 - b^7 \\) is divisible by \\( 7^7 \\). Justify your answer.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1984 Day 1"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Geometry",
-    "statement": "Let \\( d \\) be the sum of the lengths of all the diagonals of a plane convex polygon with \\( n \\) vertices (\\( n > 3 \\)), and let \\( p \\) be its perimeter. Prove that\n\\[ n - 3 < \\frac{2d}{p} < \\left\\lfloor \\frac{n}{2} \\right\\rfloor \\left\\lfloor \\frac{n+1}{2} \\right\\rfloor - 2, \\]\nwhere \\( \\lfloor x \\rfloor \\) denotes the greatest integer not exceeding \\( x \\).",
+    "statement": "Let \\( d \\) be the sum of the lengths of all the diagonals of a plane convex polygon with \\( n \\) vertices (\\( n > 3 \\)), and let \\( p \\) be its perimeter. Prove that \\(n - 3 < \\frac{2d}{p} < \\left\\lfloor \\frac{n}{2} \\right\\rfloor \\left\\lfloor \\frac{n+1}{2} \\right\\rfloor - 2\\), where \\( \\lfloor x \\rfloor \\) denotes the greatest integer not exceeding \\( x \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1984 Day 2"
