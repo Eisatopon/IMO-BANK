@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Algebra",
-    "statement": "Find all real roots of the equation √(x² − p) + 2√(x² − 1) = x, where p is a real parameter.",
+    "statement": "Find all real roots of the equation \\(\\sqrt{x^2 - p} + 2\\sqrt{x^2 - 1} = x\\), where \\(p\\) is a real parameter.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1963 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Geometry",
-    "statement": "Point A and segment BC are given. Determine the locus of points in space that are vertices of right angles with one side passing through A and the other side intersecting segment BC.",
+    "statement": "Point \\(A\\) and segment \\(BC\\) are given. Determine the locus of points in space that are vertices of right angles with one side passing through \\(A\\) and the other side intersecting segment \\(BC\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1963 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Geometry",
-    "statement": "In an n-gon all of whose interior angles are equal, the lengths of consecutive sides satisfy a₁ ≥ a₂ ≥ ⋯ ≥ aₙ. Prove that a₁ = a₂ = ⋯ = aₙ.",
+    "statement": "In an \\(n\\)-gon all of whose interior angles are equal, the lengths of consecutive sides satisfy \\(a_1 \\geq a_2 \\geq \\cdots \\geq a_n\\). Prove that \\(a_1 = a_2 = \\cdots = a_n\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1963 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Algebra",
-    "statement": "Find all solutions (x₁, x₂, x₃, x₄, x₅) of the cyclic system x₅ + x₂ = y x₁, x₁ + x₃ = y x₂, x₂ + x₄ = y x₃, x₃ + x₅ = y x₄, x₄ + x₁ = y x₅, where y is a real parameter.",
+    "statement": "Find all solutions \\((x_1, x_2, x_3, x_4, x_5)\\) of the cyclic system \\(x_5 + x_2 = y x_1\\), \\(x_1 + x_3 = y x_2\\), \\(x_2 + x_4 = y x_3\\), \\(x_3 + x_5 = y x_4\\), \\(x_4 + x_1 = y x_5\\), where \\(y\\) is a real parameter.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1963 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Trigonometry",
-    "statement": "Prove that cos(π/7) − cos(2π/7) + cos(3π/7) = 1/2.",
+    "statement": "Prove that \\(\\cos(\\pi/7) - \\cos(2\\pi/7) + \\cos(3\\pi/7) = 1/2\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1963 Day 2"
