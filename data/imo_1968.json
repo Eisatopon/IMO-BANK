@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Number Theory",
-    "statement": "Find all natural numbers x such that the product of their digits equals x² − 10x − 22.",
+    "statement": "Find all natural numbers \\(x\\) such that the product of their digits equals \\(x^2 - 10x - 22\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1968 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Algebra",
-    "statement": "Consider the cyclic system x_{i+1} = a x_i² + b x_i + c (i = 1,...,n, x_{n+1}=x_1) with a ≠ 0 and Δ = (b−1)² − 4ac. Prove: (a) if Δ < 0, no solution; (b) if Δ = 0, exactly one solution; (c) if Δ > 0, more than one solution.",
+    "statement": "Consider the cyclic system \\(x_{i+1} = a x_i^2 + b x_i + c\\) (\\(i = 1,\\ldots,n\\), \\(x_{n+1}=x_1\\)) with \\(a \\neq 0\\) and \\(\\Delta = (b-1)^2 - 4ac\\). Prove: (a) if \\(\\Delta < 0\\), no solution; (b) if \\(\\Delta = 0\\), exactly one solution; (c) if \\(\\Delta > 0\\), more than one solution.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1968 Day 1"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Functional Equations",
-    "statement": "Let f be real-valued satisfying f(x+a) = ½ + √(f(x) − f(x)²) for some constant a > 0 and all x. (a) Prove f is periodic. (b) For a = 1 exhibit a non-constant example.",
+    "statement": "Let \\(f\\) be real-valued satisfying \\(f(x+a) = \\frac{1}{2} + \\sqrt{f(x) - f(x)^2}\\) for some constant \\(a > 0\\) and all \\(x\\). (a) Prove \\(f\\) is periodic. (b) For \\(a = 1\\) exhibit a non-constant example.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1968 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Number Theory",
-    "statement": "For every natural number n evaluate the infinite sum [n/2] + [n+1/4] + [n+2/8] + ... + [n+2^k/2^{k+1}] + ... (square brackets denote floor function).",
+    "statement": "For every natural number \\(n\\) evaluate the infinite sum \\(\\lfloor n/2 \\rfloor + \\lfloor (n+1)/4 \\rfloor + \\lfloor (n+2)/8 \\rfloor + \\cdots + \\lfloor (n+2^k)/2^{k+1} \\rfloor + \\cdots\\) (square brackets denote floor function).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1968 Day 2"
