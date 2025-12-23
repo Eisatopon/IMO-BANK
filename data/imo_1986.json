@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Geometry",
-    "statement": "A triangle \\( A_1A_2A_3 \\) and a point \\( P_0 \\) are given in the plane. We define \\( A_s = A_{s-3} \\) for all \\( s \\geq 4 \\). We construct a sequence of points \\( P_1, P_2, P_3, \\dots \\) such that \\( P_{k+1} \\) is the image of \\( P_k \\) under a rotation with center \\( A_{k+1} \\) through angle \\( 120^{\\circ} \\) clockwise (for \\( k = 0, 1, 2, \\dots \\)). Prove that if \\( P_{1986} = P_0 \\), then the triangle \\( A_1A_2A_3 \\) is equilateral.",
+    "statement": "A triangle \\( A_1A_2A_3 \\) and a point \\( P_0 \\) are given in the plane. We define \\( A_s = A_{s-3} \\) for all \\( s \\geq 4 \\). We construct a sequence of points \\( P_1, P_2, P_3, \\ldots \\) such that \\( P_{k+1} \\) is the image of \\( P_k \\) under a rotation with center \\( A_{k+1} \\) through angle \\( 120^{\\circ} \\) clockwise (for \\( k = 0, 1, 2, \\ldots \\)). Prove that if \\( P_{1986} = P_0 \\), then the triangle \\( A_1A_2A_3 \\) is equilateral.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1986 Day 1"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Algebra",
-    "statement": "Find all functions \\( f \\), defined on the non-negative real numbers and taking non-negative real values, such that:\n\\begin{enumerate}\n\\item[(i)] \\( f(x f(y)) f(y) = f(x + y) \\) for all \\( x, y \\geq 0 \\),\n\\item[(ii)] \\( f(2) = 0 \\),\n\\item[(iii)] \\( f(x) \\neq 0 \\) for \\( 0 \\leq x < 2 \\).\n\\end{enumerate}",
+    "statement": "Find all functions \\( f \\), defined on the non-negative real numbers and taking non-negative real values, such that: (i) \\( f(x f(y)) f(y) = f(x + y) \\) for all \\( x, y \\geq 0 \\), (ii) \\( f(2) = 0 \\), (iii) \\( f(x) \\neq 0 \\) for \\( 0 \\leq x < 2 \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1986 Day 2"
