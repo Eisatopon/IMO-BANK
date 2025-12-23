@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Functional Equations",
-    "statement": "Find all functions \\(f\\) defined on the set of positive real numbers which take positive real values and satisfy:\n\\begin{enumerate}\n\\item[(i)] \\(f(x f(y)) = y f(x)\\) for all positive \\(x, y\\);\n\\item[(ii)] \\(f(x) \\to 0\\) as \\(x \\to \\infty\\).\n\\end{enumerate}",
+    "statement": "Find all functions \\(f\\) defined on the set of positive real numbers which take positive real values and satisfy: (i) \\(f(x f(y)) = y f(x)\\) for all positive \\(x, y\\); (ii) \\(f(x) \\to 0\\) as \\(x \\to \\infty\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1983 Day 1"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Inequalities",
-    "statement": "Let \\(a, b, c\\) be the lengths of the sides of a triangle. Prove that\n\\[ a^2b(a - b) + b^2c(b - c) + c^2a(c - a) \\geq 0 \\]\nand determine when equality occurs.",
+    "statement": "Let \\(a, b, c\\) be the lengths of the sides of a triangle. Prove that \\(a^2b(a - b) + b^2c(b - c) + c^2a(c - a) \\geq 0\\) and determine when equality occurs.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1983 Day 2"
