@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Number Theory",
-    "statement": "Prove that the fraction $\\frac{21n+4}{14n+3}$ is irreducible for every natural number $n$.",
+    "statement": "Prove that the fraction \\(\\frac{21n+4}{14n+3}\\) is irreducible for every natural number \\(n\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1959 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Algebra",
-    "statement": "For what real values of $x$ does $\\sqrt{x+\\sqrt{2x-1}}+\\sqrt{x-\\sqrt{2x-1}}=A$ hold for (a) $A=\\sqrt2$, (b) $A=1$, (c) $A=2$, admitting only non-negative square roots?",
+    "statement": "For what real values of \\(x\\) does \\(\\sqrt{x+\\sqrt{2x-1}}+\\sqrt{x-\\sqrt{2x-1}}=A\\) hold for (a) \\(A=\\sqrt{2}\\), (b) \\(A=1\\), (c) \\(A=2\\), admitting only non-negative square roots?",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1959 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Trigonometry",
-    "statement": "Given a quadratic equation $a\\cos^2x+b\\cos x+c=0$, form a quadratic equation in $\\cos 2x$ with the same roots. Compare the two equations for $a=4$, $b=2$, $c=-1$.",
+    "statement": "Given a quadratic equation \\(a\\cos^2 x+b\\cos x+c=0\\), form a quadratic equation in \\(\\cos 2x\\) with the same roots. Compare the two equations for \\(a=4\\), \\(b=2\\), \\(c=-1\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1959 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Geometric Construction",
-    "statement": "Construct a right triangle with given hypotenuse $c$ such that the median to the hypotenuse is the geometric mean of the two legs.",
+    "statement": "Construct a right triangle with given hypotenuse \\(c\\) such that the median to the hypotenuse is the geometric mean of the two legs.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1959 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Plane Geometry",
-    "statement": "Point $M$ is chosen inside segment $AB$. Squares $AMCD$ and $MBEF$ are built on the same side of $AB$; their circumcircles (centers $P$, $Q$) intersect at $M$ and $N$. Let $N'$ be the intersection of lines $AF$ and $BC$. (a) Prove $N = N'$. (b) Prove line $MN$ passes through a fixed point $S$ independent of $M$. (c) Find the locus of the midpoints of $PQ$ as $M$ moves from $A$ to $B$.",
+    "statement": "Point \\(M\\) is chosen inside segment \\(AB\\). Squares \\(AMCD\\) and \\(MBEF\\) are built on the same side of \\(AB\\); their circumcircles (centers \\(P\\), \\(Q\\)) intersect at \\(M\\) and \\(N\\). Let \\(N'\\) be the intersection of lines \\(AF\\) and \\(BC\\). (a) Prove \\(N = N'\\). (b) Prove line \\(MN\\) passes through a fixed point \\(S\\) independent of \\(M\\). (c) Find the locus of the midpoints of \\(PQ\\) as \\(M\\) moves from \\(A\\) to \\(B\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1959 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Solid Geometry",
-    "statement": "Planes $P$ and $Q$ intersect along line $p$. Point $A$ lies in $P$ and point $C$ in $Q$, neither on $p$. Construct an isosceles trapezoid $ABCD$ ($AB \parallel CD$) that admits an inscribed circle, with vertices $B$ and $D$ lying in planes $P$ and $Q$ respectively.",
+    "statement": "Planes \\(P\\) and \\(Q\\) intersect along line \\(p\\). Point \\(A\\) lies in \\(P\\) and point \\(C\\) in \\(Q\\), neither on \\(p\\). Construct an isosceles trapezoid \\(ABCD\\) (\\(AB \\parallel CD\\)) that admits an inscribed circle, with vertices \\(B\\) and \\(D\\) lying in planes \\(P\\) and \\(Q\\) respectively.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1959 Day 2"
