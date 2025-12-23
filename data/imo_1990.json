@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Algebra",
-    "statement": "Let \\( \\mathbb{Q}^+ \\) be the set of positive rational numbers. Construct a function \\( f : \\mathbb{Q}^+ \\to \\mathbb{Q}^+ \\) such that\n\\[ f(x f(y)) = \\frac{f(x)}{y} \\]\nfor all \\( x, y \\in \\mathbb{Q}^+ \\).",
+    "statement": "Let \\( \\mathbb{Q}^+ \\) be the set of positive rational numbers. Construct a function \\( f : \\mathbb{Q}^+ \\to \\mathbb{Q}^+ \\) such that \\(f(x f(y)) = \\frac{f(x)}{y}\\) for all \\( x, y \\in \\mathbb{Q}^+ \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1990 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Number Theory",
-    "statement": "Given an initial integer \\( n_0 > 1 \\), two players \\( A \\) and \\( B \\) choose integers \\( n_1, n_2, n_3, \\dots \\) alternately according to the following rules:\n\\begin{itemize}\n\\item Knowing \\( n_{2k} \\), \\( A \\) chooses any integer \\( n_{2k+1} \\) such that \\( n_{2k} \\leq n_{2k+1} \\leq n_{2k}^2 \\).\n\\item Knowing \\( n_{2k+1} \\), \\( B \\) chooses any integer \\( n_{2k+2} \\) such that \\( \\frac{n_{2k+1}}{n_{2k+2}} \\) is a prime power.\n\\end{itemize}\nPlayer \\( A \\) wins by choosing the number 1990; player \\( B \\) wins by choosing the number 1. For which \\( n_0 \\) does \\( A \\) have a winning strategy, \\( B \\) have a winning strategy, or neither have a winning strategy?",
+    "statement": "Given an initial integer \\( n_0 > 1 \\), two players \\( A \\) and \\( B \\) choose integers \\( n_1, n_2, n_3, \\ldots \\) alternately according to the following rules: Knowing \\( n_{2k} \\), \\( A \\) chooses any integer \\( n_{2k+1} \\) such that \\( n_{2k} \\leq n_{2k+1} \\leq n_{2k}^2 \\). Knowing \\( n_{2k+1} \\), \\( B \\) chooses any integer \\( n_{2k+2} \\) such that \\( \\frac{n_{2k+1}}{n_{2k+2}} \\) is a prime power. Player \\( A \\) wins by choosing the number 1990; player \\( B \\) wins by choosing the number 1. For which \\( n_0 \\) does \\( A \\) have a winning strategy, \\( B \\) have a winning strategy, or neither have a winning strategy?",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1990 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Geometry",
-    "statement": "Prove that there exists a convex 1990-gon with the following two properties:\n\\begin{enumerate}\n\\item[(a)] All angles are equal.\n\\item[(b)] The lengths of the 1990 sides are the numbers \\( 1^2, 2^2, 3^2, \\dots, 1990^2 \\) in some order.\n\\end{enumerate}",
+    "statement": "Prove that there exists a convex 1990-gon with the following two properties: (a) All angles are equal. (b) The lengths of the 1990 sides are the numbers \\( 1^2, 2^2, 3^2, \\ldots, 1990^2 \\) in some order.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1990 Day 2"
