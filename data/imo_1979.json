@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Number Theory",
-    "statement": "Let \\( p \\) and \\( q \\) be natural numbers such that\n\\[ \\frac{p}{q} = 1 - \\frac{1}{2} + \\frac{1}{3} - \\frac{1}{4} + \\dots - \\frac{1}{1318} + \\frac{1}{1319}. \\]\nProve that \\( p \\) is divisible by 1979.",
+    "statement": "Let \\( p \\) and \\( q \\) be natural numbers such that \\(\\frac{p}{q} = 1 - \\frac{1}{2} + \\frac{1}{3} - \\frac{1}{4} + \\cdots - \\frac{1}{1318} + \\frac{1}{1319}\\). Prove that \\( p \\) is divisible by 1979.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1979 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Combinatorics",
-    "statement": "A prism with pentagons \\( A_1A_2A_3A_4A_5 \\) and \\( B_1B_2B_3B_4B_5 \\) as top and bottom faces is given. Each side of the two pentagons and each of the segments \\( A_iB_j \\) for \\( i,j = 1,\\dots,5 \\) is colored either red or green. Every triangle whose vertices are vertices of the prism and whose sides have all been colored has two sides of different color. Show that all 10 sides of the top and bottom faces are the same color.",
+    "statement": "A prism with pentagons \\( A_1A_2A_3A_4A_5 \\) and \\( B_1B_2B_3B_4B_5 \\) as top and bottom faces is given. Each side of the two pentagons and each of the segments \\( A_iB_j \\) for \\( i,j = 1,\\ldots,5 \\) is colored either red or green. Every triangle whose vertices are vertices of the prism and whose sides have all been colored has two sides of different color. Show that all 10 sides of the top and bottom faces are the same color.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1979 Day 1"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Algebra",
-    "statement": "Find all real numbers \\( a \\) for which there exist non-negative real numbers \\( x_1, x_2, x_3, x_4, x_5 \\) satisfying\n\\[ \\sum_{k=1}^{5} k x_k = a, \\quad \\sum_{k=1}^{5} k^3 x_k = a^2, \\quad \\sum_{k=1}^{5} k^5 x_k = a^3. \\]",
+    "statement": "Find all real numbers \\( a \\) for which there exist non-negative real numbers \\( x_1, x_2, x_3, x_4, x_5 \\) satisfying \\(\\sum_{k=1}^{5} k x_k = a\\), \\(\\sum_{k=1}^{5} k^3 x_k = a^2\\), \\(\\sum_{k=1}^{5} k^5 x_k = a^3\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1979 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Combinatorics",
-    "statement": "Let \\( A \\) and \\( E \\) be opposite vertices of a regular octagon. A frog starts jumping at vertex \\( A \\). From any vertex of the octagon except \\( E \\), it may jump to either of the two adjacent vertices. When it reaches vertex \\( E \\), the frog stops and stays there. Let \\( a_n \\) be the number of distinct paths of exactly \\( n \\) jumps ending at \\( E \\). Prove that \\( a_{2n-1}=0 \\) and\n\\[ a_{2n}= \\frac{x^{n-1} - y^{n-1}}{\\sqrt{2}}, \\quad \\text{where } x = 2 + \\sqrt{2} \\text{ and } y = 2 - \\sqrt{2}. \\]",
+    "statement": "Let \\( A \\) and \\( E \\) be opposite vertices of a regular octagon. A frog starts jumping at vertex \\( A \\). From any vertex of the octagon except \\( E \\), it may jump to either of the two adjacent vertices. When it reaches vertex \\( E \\), the frog stops and stays there. Let \\( a_n \\) be the number of distinct paths of exactly \\( n \\) jumps ending at \\( E \\). Prove that \\( a_{2n-1}=0 \\) and \\(a_{2n}= \\frac{x^{n-1} - y^{n-1}}{\\sqrt{2}}\\), where \\(x = 2 + \\sqrt{2}\\) and \\(y = 2 - \\sqrt{2}\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1979 Day 2"
