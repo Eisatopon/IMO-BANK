@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Let \\(n\\) be a given integer \\(> 2\\) and let \\(V_n\\) be the set of integers \\(1 + kn\\), \\(k = 1, 2, \\dots \\). A number \\(m \\in V_n\\) is called indecomposable in \\(V_n\\) if there do not exist numbers \\(p, q \\in V_n\\) such that \\(pq = m\\). Prove that there exists a number \\(r \\in V_n\\) that can be expressed as the product of elements indecomposable in \\(V_n\\) in more than one way (products differing only in the order of factors are considered the same).",
+    "statement": "Let \\(n\\) be a given integer \\(> 2\\) and let \\(V_n\\) be the set of integers \\(1 + kn\\), \\(k = 1, 2, \\ldots\\). A number \\(m \\in V_n\\) is called indecomposable in \\(V_n\\) if there do not exist numbers \\(p, q \\in V_n\\) such that \\(pq = m\\). Prove that there exists a number \\(r \\in V_n\\) that can be expressed as the product of elements indecomposable in \\(V_n\\) in more than one way (products differing only in the order of factors are considered the same).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1977 Day 1"
