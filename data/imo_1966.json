@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Geometry",
-    "statement": "Let a, b, c be the side lengths of a triangle and α, β, γ the opposite angles. Prove that if a + b = tan(γ/2)(a tan α + b tan β), then the triangle is isosceles.",
+    "statement": "Let \\(a, b, c\\) be the side lengths of a triangle and \\(\\alpha, \\beta, \\gamma\\) the opposite angles. Prove that if \\(a + b = \\tan(\\gamma/2)(a \\tan \\alpha + b \\tan \\beta)\\), then the triangle is isosceles.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1966 Day 1"
@@ -34,7 +34,7 @@
     "day": 2,
     "problem_id": "P4",
     "topic": "Trigonometry",
-    "statement": "Prove that for every natural number n and every real x ≠ kπ/2^t (t = 0,1,...,n; k any integer), 1/sin 2x + 1/sin 4x + ... + 1/sin 2^n x = cot x - cot 2^n x.",
+    "statement": "Prove that for every natural number \\(n\\) and every real \\(x \\neq k\\pi/2^t\\) (\\(t = 0,1,\\ldots,n\\); \\(k\\) any integer), \\(\\frac{1}{\\sin 2x} + \\frac{1}{\\sin 4x} + \\cdots + \\frac{1}{\\sin 2^n x} = \\cot x - \\cot 2^n x\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1966 Day 2"
@@ -44,7 +44,7 @@
     "day": 2,
     "problem_id": "P5",
     "topic": "Linear Algebra",
-    "statement": "Solve the system |a₁−a₂|x₂ + |a₁−a₃|x₃ + |a₁−a₄|x₄ = 1, |a₂−a₁|x₁ + |a₂−a₃|x₃ + |a₂−a₄|x₄ = 1, |a₃−a₁|x₁ + |a₃−a₂|x₂ + |a₃−a₄|x₄ = 1, |a₄−a₁|x₁ + |a₄−a₂|x₂ + |a₄−a₃|x₃ = 1, where a₁, a₂, a₃, a₄ are four distinct real numbers.",
+    "statement": "Solve the system \\(|a_1-a_2|x_2 + |a_1-a_3|x_3 + |a_1-a_4|x_4 = 1\\), \\(|a_2-a_1|x_1 + |a_2-a_3|x_3 + |a_2-a_4|x_4 = 1\\), \\(|a_3-a_1|x_1 + |a_3-a_2|x_2 + |a_3-a_4|x_4 = 1\\), \\(|a_4-a_1|x_1 + |a_4-a_2|x_2 + |a_4-a_3|x_3 = 1\\), where \\(a_1, a_2, a_3, a_4\\) are four distinct real numbers.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1966 Day 2"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Geometry",
-    "statement": "Points K, L, M are chosen inside sides BC, CA, AB of triangle ABC respectively. Prove that the area of at least one of the triangles AML, BKM, CLK is ≤ one quarter of the area of triangle ABC.",
+    "statement": "Points \\(K, L, M\\) are chosen inside sides \\(BC, CA, AB\\) of triangle \\(ABC\\) respectively. Prove that the area of at least one of the triangles \\(AML, BKM, CLK\\) is \\(\\leq\\) one quarter of the area of triangle \\(ABC\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1966 Day 2"
