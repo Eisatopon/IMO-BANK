@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Inequalities",
-    "statement": "Consider the infinite sequences \\(\\{x_n\\}\\) of positive real numbers with \\(x_0=1\\) and for all \\(i\\geq 0\\), \\(x_{i+1}\\leq x_i\\).\n\\begin{enumerate}\n\\item[(a)] Prove that for every such sequence there is an \\(n\\geq 1\\) such that\n\\[\\frac{x_0^2}{x_1}+\\frac{x_1^2}{x_2}+\\dots+\\frac{x_{n-1}^2}{x_n}\\geq 3.999.\\]\n\\item[(b)] Find such a sequence for which\n\\[\\frac{x_0^2}{x_1}+\\frac{x_1^2}{x_2}+\\dots+\\frac{x_{n-1}^2}{x_n}<4\\quad\\text{for every }n.\\]\n\\end{enumerate}",
+    "statement": "Consider the infinite sequences \\(\\{x_n\\}\\) of positive real numbers with \\(x_0=1\\) and for all \\(i\\geq 0\\), \\(x_{i+1}\\leq x_i\\). (a) Prove that for every such sequence there is an \\(n\\geq 1\\) such that \\(\\frac{x_0^2}{x_1}+\\frac{x_1^2}{x_2}+\\cdots+\\frac{x_{n-1}^2}{x_n}\\geq 3.999\\). (b) Find such a sequence for which \\(\\frac{x_0^2}{x_1}+\\frac{x_1^2}{x_2}+\\cdots+\\frac{x_{n-1}^2}{x_n}<4\\) for every \\(n\\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1982 Day 1"
@@ -54,7 +54,7 @@
     "day": 2,
     "problem_id": "P6",
     "topic": "Combinatorial Geometry",
-    "statement": "Let \\(S\\) be a square with sides of length 100, and let \\(L\\) be a path within \\(S\\) which does not meet itself and which is composed of line segments \\(A_0A_1,A_1A_2,\\dots,A_{n-1}A_n\\) with \\(A_0\\neq A_n\\). Suppose that for every point \\(P\\) of the boundary of \\(S\\) there is a point of \\(L\\) at a distance from \\(P\\) not greater than \\(1/2\\). Prove that there are two points \\(X\\) and \\(Y\\) in \\(L\\) such that the distance between \\(X\\) and \\(Y\\) is not greater than 1 and the length of that part of \\(L\\) which lies between \\(X\\) and \\(Y\\) is not smaller than 198.",
+    "statement": "Let \\(S\\) be a square with sides of length 100, and let \\(L\\) be a path within \\(S\\) which does not meet itself and which is composed of line segments \\(A_0A_1,A_1A_2,\\ldots,A_{n-1}A_n\\) with \\(A_0\\neq A_n\\). Suppose that for every point \\(P\\) of the boundary of \\(S\\) there is a point of \\(L\\) at a distance from \\(P\\) not greater than \\(1/2\\). Prove that there are two points \\(X\\) and \\(Y\\) in \\(L\\) such that the distance between \\(X\\) and \\(Y\\) is not greater than 1 and the length of that part of \\(L\\) which lies between \\(X\\) and \\(Y\\) is not smaller than 198.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1982 Day 2"
