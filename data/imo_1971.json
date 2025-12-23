@@ -4,7 +4,7 @@
     "day": 1,
     "problem_id": "P1",
     "topic": "Inequalities",
-    "statement": "Prove that the assertion\n\\[ (a_1-a_2)(a_1-a_3)\\cdots(a_1-a_n)+\\cdots+(a_n-a_1)(a_n-a_2)\\cdots(a_n-a_{n-1})\\geq 0 \\]\nis true for \\( n=3 \\) and \\( n=5 \\), and false for every other natural number \\( n>2 \\).",
+    "statement": "Prove that the assertion \\((a_1-a_2)(a_1-a_3)\\cdots(a_1-a_n)+\\cdots+(a_n-a_1)(a_n-a_2)\\cdots(a_n-a_{n-1})\\geq 0\\) is true for \\( n=3 \\) and \\( n=5 \\), and false for every other natural number \\( n>2 \\).",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1971 Day 1"
@@ -14,7 +14,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Combinatorial Geometry",
-    "statement": "Let \\( P_1 \\) be a convex polyhedron with nine vertices \\( A_1,\\dots,A_9 \\) and let \\( P_i \\) be the translate of \\( P_1 \\) sending \\( A_1 \\) to \\( A_i \\) (\\( i=2,\\dots,9 \\)). Prove that at least two of the polyhedra \\( P_1,\\dots,P_9 \\) have an interior point in common.",
+    "statement": "Let \\( P_1 \\) be a convex polyhedron with nine vertices \\( A_1,\\ldots,A_9 \\) and let \\( P_i \\) be the translate of \\( P_1 \\) sending \\( A_1 \\) to \\( A_i \\) (\\( i=2,\\ldots,9 \\)). Prove that at least two of the polyhedra \\( P_1,\\ldots,P_9 \\) have an interior point in common.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1971 Day 1"
@@ -24,7 +24,7 @@
     "day": 1,
     "problem_id": "P3",
     "topic": "Number Theory",
-    "statement": "Prove that the set of integers of the form \\( 2^k-3 \\) (\\( k=2,3,\\dots \\)) contains an infinite subset in which every two members are relatively prime.",
+    "statement": "Prove that the set of integers of the form \\( 2^k-3 \\) (\\( k=2,3,\\ldots \\)) contains an infinite subset in which every two members are relatively prime.",
     "official_solution_available": true,
     "language": "en",
     "source": "IMO 1971 Day 1"
