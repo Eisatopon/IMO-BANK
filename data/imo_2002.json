@@ -6,6 +6,7 @@
     "topic": "Combinatorics",
     "statement": "Let \\( n \\) be a positive integer. Let \\( S \\) be the set of all pairs \\( (h, k) \\) of non-negative integers such that \\( h + k < n \\). Each element of \\( S \\) is coloured either red or blue, with the property that if \\( (h, k) \\) is red and \\( 0 \\leq h' \\leq h \\), \\( 0 \\leq k' \\leq k \\), then \\( (h', k') \\) is also red. A type 1 subset of \\( S \\) consists of \\( n \\) blue elements with distinct first coordinates, and a type 2 subset of \\( S \\) consists of \\( n \\) blue elements with distinct second coordinates. Prove that the number of type 1 subsets is equal to the number of type 2 subsets.",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2002-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2002 Day 1"
   },
@@ -16,6 +17,7 @@
     "topic": "Geometry",
     "statement": "Let \\( BC \\) be a diameter of a circle with centre \\( O \\). Let \\( A \\) be a point on the circle such that \\( \\angle AOC > 60^{\\circ} \\). Let \\( EF \\) be the chord which is the perpendicular bisector of \\( AO \\). Let \\( D \\) be the midpoint of the minor arc \\( AB \\). The line through \\( O \\) parallel to \\( AD \\) meets \\( AC \\) at \\( J \\). Prove that \\( J \\) is the incenter of triangle \\( CEF \\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2002-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2002 Day 1"
   },
@@ -26,6 +28,7 @@
     "topic": "Number Theory",
     "statement": "Find all pairs of integers \\( m > 2 \\) and \\( n > 2 \\) such that there exist infinitely many positive integers \\( k \\) for which \\(k^n + k^2 - 1 \\mid k^m + k - 1\\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2002-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2002 Day 1"
   },
@@ -36,6 +39,7 @@
     "topic": "Number Theory",
     "statement": "Let the positive divisors of an integer \\( n > 1 \\) be \\( d_1 < d_2 < \\ldots < d_k \\), where \\( d_1 = 1 \\) and \\( d_k = n \\). Define \\(d = d_1d_2 + d_2d_3 + \\cdots + d_{k-1}d_k\\). Prove that \\( d < n^2 \\) and determine all integers \\( n \\) for which \\( d \\mid n^2 \\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2002-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2002 Day 2"
   },
@@ -46,6 +50,7 @@
     "topic": "Functional Equations",
     "statement": "Find all real-valued functions \\( f \\) defined on the real numbers such that \\((f(x) + f(y))(f(u) + f(v)) = f(xu - yv) + f(xv + yu)\\) for all real numbers \\( x, y, u, v \\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2002-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2002 Day 2"
   },
@@ -56,6 +61,7 @@
     "topic": "Geometry",
     "statement": "Let \\( n > 2 \\) circles of radius 1 be drawn in the plane in such a way that no line meets more than two of the circles. Their centres are \\( O_1, O_2, \\ldots, O_n \\). Prove that \\(\\sum_{1 \\leq i < j \\leq n} \\frac{1}{O_iO_j} \\leq \\frac{(n - 1)\\pi}{4}\\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2002-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2002 Day 2"
   }
