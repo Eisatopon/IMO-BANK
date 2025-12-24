@@ -6,6 +6,7 @@
     "topic": "Combinatorics",
     "statement": "Given a positive integer \\( n \\), find the number of permutations \\( a_1, a_2, \\ldots, a_n \\) of the numbers \\( 1, 2, \\ldots, n \\) such that for every \\( i \\) with \\( 1 \\leq i \\leq n \\), the number \\( |a_i - i| \\) is odd.",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1996-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1996 Day 1"
   },
@@ -16,6 +17,7 @@
     "topic": "Geometry",
     "statement": "Let \\( ABC \\) be a triangle and let \\( D \\) be a point on side \\( BC \\) such that \\( AD \\) is the angle bisector of angle \\( A \\). The incircle of triangle \\( ABC \\) touches \\( BC \\) at \\( E \\). Prove that \\( DE \\) is perpendicular to \\( AI \\), where \\( I \\) is the incentre of triangle \\( ABC \\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1996-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1996 Day 1"
   },
@@ -26,6 +28,7 @@
     "topic": "Number Theory",
     "statement": "Determine all integers \\( n \\geq 2 \\) for which there exists a set of \\( n \\) consecutive positive integers such that none of them is divisible by any prime number greater than \\( n \\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1996-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1996 Day 1"
   },
@@ -36,6 +39,7 @@
     "topic": "Geometry",
     "statement": "Let \\( ABC \\) be a triangle with circumcircle \\( \\Gamma \\). The tangent to \\( \\Gamma \\) at \\( A \\) meets the line \\( BC \\) at \\( D \\). Prove that the reflection of \\( D \\) across \\( AB \\) lies on the circumcircle of triangle \\( ABC \\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1996-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1996 Day 2"
   },
@@ -46,6 +50,7 @@
     "topic": "Algebra",
     "statement": "Let \\( x_1, x_2, \\ldots, x_n \\) be real numbers satisfying \\( x_1 + x_2 + \\cdots + x_n = 0 \\) and \\( x_1^2 + x_2^2 + \\cdots + x_n^2 = 1 \\). Prove that \\(\\max(x_1, x_2, \\ldots, x_n) \\geq \\frac{1}{\\sqrt{n - 1}}\\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1996-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1996 Day 2"
   },
@@ -56,6 +61,7 @@
     "topic": "Number Theory",
     "statement": "Let \\( n \\) be a positive integer. Determine the number of ordered pairs \\( (a, b) \\) of integers such that \\( 1 \\leq a \\leq n \\), \\( 1 \\leq b \\leq n \\) and \\( \\gcd(a, b) = 1 \\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1996-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1996 Day 2"
   }
