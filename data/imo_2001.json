@@ -6,6 +6,7 @@
     "topic": "Geometry",
     "statement": "Let \\( ABC \\) be an acute-angled triangle with circumcentre \\( O \\). Let \\( P \\) on \\( BC \\) be the foot of the altitude from \\( A \\). Suppose that \\( \\angle BCA - \\angle ABC = 30^{\\circ} \\). Prove that \\( \\angle CAB + \\angle COP = 90^{\\circ} \\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2001-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2001 Day 1"
   },
@@ -16,6 +17,7 @@
     "topic": "Inequalities",
     "statement": "Prove that\n\\[ \\frac{a}{\\sqrt{a^2 + 8bc}} + \\frac{b}{\\sqrt{b^2 + 8ca}} + \\frac{c}{\\sqrt{c^2 + 8ab}} \\leq 1 \\]\nfor all positive real numbers \\( a, b \\) and \\( c \\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2001-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2001 Day 1"
   },
@@ -26,6 +28,7 @@
     "topic": "Combinatorics",
     "statement": "Twenty-one girls and twenty-one boys took part in a mathematical contest.\n\\begin{itemize}\n\\item Each contestant solved at most six problems.\n\\item For each girl and each boy, at least one problem was solved by both of them.\n\\end{itemize}\nProve that there was a problem that was solved by at least three girls and at least three boys.",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2001-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2001 Day 1"
   },
@@ -36,6 +39,7 @@
     "topic": "Number Theory",
     "statement": "Let \\( n \\) be an odd integer greater than 1, and let \\( k_1, k_2, \\dots, k_n \\) be given integers. For each of the \\( n! \\) permutations \\( a = (a_1, a_2, \\dots, a_n) \\) of \\( (1, 2, \\dots, n) \\), let\n\\[ S(a) = k_1 a_1 + k_2 a_2 + \\dots + k_n a_n. \\]\nProve that there are two permutations \\( b \\) and \\( c \\), \\( b \\neq c \\), such that \\( n! \\) divides \\( S(b) - S(c) \\).",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2001-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2001 Day 2"
   },
@@ -46,6 +50,7 @@
     "topic": "Geometry",
     "statement": "In a triangle \\( ABC \\), let \\( AP \\) bisect \\( \\angle BAC \\), with \\( P \\) on \\( BC \\), and let \\( BQ \\) bisect \\( \\angle ABC \\), with \\( Q \\) on \\( CA \\). It is known that \\( \\angle BAC = 60^{\\circ} \\) and that \\( AB \\cdot BP = AQ \\cdot QB \\). What are the possible angles of triangle \\( ABC \\)?",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2001-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2001 Day 2"
   },
@@ -56,6 +61,7 @@
     "topic": "Number Theory",
     "statement": "Let \\( a, b, c, d \\) be integers with \\( a < b < c < d < 0 \\). Suppose that\n\\[ ac + bd = bc + ad. \\]\nProve that \\( abcd \\) is not prime.",
     "official_solution_available": false,
+    "shortlist_link": "https://www.eisatopon.gr/2023/03/imo-2001-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 2001 Day 2"
   }
