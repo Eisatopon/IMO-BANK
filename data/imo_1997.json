@@ -6,6 +6,7 @@
     "topic": "Geometry",
     "statement": "Given triangle \\( ABC \\) with circumcircle \\( \\Gamma \\) and incentre \\( I \\), the incircle touches sides \\( BC, CA, AB \\) at \\( D, E, F \\) respectively. Let \\( K \\) be the intersection of \\( AI \\) with \\( \\Gamma \\) again. Prove that the line \\( DK \\) is tangent to \\( \\Gamma \\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1997-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1997 Day 1"
   },
@@ -16,6 +17,7 @@
     "topic": "Number Theory",
     "statement": "Let \\( p \\) be a prime number. Prove that there exists a prime number \\( q \\) such that for every integer \\( n \\), the number \\( n^p - n \\) is divisible by \\( q \\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1997-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1997 Day 1"
   },
@@ -26,6 +28,7 @@
     "topic": "Algebra",
     "statement": "Let \\( x_1, x_2, \\ldots, x_n \\) be real numbers such that \\( x_1 + x_2 + \\cdots + x_n = 0 \\) and \\( x_1^2 + x_2^2 + \\cdots + x_n^2 = 1 \\). Prove that \\(\\max(x_1, x_2, \\ldots, x_n) \\geq \\frac{1}{\\sqrt{n - 1}}\\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1997-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1997 Day 1"
   },
@@ -36,6 +39,7 @@
     "topic": "Geometry",
     "statement": "In triangle \\( ABC \\), the bisector of angle \\( A \\) meets side \\( BC \\) at \\( D \\). The circumcircle of triangle \\( ABD \\) meets \\( AC \\) again at \\( E \\). Prove that \\( DE \\) is tangent to the circumcircle of triangle \\( ACD \\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1997-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1997 Day 2"
   },
@@ -46,6 +50,7 @@
     "topic": "Combinatorics",
     "statement": "In a group of \\( n \\) people, each pair of people are either friends or enemies. Prove that there exists a person such that the number of his friends is at least the number of his enemies.",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1997-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1997 Day 2"
   },
@@ -56,6 +61,7 @@
     "topic": "Number Theory",
     "statement": "Let \\( a_1, a_2, \\ldots \\) be an infinite sequence of integers satisfying \\( 1 \\leq a_j \\leq 1997 \\) for all \\( j \\geq 1 \\) and \\( a_k + k \\neq a_l + l \\) for all \\( 1 \\leq k < l \\). Prove that there exist positive integers \\( b \\) and \\( N \\) such that \\(\\left|\\sum_{j = m + 1}^n (a_j - b)\\right| \\leq 1000\\) for all integers \\( m \\) and \\( n \\) with \\( n > m > N \\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1997-shortlisted-problems-with.html",
     "language": "en",
     "source": "IMO 1997 Day 2"
   }
