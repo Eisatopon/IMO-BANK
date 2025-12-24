@@ -6,6 +6,7 @@
     "topic": "Geometry",
     "statement": "Let \\( A, B, C, D \\) be four distinct points on a line, in that order. The circles with diameters \\( AC \\) and \\( BD \\) intersect at \\( X \\) and \\( Y \\). The line \\( XY \\) meets \\( BC \\) at \\( Z \\). Let \\( P \\) be a point on the line \\( XY \\) other than \\( Z \\). The line \\( CP \\) intersects the circle with diameter \\( AC \\) at \\( C \\) and \\( M \\), and the line \\( BP \\) intersects the circle with diameter \\( BD \\) at \\( B \\) and \\( N \\). Prove that the lines \\( AM, DN, \\) and \\( XY \\) are concurrent.",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2012/07/36th-imo-1995-canada-shortlisted.html",
     "language": "en",
     "source": "IMO 1995 Day 1"
   },
@@ -16,6 +17,7 @@
     "topic": "Algebra",
     "statement": "Let \\( a, b, c \\) be positive real numbers such that \\( abc = 1 \\). Prove that \\(\\frac{1}{a^3(b + c)} + \\frac{1}{b^3(c + a)} + \\frac{1}{c^3(a + b)} \\geq \\frac{3}{2}\\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2012/07/36th-imo-1995-canada-shortlisted.html",
     "language": "en",
     "source": "IMO 1995 Day 1"
   },
@@ -26,6 +28,7 @@
     "topic": "Combinatorics",
     "statement": "Determine all integers \\( n > 3 \\) for which there exist \\( n \\) points \\( A_1, A_2, \\ldots, A_n \\) in the plane, no three collinear, and real numbers \\( r_1, r_2, \\ldots, r_n \\) such that for all \\( 1 \\leq i < j < k \\leq n \\), the area of triangle \\( A_iA_jA_k \\) is equal to \\( r_i + r_j + r_k \\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2012/07/36th-imo-1995-canada-shortlisted.html",
     "language": "en",
     "source": "IMO 1995 Day 1"
   },
@@ -36,6 +39,7 @@
     "topic": "Algebra",
     "statement": "Find the maximum value of \\( x_0 \\) for which there exists a sequence \\( x_0, x_1, \\ldots, x_{1995} \\) of positive real numbers with \\( x_0 = x_{1995} \\), such that for \\( i = 1, 2, \\ldots, 1995 \\), \\(x_{i - 1} + \\frac{2}{x_{i - 1}} = 2x_i + \\frac{1}{x_i}\\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2012/07/36th-imo-1995-canada-shortlisted.html",
     "language": "en",
     "source": "IMO 1995 Day 2"
   },
@@ -46,6 +50,7 @@
     "topic": "Geometry",
     "statement": "Let \\( ABCDEF \\) be a convex hexagon with \\( AB = BC = CD \\) and \\( DE = EF = FA \\), such that \\( \\angle BCD = \\angle EFA = \\frac{\\pi}{3} \\). Suppose \\( G \\) and \\( H \\) are points in the interior of the hexagon such that \\( \\angle AGB = \\angle DHE = \\frac{2\\pi}{3} \\). Prove that \\(AG + GB + GH + DH + HE \\geq CF\\).",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2012/07/36th-imo-1995-canada-shortlisted.html",
     "language": "en",
     "source": "IMO 1995 Day 2"
   },
@@ -56,6 +61,7 @@
     "topic": "Combinatorics",
     "statement": "Let \\( p \\) be an odd prime number. How many \\( p \\)-element subsets \\( A \\) of \\( \\{1, 2, \\ldots, 2p\\} \\) are there such that the sum of the elements of \\( A \\) is divisible by \\( p \\)?",
     "official_solution_available": true,
+    "shortlist_link": "https://www.eisatopon.gr/2012/07/36th-imo-1995-canada-shortlisted.html",
     "language": "en",
     "source": "IMO 1995 Day 2"
   }
