@@ -15,7 +15,7 @@
     "day": 1,
     "problem_id": "P2",
     "topic": "Combinatorics",
-    "statement": "In a competition, there are \\( a \\) contestants and \\( b \\) judges, where \\( b \\geq 3 \\) is an odd integer. Each judge rates each contestant as either "pass" or "fail". Suppose \\( k \\) is a number such that, for any two judges, their ratings coincide for at most \\( k \\) contestants. Prove that \\(\\frac{k}{a} \\geq \\frac{b - 1}{2b}\\).",
+    "statement": "In a competition, there are \\( a \\) contestants and \\( b \\) judges, where \\( b \\geq 3 \\) is an odd integer. Each judge rates each contestant as either \"pass\" or \"fail\". Suppose \\( k \\) is a number such that, for any two judges, their ratings coincide for at most \\( k \\) contestants. Prove that \\(\\frac{k}{a} \\geq \\frac{b - 1}{2b}\\).",
     "official_solution_available": true,
     "shortlist_link": "https://www.eisatopon.gr/2025/12/imo-1998-shortlisted-problems-with.html",
     "language": "en",
